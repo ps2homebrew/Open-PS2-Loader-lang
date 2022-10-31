@@ -389,3 +389,48 @@ translations:
   ACT_TOGGLED:
   - untranslated
   - original: Toggled by button
+  LANGUAGE_JAPANESE:
+  - untranslated
+  - original: JAPANESE
+  LANGUAGE_ENGLISH:
+  - untranslated
+  - original: ENGLISH
+  LANGUAGE_FRENCH:
+  - untranslated
+  - original: FRENCH
+  LANGUAGE_SPANISH:
+  - untranslated
+  - original: SPANISH
+  LANGUAGE_GERMAN:
+  - untranslated
+  - original: GERMAN
+  LANGUAGE_ITALIAN:
+  - untranslated
+  - original: ITALIAN
+  LANGUAGE_DUTCH:
+  - untranslated
+  - original: DUTCH
+  LANGUAGE_PORTUGUESE:
+  - untranslated
+  - original: PORTUGUESE
+  LANGUAGE_RUSSIAN:
+  - untranslated
+  - original: RUSSIAN
+  LANGUAGE_KOREAN:
+  - untranslated
+  - original: KOREAN
+  LANGUAGE_TRAD_CHINESE:
+  - untranslated
+  - original: TRADITIONAL CHINESE
+  LANGUAGE_SIMPL_CHINESE:
+  - untranslated
+  - original: SIMPLIFIED CHINESE
+  OSD_SETTINGS:
+  - untranslated
+  - original: OSD SETTINGS
+  OSD_SETTINGS_LNG:
+  - untranslated
+  - original: OSD Language
+  ENABLE_LNG:
+  - untranslated
+  - original: Change language

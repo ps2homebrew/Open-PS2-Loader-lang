@@ -304,9 +304,7 @@ translations:
   MX4SIO_GAMES: Juegos MX4SIO
   PADMACROCONFIG: Configurar PADMACRO
   PADMACRO_SETTINGS: Configuraciones PADMACRO
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
+  PADMACRO_ENABLE: Pad macros
   PADMACRO_SLOWDOWN: 'Ralentización de Analógico'
   HINT_PADMACRO_SLOWDOWN_AXIS: Reduce rango del analogico cuando el boton es presionado
   LEFT_ANALOG: 'Analógico Izquierdo'
@@ -317,3 +315,18 @@ translations:
   HINT_TURBO_SPEED: 'Cuan rápido se presiona el botón con el TURBO activo'
   ACT_WHILE_PRESSED: 'Mientras se mantiene el botón'
   ACT_TOGGLED: 'Al presionar el botón'
+  LANGUAGE_JAPANESE: JAPONÉS
+  LANGUAGE_ENGLISH: INGLÉS
+  LANGUAGE_FRENCH: FRANCÉS
+  LANGUAGE_SPANISH: ESPAÑOL
+  LANGUAGE_GERMAN: ALEMAN
+  LANGUAGE_ITALIAN: ITALIANO
+  LANGUAGE_DUTCH: HOLANDÉS
+  LANGUAGE_PORTUGUESE: PORTUGUES
+  LANGUAGE_RUSSIAN: RUSO
+  LANGUAGE_KOREAN: KOREANO
+  LANGUAGE_TRAD_CHINESE: CHINO TRADICIONAL
+  LANGUAGE_SIMPL_CHINESE: CHINO SIMPLIFICADO
+  OSD_SETTINGS: Ajustes OSD
+  OSD_SETTINGS_LNG: Idioma OSD
+  ENABLE_LNG: Cambiar Idioma
