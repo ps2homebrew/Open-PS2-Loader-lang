@@ -284,9 +284,7 @@ translations:
   NET_UPDATE_HINT: Cuando se activa sobrescribe la configuración de compatibilidad
     del juego
   SETTINGS_SOURCE: Modo de configuración
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
+  GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por juego
   ALL_SETTINGS: Todo
   GAME_SETTINGS_PROMPT: Selecciona configuraciones para borrar.
@@ -304,87 +302,31 @@ translations:
   USB_GAMES: Juegos USB
   ILINK_GAMES: Juegos iLink
   MX4SIO_GAMES: Juegos MX4SIO
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS:
-  - untranslated
-  - original: Pad macro Settings
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD SETTINGS
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
+  PADMACROCONFIG: Configurar PADMACRO
+  PADMACRO_SETTINGS: Configuraciones PADMACRO
+  PADMACRO_ENABLE: Pad macros
+  PADMACRO_SLOWDOWN: 'Ralentización de Analógico'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Reduce rango del analogico cuando el boton es presionado
+  LEFT_ANALOG: 'Analógico Izquierdo'
+  RIGHT_ANALOG: 'Analógico Derecho'
+  PADMACRO_INVERT_AXIS: 'Inversión Analógicos:'
+  HINT_PADMACRO_INVERT_AXIS: 'Invertir eje analógico'
+  TURBO_SPEED: 'Botón velocidad TURBO'
+  HINT_TURBO_SPEED: 'Cuan rápido se presiona el botón con el TURBO activo'
+  ACT_WHILE_PRESSED: 'Mientras se mantiene el botón'
+  ACT_TOGGLED: 'Al presionar el botón'
+  LANGUAGE_JAPANESE: JAPONÉS
+  LANGUAGE_ENGLISH: INGLÉS
+  LANGUAGE_FRENCH: FRANCÉS
+  LANGUAGE_SPANISH: ESPAÑOL
+  LANGUAGE_GERMAN: ALEMAN
+  LANGUAGE_ITALIAN: ITALIANO
+  LANGUAGE_DUTCH: HOLANDÉS
+  LANGUAGE_PORTUGUESE: PORTUGUES
+  LANGUAGE_RUSSIAN: RUSO
+  LANGUAGE_KOREAN: KOREANO
+  LANGUAGE_TRAD_CHINESE: CHINO TRADICIONAL
+  LANGUAGE_SIMPL_CHINESE: CHINO SIMPLIFICADO
+  OSD_SETTINGS: Ajustes OSD
+  OSD_SETTINGS_LNG: Idioma OSD
+  ENABLE_LNG: Cambiar Idioma
