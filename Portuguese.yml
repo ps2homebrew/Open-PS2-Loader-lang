@@ -12,9 +12,7 @@ translations:
   ERROR_SAVING_SETTINGS: Erro ao salvar configurações!
   EXIT: Sair
   SETTINGS: Configurações
-  MENU:
-  - untranslated
-  - original: Menu
+  MENU: Menu
   BDM_GAMES: Jogos por BDM
   HDD_GAMES: Jogos por HDD
   NET_GAMES: Jogos por Rede
@@ -55,29 +53,21 @@ translations:
   ERROR_LOADING_ID: Erro ao carregar ID do jogo
   AUTOSORT: Ordenar automaticamente
   ERR_LOADING_LANGFILE: Erro ao carregar ficheiro de idioma
-  DEBUG:
-  - untranslated
-  - original: Debug Colors
+  DEBUG: Debug Colors
   NO_CONTROLLER: Comando não detectado, esperando…
-  COVERART:
-  - untranslated
-  - original: Cover Art
+  COVERART: Cover Art
   WIDE_SCREEN: Ecrâ Panorâmico
   POWEROFF: Desligar PS2
   LOADING_SETTINGS: Carregando configurações
   SAVING_SETTINGS: A guardar configurações…
   START_DEVICE: Iniciar dispositivo
   REFRESH: Atualizar
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: BDM Start Mode
   HDDMODE: Modo de inicio para dispositivo HDD
   ETHMODE: Modo de inicio para dispositivo Rede
   APPMODE: Modo de inicio para Aplicações
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar servidor NBD
   STARTINGNBD: Servidor NBD a iniciar…
   RUNNINGNBD: Servidor NBD a executar…
@@ -89,9 +79,7 @@ translations:
   CAT_SMB_SERVER: '- Servidor SMB -'
   IP_ADDRESS_TYPE: Endereço IP
   IP_ADDRESS_TYPE_STATIC: Estático
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: Endereço IP
   ADDRESS: Endereço
   MASK: Máscara de sub-rede
@@ -103,21 +91,15 @@ translations:
   PASSWORD: Senha
   NOT_SET: <não usado>
   ADDRESS_TYPE: Tipo de Endereço
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Confirmar
   DELETE_WARNING: O item será PERMANENTEMENTE apagado! Continuar?
   RENAME: Renomear
   DELETE: Apagar
   RUN: Iniciar
   GFX_SETTINGS: Configurações de Ecrâ
-  ENABLE_WRITE:
-  - untranslated
-  - original: Write Operations
+  ENABLE_WRITE: Write Operations
   LASTPLAYED: Lembrar último jogo executado
   SELECTBUTTON: Botão de Seleção
   ERR_FRAGMENTED: Erro, o jogo está fragmentado
@@ -159,9 +141,7 @@ translations:
   UICOLOR: Cor do diálogo
   SELCOLOR: Cor selecionada
   RESETCOLOR: Reiniciar cores
-  INFO:
-  - untranslated
-  - original: Info
+  INFO: Info
   ALTSTARTUP: ELF personalizado
   COLOR_SELECTION: Seleção de Cor
   RECONNECT: Voltar A Lig.
@@ -171,12 +151,8 @@ translations:
   SPACE: Espaço
   ENTER: Aceitar
   MODE: Modo
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC Slot 1
+  VMC_SLOT2: VMC Slot 2
   GAME_ID: ID do Jogo
   DMA_MODE: Modo DMA
   VSYNC: Sincronização do vídeo
@@ -193,25 +169,19 @@ translations:
   ETH_10MFDX: 10Mbit full-duplex
   ETH_10MHDX: 10Mbit half-duplex
   GSM_SETTINGS: Opções do GSM
-  ENABLEGSM:
-  - untranslated
-  - original: GSM Selector
+  ENABLEGSM: Seletor GSM
   HINT_ENABLEGSM: Permitir que o GSM ative o modo de vídeo escolhido
   HINT_GSMVMODE: Modo de vídeo a ser ativado
   XOFFSET: Ajuste horizontal
   HINT_XOFFSET: Definir compensação horizontal
   YOFFSET: Ajuste vertical
   HINT_YOFFSET: Definir compensação vertical
-  OVERSCAN:
-  - untranslated
-  - original: Overscan
+  OVERSCAN: Overscan
   HINT_OVERSCAN: Ajustar Overscan
   GSMSKIPVIDEOS: Saltar FMV
   HINT_GSMSKIPVIDEOS: Saltar vídeos
   CHEAT_SETTINGS: Opções de Cheat
-  ENABLECHEAT:
-  - untranslated
-  - original: PS2RD Cheat Engine
+  ENABLECHEAT: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Permite PS2RD Cheat Engine injetar código nos jogos.
   CHEATMODE: Modo da PS2RD Cheat Engine
   HINT_CHEATMODE: Auto-Selecionar ou Selecionar cheats de jogo
@@ -237,27 +207,17 @@ translations:
     consola
   PADEMUCONFIG: Configurar PADEMU
   PADEMU_SETTINGS: Definições do Emulador de Comando
-  PADEMU_ENABLE:
-  - untranslated
-  - original: Pad Emulator
+  PADEMU_ENABLE: Pad Emulator
   HINT_PADEMU_ENABLE: Ligar/Desligar o emulador para o jogo selecionado.
   PADEMU_MODE: Modo do Emulador de Comando
   HINT_PADEMU_MODE: Selecione o modo do Emulador de Comando.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Definições para a porta:'
   HINT_PAD_PORT: Selecione a porta do Emulador de Comando para as definições
-  PADEMU_PORT:
-  - untranslated
-  - original: Emulation
+  PADEMU_PORT: Emulação
   HINT_PADEMU_PORT: Ligar/Desligar o emulador para a porta selecionada.
-  PADEMU_VIB:
-  - untranslated
-  - original: Vibration
+  PADEMU_VIB: Vibração
   HINT_PADEMU_VIB: Ligar/Desligar vibração na porta selecionada.
   USBDG_MAC: 'Endereço MAC do adaptador Bluetooth USB:'
   PAD_MAC: 'Comando DS emparelhado ao endereço MAC:'
@@ -277,18 +237,12 @@ translations:
     DS3/DS4.
   BT_NOTSUPPORTED: O adaptador Bluetooth pode não funcionar corretamente com comandos
     DS3/DS4.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: Emular Multitap
   HINT_MTAP_ENABLE: Ligar/Desligar a emulação Multitap para o jogo selecionado
   MTAP_PORT: Emulador Multitap na porta
   HINT_MTAP_PORT: Selecionar porta para o emulador de Multitap.
-  PADEMU_WORKAROUND:
-  - untranslated
-  - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  PADEMU_WORKAROUND: Soluções Alternativas para Comandos DS3 Falsos
+  HINT_PADEMU_WORKAROUND: Alguns Comandos DS3s falsos precisam de uma soluções alternativas, esta opção permitirá que isso aconteça.
   GSM_FIELD_FIX: Emular inversão de CAMPO
   HINT_GSM_FIELD_FIX: Correção para jogos que apresentam falhas nos modos de vídeo
     progressivo.
@@ -303,42 +257,24 @@ translations:
   ERR_VMC_FRAGMENTED_CONTINUE: O ficheiro VMC %s está fragmentado. Continuar com o
     Cartão de Memoria na ranhura %d?
   AUDIO_SETTINGS: Definições de Áudio
-  SFX:
-  - untranslated
-  - original: Sound Effects
-  BOOT_SND:
-  - untranslated
-  - original: Boot Sound
+  SFX: Efeitos Sonoros
+  BOOT_SND: Som de Inicialização
   SFX_VOLUME: Volume dos sons
   BOOT_SND_VOLUME: Volume do som de arranque
   CFM_VMODE_CHG: Confirmar alteração do modo de vídeo?
   CACHE_HDD_GAME_LIST: Cache da lista de jogos (HDD)
-  ENABLE_NOTIFICATIONS:
-  - untranslated
-  - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
-  OPTIONS:
-  - untranslated
-  - original: Options
+  ENABLE_NOTIFICATIONS: Notificações
+  CFG_NOTIFICATION: Definições carregadas do %s
+  THM_NOTIFICATION: Tema carregado de %s
+  LNG_NOTIFICATION: Idioma carregado de %s
+  PARTITION_NOTIFICATION: 'Partição %s montada.'
+  OPTIONS: Opções
   GAME_SETTINGS_SAVED: Configurações do jogo guardadas.
   GAME_SETTINGS_REMOVED: '%s configurações removidas.'
   NET_UPDATE_HINT: Substitui configurações de compatibilidade de jogos existentes
     quando ativado.
   SETTINGS_SOURCE: Modo de configurações
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
+  GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por jogo
   ALL_SETTINGS: Todos
   GAME_SETTINGS_PROMPT: Selecione as configurações para remover.
@@ -348,108 +284,38 @@ translations:
   INFO_RELEASE: Data de lançamento
   INFO_DEVELOPER: Desenvolvedor
   INFO_DESCRIPTION: Descrição
-  BLOCKDEVICE_SETTINGS:
-  - untranslated
-  - original: Block Devices
-  CONTROLLER_SETTINGS:
-  - untranslated
-  - original: Controller Settings
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
-  USB_GAMES:
-  - untranslated
-  - original: USB Games
-  ILINK_GAMES:
-  - untranslated
-  - original: iLink Games
-  MX4SIO_GAMES:
-  - untranslated
-  - original: MX4SIO Games
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS:
-  - untranslated
-  - original: Pad macro Settings
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD SETTINGS
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
+  BLOCKDEVICE_SETTINGS: Definições de Dispositivos
+  CONTROLLER_SETTINGS: Definições do Controlador
+  HINT_BDM_START: Ligar/desligar o Gestor de Dispositivos.
+  HINT_BLOCK_DEVICES: Liga/desliga dispositivos (por exemplo, USB).
+  USB_GAMES: Jogos no USB
+  ILINK_GAMES: Jogos no iLink
+  MX4SIO_GAMES: Jogos no MX4SIO
+  PADMACROCONFIG: Configurar PADMACRO
+  PADMACRO_SETTINGS: Configurações Pad macro
+  PADMACRO_ENABLE: Pad macros
+  PADMACRO_SLOWDOWN: 'Analog slow-down:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Reduz o alcance do analógico quando o botão é pressionado
+  LEFT_ANALOG: Left stick
+  RIGHT_ANALOG: Right stick
+  PADMACRO_INVERT_AXIS: 'Inverter eixo do analógico:'
+  HINT_PADMACRO_INVERT_AXIS: Inverter eixo do analógico
+  TURBO_SPEED: Velocidade do botão Turbo
+  HINT_TURBO_SPEED: A que velocidade premir o botão quando o turbo está activo
+  ACT_WHILE_PRESSED: Enquanto o botão é pressionado
+  ACT_TOGGLED: Ao pressionar o botão
+  LANGUAGE_JAPANESE: JAPONÊS
+  LANGUAGE_ENGLISH: INGLÊS
+  LANGUAGE_FRENCH: FRANCÊS
+  LANGUAGE_SPANISH: ESPANHOL
+  LANGUAGE_GERMAN: ALEMÃO
+  LANGUAGE_ITALIAN: ITALIANO
+  LANGUAGE_DUTCH: HOLANDÊS
+  LANGUAGE_PORTUGUESE: PORTUGUÊS
+  LANGUAGE_RUSSIAN: RUSSO
+  LANGUAGE_KOREAN: COREANO
+  LANGUAGE_TRAD_CHINESE: CHINÊS (TRADICIONAL)
+  LANGUAGE_SIMPL_CHINESE: CHINÊS (SIMPLIFICADO)
+  OSD_SETTINGS: DEFINIÇÕES OSD
+  OSD_SETTINGS_LNG: IDIOMA OSD
+  ENABLE_LNG: Mudar Idioma

@@ -12,9 +12,7 @@ translations:
   ERROR_SAVING_SETTINGS: Erro ao salvar as configurações!
   EXIT: Sair
   SETTINGS: Configurações
-  MENU:
-  - untranslated
-  - original: Menu
+  MENU: Menu
   BDM_GAMES: Jogos no BDM
   HDD_GAMES: Jogos no HDD
   NET_GAMES: Jogos no ETH
@@ -69,9 +67,7 @@ translations:
   ETHMODE: Modo de Início no ETH
   APPMODE: Modo de Início nos Aplicativos
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar o Servidor NBD
   STARTINGNBD: O servidor NBD está iniciando…
   RUNNINGNBD: O servidor NBD está sendo executado…
@@ -83,9 +79,7 @@ translations:
   CAT_SMB_SERVER: '- Servidor SMB -'
   IP_ADDRESS_TYPE: Tipo de Endereço IP
   IP_ADDRESS_TYPE_STATIC: Estático
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: Endereço IP
   ADDRESS: Endereço
   MASK: Máscara
@@ -97,14 +91,10 @@ translations:
   PASSWORD: Senha
   NOT_SET: <sem definição>
   ADDRESS_TYPE: Tipo de Endereço
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Aceitar
-  DELETE_WARNING: O item será apagado permanentemente, continuar?
+  DELETE_WARNING: O item será apagado PERMANENTEMENTE, continuar?
   RENAME: Renomear
   DELETE: Apagar
   RUN: Iniciar
@@ -158,16 +148,10 @@ translations:
   ETH_PREFIX: Prefixo do Caminho ETH
   BACKSPACE: Apagar
   SPACE: Espaço
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Modo
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC Slot 1
+  VMC_SLOT2: VMC Slot 2
   GAME_ID: ID do Jogo
   DMA_MODE: Modo de DMA
   VSYNC: Sincronização do Vídeo
@@ -191,16 +175,12 @@ translations:
   HINT_XOFFSET: Ajustes Horizontais.
   YOFFSET: Posição Vertical
   HINT_YOFFSET: Ajustes Verticais.
-  OVERSCAN:
-  - untranslated
-  - original: Overscan
+  OVERSCAN: Overscan
   HINT_OVERSCAN: Ajustes do Overscan.
   GSMSKIPVIDEOS: Pular FMV
   HINT_GSMSKIPVIDEOS: Pula os vídeos do jogo.
   CHEAT_SETTINGS: Configurações de Trapaças
-  ENABLECHEAT:
-  - untranslated
-  - original: PS2RD Cheat Engine
+  ENABLECHEAT: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Deixar o PS2RD patchear seus jogos
   CHEATMODE: Modo do PS2RD Cheat Engine
   HINT_CHEATMODE: Auto-Selecionar ou Escolher as trapaças.
@@ -229,9 +209,7 @@ translations:
   HINT_PADEMU_ENABLE: Liga/desliga a emulação de controle para o jogo selecionado.
   PADEMU_MODE: Modo de Emulação de Controle
   HINT_PADEMU_MODE: Escolha o modo de emulação de controle.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
+  DS34USB_MODE: DualShock3/4 USB
   DS34BT_MODE: DualShock3/4 BlueTooth
   PADPORT: 'Configurações da Porta:'
   HINT_PAD_PORT: Escolha a porta do controle emulado para aplicar os ajustes.
@@ -295,9 +273,7 @@ translations:
   NET_UPDATE_HINT: Substitui as configurações de compatibilidade de jogos existentes
     ao ativar.
   SETTINGS_SOURCE: Modo de Configuração
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
+  GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por Jogo
   ALL_SETTINGS: Tudo
   GAME_SETTINGS_PROMPT: Selecione um ajuste para remover.
@@ -307,94 +283,38 @@ translations:
   INFO_RELEASE: Lançamento
   INFO_DEVELOPER: Desenvolvedor
   INFO_DESCRIPTION: Descrição
-  BLOCKDEVICE_SETTINGS: Dispositivos de Blocos
+  BLOCKDEVICE_SETTINGS: Configurações de Dispositivos
   CONTROLLER_SETTINGS: Configurações de Controles
-  HINT_BDM_START: Ativa/Desativa o Gerenciador de Dispositivos de Blocos.
-  HINT_BLOCK_DEVICES: 'Ativa/Desativa Dispositivos de Blocos (Exemplo: USB).'
+  HINT_BDM_START: Ativa/Desativa o Gerenciador de Dispositivos.
+  HINT_BLOCK_DEVICES: 'Ativa/Desativa Dispositivos (Exemplo: USB).'
   USB_GAMES: Jogos no USB
   ILINK_GAMES: Jogos no iLink
   MX4SIO_GAMES: Jogos no MX4SIO
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS:
-  - untranslated
-  - original: Pad macro Settings
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD SETTINGS
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
+  PADMACROCONFIG: Configurar PADMACRO
+  PADMACRO_SETTINGS: Configurações Pad macro
+  PADMACRO_ENABLE: Pad macros
+  PADMACRO_SLOWDOWN: 'Analog slow-down:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Reduz o alcance do analógico quando o botão é pressionado
+  LEFT_ANALOG: Analógico Esquerdo
+  RIGHT_ANALOG: Analógico Direito
+  PADMACRO_INVERT_AXIS: 'Inverter eixo do analógico:'
+  HINT_PADMACRO_INVERT_AXIS: Inverte eixo do analógico
+  TURBO_SPEED: Velocidade do botão Turbo
+  HINT_TURBO_SPEED: Quão rápido pressionar o bõtão quando o turbo está ativo
+  ACT_WHILE_PRESSED: Enquanto pressiona o botão
+  ACT_TOGGLED: Ao pressionar o botão
+  LANGUAGE_JAPANESE: JAPONÊS
+  LANGUAGE_ENGLISH: INGLÊS
+  LANGUAGE_FRENCH: FRANCÊS
+  LANGUAGE_SPANISH: ESPANHOL
+  LANGUAGE_GERMAN: ALEMÃO
+  LANGUAGE_ITALIAN: ITALIANO
+  LANGUAGE_DUTCH: HOLANDÊS
+  LANGUAGE_PORTUGUESE: PORTUGUÊS
+  LANGUAGE_RUSSIAN: RUSSO
+  LANGUAGE_KOREAN: COREANO
+  LANGUAGE_TRAD_CHINESE: CHINÊS (TRADICIONAL)
+  LANGUAGE_SIMPL_CHINESE: CHINÊS (SIMPLIFICADO)
+  OSD_SETTINGS: Configurações OSD
+  OSD_SETTINGS_LNG: Idioma OSD
+  ENABLE_LNG: Mudar Idioma
