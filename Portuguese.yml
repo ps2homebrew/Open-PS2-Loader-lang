@@ -93,7 +93,7 @@ translations:
   PASSWORD: Senha
   NOT_SET: <não usado>
   ADDRESS_TYPE: Tipo de Endereço
-    ADDR_TYPE_IP:
+  ADDR_TYPE_IP:
   - untranslated
   - original: IP
   ADDR_TYPE_NETBIOS:
