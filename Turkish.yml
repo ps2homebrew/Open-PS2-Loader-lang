@@ -222,7 +222,7 @@ translations:
   PS2LOGO:
   - untranslated
   - original: PS2 Logo
-  HINT_PS2LOGO: Konsol bölgesiyle eşleşen geçerli bir disk logosu görüntülenir.
+  HINT_PS2LOGO: Konsol bölgesiyle eşleşen mevcut disk logosu görüntülenir.
   PADEMUCONFIG: Denetleyici Emülatörü Yapılandırması
   PADEMU_SETTINGS: Denetleyici Emülatör Ayarları
   PADEMU_ENABLE: Denetleyici Emülatörü
@@ -327,46 +327,46 @@ translations:
   ACT_TOGGLED: Düğmeye göre değiştirilir
   LANGUAGE_JAPANESE:
   - untranslated
-  - original: JAPANESE
+  - original: JAPONCA
   LANGUAGE_ENGLISH:
   - untranslated
-  - original: ENGLISH
+  - original: İNGİLİZCE
   LANGUAGE_FRENCH:
   - untranslated
-  - original: FRENCH
+  - original: FRANSIZCA
   LANGUAGE_SPANISH:
   - untranslated
-  - original: SPANISH
+  - original: İSPANYOLCA
   LANGUAGE_GERMAN:
   - untranslated
-  - original: GERMAN
+  - original: ALMANCA
   LANGUAGE_ITALIAN:
   - untranslated
-  - original: ITALIAN
+  - original: İTALYANCA
   LANGUAGE_DUTCH:
   - untranslated
-  - original: DUTCH
+  - original: FLEMENKÇE
   LANGUAGE_PORTUGUESE:
   - untranslated
-  - original: PORTUGUESE
+  - original: PORTEKİZCE
   LANGUAGE_RUSSIAN:
   - untranslated
-  - original: RUSSIAN
+  - original: RUSÇA
   LANGUAGE_KOREAN:
   - untranslated
-  - original: KOREAN
+  - original: KORECE
   LANGUAGE_TRAD_CHINESE:
   - untranslated
-  - original: TRADITIONAL CHINESE
+  - original: GELENEKSEL ÇİNCE
   LANGUAGE_SIMPL_CHINESE:
   - untranslated
-  - original: SIMPLIFIED CHINESE
+  - original: BASİTLEŞTİRİLMİŞ ÇİNCE
   OSD_SETTINGS:
   - untranslated
-  - original: OSD SETTINGS
+  - original: OSD AYARLARI
   OSD_SETTINGS_LNG:
   - untranslated
-  - original: OSD Language
+  - original: OSD Dili
   ENABLE_LNG:
   - untranslated
-  - original: Change language
+  - original: Dili değiştir
