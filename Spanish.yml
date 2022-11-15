@@ -67,9 +67,7 @@ translations:
   ETHMODE: Modo de inicio para Red
   APPMODE: Modo de inicio para Aplicaciones
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar servidor NBD
   STARTINGNBD: Iniciando servidor NBD…
   RUNNINGNBD: Servidor NBD conectado…
@@ -81,9 +79,7 @@ translations:
   CAT_SMB_SERVER: '- Servidor SMB -'
   IP_ADDRESS_TYPE: Tipo de dirección IP
   IP_ADDRESS_TYPE_STATIC: Estática
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: Dirección IP
   ADDRESS: Dirección
   MASK: Máscara de subred
@@ -95,12 +91,8 @@ translations:
   PASSWORD: Contraseña
   NOT_SET: <Sin definir>
   ADDRESS_TYPE: Tipo de dirección
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Aceptar
   DELETE_WARNING: El archivo se borrará definitivamente, ¿continuar?
   RENAME: Renombrar juego
@@ -135,8 +127,7 @@ translations:
   VMC_FILE_EXISTS: Archivo VMC creado
   VMC_FILE_ERROR: Archivo VMC inválido, el tamaño es incorrecto
   VMC_FILE_NEW: El archivo VMC debe ser creado
-  ERR_VMC_CONTINUE: Error accediendo a la VMC %s, ¿continuar con la tarjeta de memoria
-    en ranura %d)?
+  ERR_VMC_CONTINUE: Error accediendo a la VMC %s, ¿continuar con la tarjeta de memoria en ranura %d)?
   AUTOREFRESH: Refresco automático de las listas
   ABOUT: Acerca del OPL
   DEVS: Desarrolladores
@@ -225,8 +216,7 @@ translations:
   PADEMU_PORT: Emulación
   HINT_PADEMU_PORT: Activa/Desactiva la emulación del mando para el puerto seleccionado
   PADEMU_VIB: Vibración
-  HINT_PADEMU_VIB: Activa/Desactiva la vibración para el mando emulado en el puerto
-    seleccionado
+  HINT_PADEMU_VIB: Activa/Desactiva la vibración para el mando emulado en el puerto seleccionado
   USBDG_MAC: 'Dirección MAC adaptador bluetooth USB:'
   PAD_MAC: 'Mando sincronizado con dirección MAC:'
   PAIR: Sincronizar
@@ -240,20 +230,15 @@ translations:
   MANUFACTURER: 'ID fabricante:'
   SUPFEATURES: 'Funciones soportadas:'
   'YES': Sí
-  'NO':
-  - untranslated
-  - original: 'No'
-  BT_SUPPORTED: El adaptador bluetooth debe ser totalmente compatible con los mandos
-    DS3/DS4
-  BT_NOTSUPPORTED: El adaptador bluetooth puede no funcionar correctamente con los
-    mandos DS3/DS4
+  'NO': 'No'
+  BT_SUPPORTED: El adaptador bluetooth debe ser totalmente compatible con los mandos DS3/DS4
+  BT_NOTSUPPORTED: El adaptador bluetooth puede no funcionar correctamente con los mandos DS3/DS4
   MTAP_ENABLE: Emulación Multitap
   HINT_MTAP_ENABLE: Activa/Desactiva la emulación Multitap para el juego seleccionado
   MTAP_PORT: 'Emulación Multitap en el puerto:'
   HINT_MTAP_PORT: Selecciona puerto para la emulación Multitap
   PADEMU_WORKAROUND: Solución alternativa para los DS3 falsos
-  HINT_PADEMU_WORKAROUND: Algunos DS3 falsos necesitan una solución alternativa, esta
-    opción la activa
+  HINT_PADEMU_WORKAROUND: Algunos DS3 falsos necesitan una solución alternativa, esta opción la activa
   GSM_FIELD_FIX: Emular alternancia de valores de CAMPO
   HINT_GSM_FIELD_FIX: Solución para juegos que fallan bajo modos de vídeo progresivos.
   PARENLOCKCONFIG: Control paterno
@@ -264,8 +249,7 @@ translations:
   PARENLOCK_DISABLE_WARNING: Control paterno desactivado.
   BUILD_DETAILS: 'Opciones de compilación:'
   PARENLOCK_INVALID_PASSWORD: Error - esta contraseña no se puede usar.
-  ERR_VMC_FRAGMENTED_CONTINUE: El archivo VMC %s está fragmentado. ¿Continuar con
-    la tarjeta de memoria en ranura %d?
+  ERR_VMC_FRAGMENTED_CONTINUE: El archivo VMC %s está fragmentado. ¿Continuar con la tarjeta de memoria en ranura %d?
   AUDIO_SETTINGS: Configuración de sonido
   SFX: Efectos de sonido
   BOOT_SND: Sonido de inicio
@@ -281,8 +265,7 @@ translations:
   OPTIONS: Opciones
   GAME_SETTINGS_SAVED: Configuración del juego guardada
   GAME_SETTINGS_REMOVED: Ajuste %s borrado
-  NET_UPDATE_HINT: Cuando se activa sobrescribe la configuración de compatibilidad
-    del juego
+  NET_UPDATE_HINT: Cuando se activa sobrescribe la configuración de compatibilidad del juego
   SETTINGS_SOURCE: Modo de configuración
   GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por juego
@@ -296,8 +279,7 @@ translations:
   INFO_DESCRIPTION: Descripción
   BLOCKDEVICE_SETTINGS: Dispositivos de bloque
   CONTROLLER_SETTINGS: Configuración del mando
-  HINT_BDM_START: Activa/Desactiva el Gestor de Dispositivos de Bloque (Block Device
-    Manager)
+  HINT_BDM_START: Activa/Desactiva el Gestor de Dispositivos de Bloque (Block Device Manager)
   HINT_BLOCK_DEVICES: 'Selecciona dispositivos de bloque (Ejemplo: USB, iLink, MX4SIO)'
   USB_GAMES: Juegos USB
   ILINK_GAMES: Juegos iLink
