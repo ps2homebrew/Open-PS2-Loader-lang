@@ -219,9 +219,7 @@ translations:
   AUTO_START_IN_N_SECS: '%i içinde otomatik başlat…'
   AUTOSTARTLAST: Otomatik Başlat
   HINT_AUTOSTARTLAST: Otomatik başlatmayı kapatmak için saniye cinsinden değer, 0.
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: PS2 Logo
   HINT_PS2LOGO: Konsol bölgesiyle eşleşen mevcut disk logosu görüntülenir.
   PADEMUCONFIG: Denetleyici Emülatörü Yapılandırması
   PADEMU_SETTINGS: Denetleyici Emülatör Ayarları
@@ -229,12 +227,8 @@ translations:
   HINT_PADEMU_ENABLE: Seçili oyun için Denetleyici Emülatörü aç/kapat.
   PADEMU_MODE: Denetleyici Emülatör Kipi
   HINT_PADEMU_MODE: Denetleyici Emülatör kipini seçin.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Port Ayarları:'
   HINT_PAD_PORT: Ayarlar için Denetleyici Emülatör portunu seçin.
   PADEMU_PORT: Emülatör
@@ -325,48 +319,18 @@ translations:
   HINT_TURBO_SPEED: Turbo etkin olduğunda düğmeye ne kadar hızlı basılacağı
   ACT_WHILE_PRESSED: Düğmeye basıldığında
   ACT_TOGGLED: Düğmeye göre değiştirilir
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPONCA
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: İNGİLİZCE
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRANSIZCA
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: İSPANYOLCA
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: ALMANCA
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: İTALYANCA
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: FLEMENKÇE
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTEKİZCE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSÇA
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KORECE
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: GELENEKSEL ÇİNCE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: BASİTLEŞTİRİLMİŞ ÇİNCE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD AYARLARI
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Dili
-  ENABLE_LNG:
-  - untranslated
-  - original: Dili değiştir
+  LANGUAGE_JAPANESE: JAPONCA
+  LANGUAGE_ENGLISH: İNGİLİZCE
+  LANGUAGE_FRENCH: FRANSIZCA
+  LANGUAGE_SPANISH: İSPANYOLCA
+  LANGUAGE_GERMAN: ALMANCA
+  LANGUAGE_ITALIAN: İTALYANCA
+  LANGUAGE_DUTCH: FLEMENKÇE
+  LANGUAGE_PORTUGUESE: PORTEKİZCE
+  LANGUAGE_RUSSIAN: RUSÇA
+  LANGUAGE_KOREAN: KORECE
+  LANGUAGE_TRAD_CHINESE: GELENEKSEL ÇİNCE
+  LANGUAGE_SIMPL_CHINESE: BASİT ÇİNCE
+  OSD_SETTINGS: OSD AYARLARI
+  OSD_SETTINGS_LNG: OSD Dili
+  ENABLE_LNG: Dili değiştir
