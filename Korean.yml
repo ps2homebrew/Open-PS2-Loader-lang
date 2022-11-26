@@ -258,9 +258,9 @@ translations:
   CFM_VMODE_CHG: 비디오 모드 변경을 확인하겠습니까?
   CACHE_HDD_GAME_LIST: 캐쉬 게임 목록 (HDD)
   ENABLE_NOTIFICATIONS: 알림
-  CFG_NOTIFICATION: %s에서 불러온 구성
-  THM_NOTIFICATION: %s에서 불러온 테마
-  LNG_NOTIFICATION: %s에서 불러온 언어
+  CFG_NOTIFICATION: '%s에서 불러온 구성'
+  THM_NOTIFICATION: '%s에서 불러온 테마'
+  LNG_NOTIFICATION: '%s에서 불러온 언어'
   PARTITION_NOTIFICATION: '%s 파티션이 마운트되었습니다.'
   OPTIONS: 옵션
   GAME_SETTINGS_SAVED: 게임 설정이 저장되었습니다.
