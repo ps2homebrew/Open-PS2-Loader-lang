@@ -287,7 +287,7 @@ translations:
   PADMACROCONFIG: 패드매크로 구성
   PADMACRO_SETTINGS: 패드 매크로 설정
   PADMACRO_ENABLE: 패드 매크로
-  PADMACRO_SLOWDOWN: 아날로그 감속:'
+  PADMACRO_SLOWDOWN: '아날로그 감속:'
   HINT_PADMACRO_SLOWDOWN_AXIS: 버튼을 누를 때 아날로그 스틱 범위 축소
   LEFT_ANALOG: 왼쪽 스틱
   RIGHT_ANALOG: 오른쪽 스틱
