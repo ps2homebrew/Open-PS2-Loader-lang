@@ -280,7 +280,7 @@ translations:
   BLOCKDEVICE_SETTINGS: 블록 장치
   CONTROLLER_SETTINGS: 컨트롤러 설정
   HINT_BDM_START: 블록 장치 관리자를 켜거나 끕니다.
-  HINT_BLOCK_DEVICES: 블록 장치를 켜거나 끕니다. (예: USB)
+  HINT_BLOCK_DEVICES: '블록 장치를 켜거나 끕니다. (예: USB)'
   USB_GAMES: USB 게임
   ILINK_GAMES: iLink 게임
   MX4SIO_GAMES: MX4SIO 게임
