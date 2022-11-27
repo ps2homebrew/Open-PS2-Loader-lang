@@ -1,0 +1,21 @@
+name: CI-compile
+
+on:
+  push:
+  pull_request:
+  repository_dispatch:
+    types: [run_build]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: ghcr.io/ps2dev/ps2dev:latest
+    steps:
+      - name: Compile
+        run: |
+          apk add build-base git zip gawk python3 py3-pip bash
+          git clone --depth 1 https://github.com/ps2homebrew/Open-PS2-Loader
+          cd Open-PS2-Loader
+          pip3 install -r requirements.txt
+          make --trace download_lng languages
+          sh ./lng_pack.sh
