@@ -12,7 +12,9 @@ translations:
   ERROR_SAVING_SETTINGS: Erro ao salvar as configurações!
   EXIT: Sair
   SETTINGS: Configurações
-  MENU: Menu
+  MENU:
+  - untranslated
+  - original: Menu
   BDM_GAMES: Jogos no BDM
   HDD_GAMES: Jogos no HDD
   NET_GAMES: Jogos no ETH
@@ -67,7 +69,9 @@ translations:
   ETHMODE: Modo de Início no ETH
   APPMODE: Modo de Início nos Aplicativos
   AUTO: Automático
-  MANUAL: Manual
+  MANUAL:
+  - untranslated
+  - original: Manual
   STARTNBD: Iniciar o Servidor NBD
   STARTINGNBD: O servidor NBD está iniciando…
   RUNNINGNBD: O servidor NBD está sendo executado…
@@ -154,7 +158,9 @@ translations:
   ETH_PREFIX: Prefixo do Caminho ETH
   BACKSPACE: Apagar
   SPACE: Espaço
-  ENTER: Enter
+  ENTER:
+  - untranslated
+  - original: Enter
   MODE: Modo
   VMC_SLOT1:
   - untranslated
@@ -185,12 +191,16 @@ translations:
   HINT_XOFFSET: Ajustes Horizontais.
   YOFFSET: Posição Vertical
   HINT_YOFFSET: Ajustes Verticais.
-  OVERSCAN: Overscan
+  OVERSCAN:
+  - untranslated
+  - original: Overscan
   HINT_OVERSCAN: Ajustes do Overscan.
   GSMSKIPVIDEOS: Pular FMV
   HINT_GSMSKIPVIDEOS: Pula os vídeos do jogo.
   CHEAT_SETTINGS: Configurações de Trapaças
-  ENABLECHEAT: PS2RD Cheat Engine
+  ENABLECHEAT:
+  - untranslated
+  - original: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Deixar o PS2RD patchear seus jogos
   CHEATMODE: Modo do PS2RD Cheat Engine
   HINT_CHEATMODE: Auto-Selecionar ou Escolher as trapaças.
@@ -285,7 +295,9 @@ translations:
   NET_UPDATE_HINT: Substitui as configurações de compatibilidade de jogos existentes
     ao ativar.
   SETTINGS_SOURCE: Modo de Configuração
-  GLOBAL_SETTINGS: Global
+  GLOBAL_SETTINGS:
+  - untranslated
+  - original: Global
   PERGAME_SETTINGS: Por Jogo
   ALL_SETTINGS: Tudo
   GAME_SETTINGS_PROMPT: Selecione um ajuste para remover.
@@ -334,3 +346,15 @@ translations:
   OSD_SETTINGS: Configurações OSD
   OSD_SETTINGS_LNG: Idioma OSD
   ENABLE_LNG: Mudar Idioma
+  BGM:
+  - untranslated
+  - original: Background Music
+  BGM_VOLUME:
+  - untranslated
+  - original: Background Music Volume
+  DEF_BGM_PATH:
+  - untranslated
+  - original: Default Theme Music
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.

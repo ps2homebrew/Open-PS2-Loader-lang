@@ -78,8 +78,12 @@ translations:
   TXTCOLOR: 文字色
   CAT_SMB_SERVER: '- SMBサーバー -'
   IP_ADDRESS_TYPE: IPアドレスタイプ
-  IP_ADDRESS_TYPE_STATIC: Static
-  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS_TYPE_STATIC:
+  - untranslated
+  - original: Static
+  IP_ADDRESS_TYPE_DHCP:
+  - untranslated
+  - original: DHCP
   IP_ADDRESS: IPアドレス
   ADDRESS: アドレス
   MASK: マスク
@@ -91,8 +95,12 @@ translations:
   PASSWORD: パスワード
   NOT_SET: <未設定>
   ADDRESS_TYPE: アドレスタイプ
-  ADDR_TYPE_IP: IP
-  ADDR_TYPE_NETBIOS: NetBIOS
+  ADDR_TYPE_IP:
+  - untranslated
+  - original: IP
+  ADDR_TYPE_NETBIOS:
+  - untranslated
+  - original: NetBIOS
   ACCEPT: 分かった
   DELETE_WARNING: 削除すると二度と元に戻せません。よろしいですか？
   RENAME: 名前を変更
@@ -225,12 +233,12 @@ translations:
   NOT_CONNECTED: 接続されていません
   BTINFO: Bluetooth アダプタ情報
   HINT_BTINFO: さらにサポートされている機能を表示
-  HCIVER: 'HCIバージョン：'
-  LMPVER: 'LMPバージョン：'
-  MANUFACTURER: 'メーカーID：'
-  SUPFEATURES: 'サポート機能：'
-  'YES': 'はい'
-  'NO': 'いいえ'
+  HCIVER: HCIバージョン：
+  LMPVER: LMPバージョン：
+  MANUFACTURER: メーカーID：
+  SUPFEATURES: サポート機能：
+  'YES': はい
+  'NO': いいえ
   BT_SUPPORTED: BluetoothアダプタはDS3 / DS4コントローラをサポートしています
   BT_NOTSUPPORTED: BluetoothアダプタはDS3 / DS4コントローラをサポートしていません
   MTAP_ENABLE: マルチタップエミュレーション
@@ -261,17 +269,17 @@ translations:
   CFG_NOTIFICATION: 構成が %s からロードされました。
   THM_NOTIFICATION: テーマが %s からロードされました。
   LNG_NOTIFICATION: 言語が %s からロードされました。
-  PARTITION_NOTIFICATION: 'パーティション%sがマウントされました。'
+  PARTITION_NOTIFICATION: パーティション%sがマウントされました。
   OPTIONS: オプション
   GAME_SETTINGS_SAVED: ゲーム設定が保存されました。
-  GAME_SETTINGS_REMOVED: '設定%sが削除されました。'
+  GAME_SETTINGS_REMOVED: 設定%sが削除されました。
   NET_UPDATE_HINT: 有効にすると、既存のゲーム互換性設定が上書きされます。
   SETTINGS_SOURCE: 設定モード
   GLOBAL_SETTINGS: グローバル
   PERGAME_SETTINGS: ゲームごと
   ALL_SETTINGS: 全て
   GAME_SETTINGS_PROMPT: 削除する設定を選択します。
-  FORUM_DETAILS: 'サポートフォーラム：'
+  FORUM_DETAILS: サポートフォーラム：
   INFO_TITLE: タイトル
   INFO_GENRE: ジャンル
   INFO_RELEASE: リリース
@@ -287,11 +295,11 @@ translations:
   PADMACROCONFIG: パッドマクロの設定
   PADMACRO_SETTINGS: パッドマクロの設定
   PADMACRO_ENABLE: パッドマクロ
-  PADMACRO_SLOWDOWN: 'アナログスローダウン：'
+  PADMACRO_SLOWDOWN: アナログスローダウン：
   HINT_PADMACRO_SLOWDOWN_AXIS: ボタンを押したときのアナログスティックの範囲を狭くする
   LEFT_ANALOG: 左スティック
   RIGHT_ANALOG: 右スティック
-  PADMACRO_INVERT_AXIS: 'アナログ軸反転：'
+  PADMACRO_INVERT_AXIS: アナログ軸反転：
   HINT_PADMACRO_INVERT_AXIS: アナログスティックの軸を反転
   TURBO_SPEED: ターボボタンの速度
   HINT_TURBO_SPEED: ターボがアクティブな時にボタンを押す速さ
@@ -312,3 +320,15 @@ translations:
   OSD_SETTINGS: OSD設定
   OSD_SETTINGS_LNG: OSD言語
   ENABLE_LNG: 言語を変更
+  BGM:
+  - untranslated
+  - original: Background Music
+  BGM_VOLUME:
+  - untranslated
+  - original: Background Music Volume
+  DEF_BGM_PATH:
+  - untranslated
+  - original: Default Theme Music
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.

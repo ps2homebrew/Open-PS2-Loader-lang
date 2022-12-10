@@ -12,7 +12,9 @@ translations:
   ERROR_SAVING_SETTINGS: Erro ao salvar configurações!
   EXIT: Sair
   SETTINGS: Configurações
-  MENU: Menu
+  MENU:
+  - untranslated
+  - original: Menu
   BDM_GAMES: Jogos por BDM
   HDD_GAMES: Jogos por HDD
   NET_GAMES: Jogos por Rede
@@ -67,7 +69,9 @@ translations:
   ETHMODE: Modo de inicio para dispositivo Rede
   APPMODE: Modo de inicio para Aplicações
   AUTO: Automático
-  MANUAL: Manual
+  MANUAL:
+  - untranslated
+  - original: Manual
   STARTNBD: Iniciar servidor NBD
   STARTINGNBD: Servidor NBD a iniciar…
   RUNNINGNBD: Servidor NBD a executar…
@@ -147,7 +151,9 @@ translations:
   UICOLOR: Cor do diálogo
   SELCOLOR: Cor selecionada
   RESETCOLOR: Reiniciar cores
-  INFO: Info
+  INFO:
+  - untranslated
+  - original: Info
   ALTSTARTUP: ELF personalizado
   COLOR_SELECTION: Seleção de Cor
   RECONNECT: Voltar A Lig.
@@ -260,7 +266,8 @@ translations:
   MTAP_PORT: Emulador Multitap na porta
   HINT_MTAP_PORT: Selecionar porta para o emulador de Multitap.
   PADEMU_WORKAROUND: Soluções Alternativas para Comandos DS3 Falsos
-  HINT_PADEMU_WORKAROUND: Alguns Comandos DS3s falsos precisam de uma soluções alternativas, esta opção permitirá que isso aconteça.
+  HINT_PADEMU_WORKAROUND: Alguns Comandos DS3s falsos precisam de uma soluções alternativas,
+    esta opção permitirá que isso aconteça.
   GSM_FIELD_FIX: Emular inversão de CAMPO
   HINT_GSM_FIELD_FIX: Correção para jogos que apresentam falhas nos modos de vídeo
     progressivo.
@@ -285,14 +292,16 @@ translations:
   CFG_NOTIFICATION: Definições carregadas do %s
   THM_NOTIFICATION: Tema carregado de %s
   LNG_NOTIFICATION: Idioma carregado de %s
-  PARTITION_NOTIFICATION: 'Partição %s montada.'
+  PARTITION_NOTIFICATION: Partição %s montada.
   OPTIONS: Opções
   GAME_SETTINGS_SAVED: Configurações do jogo guardadas.
   GAME_SETTINGS_REMOVED: '%s configurações removidas.'
   NET_UPDATE_HINT: Substitui configurações de compatibilidade de jogos existentes
     quando ativado.
   SETTINGS_SOURCE: Modo de configurações
-  GLOBAL_SETTINGS: Global
+  GLOBAL_SETTINGS:
+  - untranslated
+  - original: Global
   PERGAME_SETTINGS: Por jogo
   ALL_SETTINGS: Todos
   GAME_SETTINGS_PROMPT: Selecione as configurações para remover.
@@ -311,10 +320,12 @@ translations:
   MX4SIO_GAMES: Jogos no MX4SIO
   PADMACROCONFIG: Configurar PADMACRO
   PADMACRO_SETTINGS: Configurações Pad macro
-  PADMACRO_ENABLE: Pad macros
-  PADMACRO_INVERT_AXIS:
+  PADMACRO_ENABLE:
   - untranslated
-  - original: 'Analog axis invert:'
+  - original: Pad macros
+  PADMACRO_SLOWDOWN:
+  - untranslated
+  - original: 'Analog slow-down:'
   HINT_PADMACRO_SLOWDOWN_AXIS: Reduz o alcance do analógico quando o botão é pressionado
   LEFT_ANALOG: Analógico Esquerdo
   RIGHT_ANALOG: Analógico Direito
@@ -339,3 +350,15 @@ translations:
   OSD_SETTINGS: DEFINIÇÕES OSD
   OSD_SETTINGS_LNG: IDIOMA OSD
   ENABLE_LNG: Mudar Idioma
+  BGM:
+  - untranslated
+  - original: Background Music
+  BGM_VOLUME:
+  - untranslated
+  - original: Background Music Volume
+  DEF_BGM_PATH:
+  - untranslated
+  - original: Default Theme Music
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.

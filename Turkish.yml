@@ -219,7 +219,9 @@ translations:
   AUTO_START_IN_N_SECS: '%i içinde otomatik başlat…'
   AUTOSTARTLAST: Otomatik Başlat
   HINT_AUTOSTARTLAST: Otomatik başlatmayı kapatmak için saniye cinsinden değer, 0.
-  PS2LOGO: PS2 Logo
+  PS2LOGO:
+  - untranslated
+  - original: PS2 Logo
   HINT_PS2LOGO: Konsol bölgesiyle eşleşen mevcut disk logosu görüntülenir.
   PADEMUCONFIG: Denetleyici Emülatörü Yapılandırması
   PADEMU_SETTINGS: Denetleyici Emülatör Ayarları
@@ -227,8 +229,12 @@ translations:
   HINT_PADEMU_ENABLE: Seçili oyun için Denetleyici Emülatörü aç/kapat.
   PADEMU_MODE: Denetleyici Emülatör Kipi
   HINT_PADEMU_MODE: Denetleyici Emülatör kipini seçin.
-  DS34USB_MODE: DualShock3/4 USB
-  DS34BT_MODE: DualShock3/4 BT
+  DS34USB_MODE:
+  - untranslated
+  - original: DualShock3/4 USB
+  DS34BT_MODE:
+  - untranslated
+  - original: DualShock3/4 BT
   PADPORT: 'Port Ayarları:'
   HINT_PAD_PORT: Ayarlar için Denetleyici Emülatör portunu seçin.
   PADEMU_PORT: Emülatör
@@ -334,3 +340,15 @@ translations:
   OSD_SETTINGS: OSD AYARLARI
   OSD_SETTINGS_LNG: OSD Dili
   ENABLE_LNG: Dili değiştir
+  BGM:
+  - untranslated
+  - original: Background Music
+  BGM_VOLUME:
+  - untranslated
+  - original: Background Music Volume
+  DEF_BGM_PATH:
+  - untranslated
+  - original: Default Theme Music
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.

@@ -463,10 +463,22 @@ translations:
   - original: SIMPLIFIED CHINESE
   OSD_SETTINGS:
   - untranslated
-  - original: OSD SETTINGS
+  - original: OSD settings
   OSD_SETTINGS_LNG:
   - untranslated
   - original: OSD Language
   ENABLE_LNG:
   - untranslated
   - original: Change language
+  BGM:
+  - untranslated
+  - original: Background Music
+  BGM_VOLUME:
+  - untranslated
+  - original: Background Music Volume
+  DEF_BGM_PATH:
+  - untranslated
+  - original: Default Theme Music
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.

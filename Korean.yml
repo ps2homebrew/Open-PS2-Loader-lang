@@ -78,8 +78,12 @@ translations:
   TXTCOLOR: 문자 색상
   CAT_SMB_SERVER: '- SMB 서버 -'
   IP_ADDRESS_TYPE: IP 주소 형식
-  IP_ADDRESS_TYPE_STATIC: Static
-  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS_TYPE_STATIC:
+  - untranslated
+  - original: Static
+  IP_ADDRESS_TYPE_DHCP:
+  - untranslated
+  - original: DHCP
   IP_ADDRESS: IP 주소
   ADDRESS: 주소
   MASK: 마스크
@@ -91,8 +95,12 @@ translations:
   PASSWORD: 비밀번호
   NOT_SET: <설정 안됨>
   ADDRESS_TYPE: 주소 형식
-  ADDR_TYPE_IP: IP
-  ADDR_TYPE_NETBIOS: NetBIOS
+  ADDR_TYPE_IP:
+  - untranslated
+  - original: IP
+  ADDR_TYPE_NETBIOS:
+  - untranslated
+  - original: NetBIOS
   ACCEPT: 허용
   DELETE_WARNING: 항목은 영구적으로 삭제됩니다, 계속합니까?
   RENAME: 이름변경
@@ -171,9 +179,13 @@ translations:
   ENABLEGSM: GSM 선택기
   HINT_ENABLEGSM: GSM 켜기 또는 끄기
   HINT_GSMVMODE: 강제 커스텀 디스플레이 모드
-  XOFFSET: H-POS
+  XOFFSET:
+  - untranslated
+  - original: H-POS
   HINT_XOFFSET: 수평 조정
-  YOFFSET: V-POS
+  YOFFSET:
+  - untranslated
+  - original: V-POS
   HINT_YOFFSET: 수직 조정
   OVERSCAN: 오버스캔
   HINT_OVERSCAN: 오버스캔 조정
@@ -312,3 +324,15 @@ translations:
   OSD_SETTINGS: OSD 설정
   OSD_SETTINGS_LNG: OSD 언어
   ENABLE_LNG: 언어 변경
+  BGM:
+  - untranslated
+  - original: Background Music
+  BGM_VOLUME:
+  - untranslated
+  - original: Background Music Volume
+  DEF_BGM_PATH:
+  - untranslated
+  - original: Default Theme Music
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.
