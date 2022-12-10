@@ -261,7 +261,7 @@ translations:
   CFG_NOTIFICATION: 構成が %s からロードされました。
   THM_NOTIFICATION: テーマが %s からロードされました。
   LNG_NOTIFICATION: 言語が %s からロードされました。
-  PARTITION_NOTIFICATION: %sパーティションがマウントされました。'
+  PARTITION_NOTIFICATION: パーティション%sがマウントされました。'
   OPTIONS: オプション
   GAME_SETTINGS_SAVED: ゲーム設定が保存されました。
   GAME_SETTINGS_REMOVED: '設定%sが削除されました。'
