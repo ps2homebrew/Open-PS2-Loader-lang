@@ -258,13 +258,13 @@ translations:
   CFM_VMODE_CHG: ビデオモードの変更を確認しますか？
   CACHE_HDD_GAME_LIST: ゲームリストをキャッシュ（HDD）
   ENABLE_NOTIFICATIONS: 通知
-  CFG_NOTIFICATION: %sから読み込まれた構成
-  THM_NOTIFICATION: %sからロードされたテーマ
-  LNG_NOTIFICATION: %sからロードされた言語
+  CFG_NOTIFICATION: 構成が %s からロードされました。
+  THM_NOTIFICATION: テーマが %s からロードされました。
+  LNG_NOTIFICATION: 言語が %s からロードされました。
   PARTITION_NOTIFICATION: %sパーティションがマウントされました。'
   OPTIONS: オプション
   GAME_SETTINGS_SAVED: ゲーム設定が保存されました。
-  GAME_SETTINGS_REMOVED: '%s設定が削除されました。'
+  GAME_SETTINGS_REMOVED: '設定%sが削除されました。'
   NET_UPDATE_HINT: 有効にすると、既存のゲーム互換性設定が上書きされます。
   SETTINGS_SOURCE: 設定モード
   GLOBAL_SETTINGS: グローバル
