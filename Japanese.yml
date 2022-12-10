@@ -26,8 +26,8 @@ translations:
   HDD_NOT_FORMATTED_ERROR: '%d: HDDがフォーマットされていません'
   NETWORK_STARTUP_ERROR: '%d: ネットワーク開始エラー'
   NETWORK_STARTUP_ERROR_NETIF: '%d: ネットワークアダプタが接続されていません'
-  NETWORK_STARTUP_ERROR_CONN: '%d: SMBサーバに接続できません'
-  NETWORK_STARTUP_ERROR_LOGON: '%d: SMBサーバにログインできません'
+  NETWORK_STARTUP_ERROR_CONN: '%d: SMBサーバーに接続できません'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: SMBサーバーにログインできません'
   NETWORK_STARTUP_ERROR_SHARE: '%d: SMBフォルダを開けません'
   NETWORK_SHARE_LIST_ERROR: '%d: SMBゲームが見つかりません'
   NETWORK_GAMES_LIST_ERROR: '%d: ゲームが見つかりません'
@@ -42,9 +42,7 @@ translations:
   CROSS: X
   GAMES_LIST: ゲームリスト
   COMPAT_SETTINGS: ゲーム設定
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: 設定を削除
+  REMOVE_ALL_SETTINGS: 設定を削除
   SCROLLING: 画面スクロール
   SLOW: 遅い
   MEDIUM: 普通
@@ -73,7 +71,7 @@ translations:
   STARTNBD: NBDサーバーを開始
   STARTINGNBD: NBDサーバーを開始します…
   RUNNINGNBD: NBDサーバーは開始しました
-  STARTFAILNBD: NBDサーバー開始に失敗しました
+  STARTFAILNBD: NBDサーバーの開始に失敗しました
   UNLOADNBD: NBDサーバーを取消中…
   EXITTO: IGRパス
   BGCOLOR: 背景色
@@ -96,8 +94,8 @@ translations:
   ADDR_TYPE_IP: IP
   ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: 分かった
-  DELETE_WARNING: 削除すると元に戻せません。よろしいですか？
-  RENAME: 名前変更
+  DELETE_WARNING: 削除すると二度と元に戻せません。よろしいですか？
+  RENAME: 名前を変更
   DELETE: 削除
   RUN: 実行
   GFX_SETTINGS: 表示設定
@@ -105,7 +103,7 @@ translations:
   LASTPLAYED: 最後にプレイしたゲームを記憶する
   SELECTBUTTON: セレクトボタン
   ERR_FRAGMENTED: ゲームがデフラグされていません
-  ERR_FILE_INVALID: ゲーム（アプリ）を開始できませんでした
+  ERR_FILE_INVALID: ゲーム（アプリ）を開始出来ませんでした
   TEST: テストの変更
   HINT_GUEST: GUESTでログインする場合は空欄
   HINT_MODE1: 読み込み速度の補正
@@ -120,7 +118,7 @@ translations:
   MODIFY: 変更
   ABORT: 中止
   RESET: リセット
-  USE_GENERIC: 簡易VMC作成
+  USE_GENERIC: 簡易VMCの作成
   VMC_SCREEN: VMC設定
   VMC_NAME: ファイル名
   SIZE: サイズ
@@ -287,7 +285,7 @@ translations:
   ILINK_GAMES: iLinkゲーム
   MX4SIO_GAMES: MX4SIOゲーム
   PADMACROCONFIG: パッドマクロの設定
-  PADMACRO_SETTINGS: パッドマクロ設定
+  PADMACRO_SETTINGS: パッドマクロの設定
   PADMACRO_ENABLE: パッドマクロ
   PADMACRO_SLOWDOWN: 'アナログスローダウン：'
   HINT_PADMACRO_SLOWDOWN_AXIS: ボタンを押したときのアナログスティックの範囲を狭くする
