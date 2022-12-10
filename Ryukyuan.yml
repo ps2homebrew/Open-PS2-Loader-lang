@@ -255,13 +255,13 @@ translations:
   CFM_VMODE_CHG: ビデオモードぬ変更確認さびーが？
   CACHE_HDD_GAME_LIST: ゲームリストキャッシュ（HDD）
   ENABLE_NOTIFICATIONS: 通知
-  CFG_NOTIFICATION: %sから読み込まったる構成
-  THM_NOTIFICATION: %sからロードさったるテーマ
-  LNG_NOTIFICATION: %sからロードさったる言語
-  PARTITION_NOTIFICATION: %sパーティションぬマウントさりやびたん。'
+  CFG_NOTIFICATION: 構成ぬ %s からロードさりやびたん。
+  THM_NOTIFICATION: テーマぬ %s からロードさりやびたん。
+  LNG_NOTIFICATION: 言語ぬ %s からロードさりやびたん。
+  PARTITION_NOTIFICATION: 'パーティション%sぬマウントさりやびたん。'
   OPTIONS: オプション
   GAME_SETTINGS_SAVED: ゲーム設定ぬたぶらりやびたん。
-  GAME_SETTINGS_REMOVED: '%s設定ぬ削除さりやびたん。'
+  GAME_SETTINGS_REMOVED: '設定%sぬ削除さりやびたん。'
   NET_UPDATE_HINT: 有効なしねー、既存ぬゲーム互換性設定ぬ上書きさりやびーん。
   SETTINGS_SOURCE: 設定モード
   GLOBAL_SETTINGS: グローバル
