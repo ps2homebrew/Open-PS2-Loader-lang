@@ -8,9 +8,7 @@ translations:
   NETCONFIG: ネットワーク設定
   SHOW_ADVANCED_OPTS: 詳細オプション
   NO_ITEMS: <未設定>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: 設定を %s に保存しました
   ERROR_SAVING_SETTINGS: 設定保存中にエラーが発生しました
   EXIT: 終了
   SETTINGS: 設定
@@ -28,8 +26,8 @@ translations:
   HDD_NOT_FORMATTED_ERROR: '%d: HDDがフォーマットされていません'
   NETWORK_STARTUP_ERROR: '%d: ネットワーク開始エラー'
   NETWORK_STARTUP_ERROR_NETIF: '%d: ネットワークアダプタが接続されていません'
-  NETWORK_STARTUP_ERROR_CONN: '%d: SMBサーバに接続できません'
-  NETWORK_STARTUP_ERROR_LOGON: '%d: SMBサーバにログインできません'
+  NETWORK_STARTUP_ERROR_CONN: '%d: SMBサーバーに接続できません'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: SMBサーバーにログインできません'
   NETWORK_STARTUP_ERROR_SHARE: '%d: SMBフォルダを開けません'
   NETWORK_SHARE_LIST_ERROR: '%d: SMBゲームが見つかりません'
   NETWORK_GAMES_LIST_ERROR: '%d: ゲームが見つかりません'
@@ -37,18 +35,14 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: ネットワーク接続が見つかりません'
   'ON': オン
   'OFF': オフ
-  OK:
-  - untranslated
-  - original: OK
+  OK: 分かった
   SELECT: 選択
   CANCEL: キャンセル
   CIRCLE: O
   CROSS: X
   GAMES_LIST: ゲームリスト
   COMPAT_SETTINGS: ゲーム設定
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: 設定を削除
   SCROLLING: 画面スクロール
   SLOW: 遅い
   MEDIUM: 普通
@@ -59,76 +53,58 @@ translations:
   ERROR_LOADING_ID: ゲームIDをロード中にエラーが発生しました
   AUTOSORT: 自動的に並べ替え
   ERR_LOADING_LANGFILE: 言語設定をロード中にエラーが発生しました
-  DEBUG:
-  - untranslated
-  - original: Debug Colors
+  DEBUG: デバッグの色
   NO_CONTROLLER: コントローラーが見つかりません。お待ちください…
-  COVERART:
-  - untranslated
-  - original: Cover Art
+  COVERART: カバーアート
   WIDE_SCREEN: ワイドスクリーン
   POWEROFF: 電源を切る
   LOADING_SETTINGS: 設定をロード中
   SAVING_SETTINGS: 設定を保存中
   START_DEVICE: デバイスを開始
   REFRESH: リフレッシュ
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: BDM開始モード
   HDDMODE: HDDデバイス開始モード
   ETHMODE: ETHデバイス開始モード
   APPMODE: アプリメニュー表示モード
   AUTO: 自動
   MANUAL: 手動
-  STARTNBD: NBDサーバを開始
-  STARTINGNBD: NBDサーバを開始します…
-  RUNNINGNBD: NBDサーバは開始しました
-  STARTFAILNBD: NBDサーバ開始に失敗しました
-  UNLOADNBD: NBDサーバを取消中…
+  STARTNBD: NBDサーバーを開始
+  STARTINGNBD: NBDサーバーを開始します…
+  RUNNINGNBD: NBDサーバーは開始しました
+  STARTFAILNBD: NBDサーバーの開始に失敗しました
+  UNLOADNBD: NBDサーバーを取消中…
   EXITTO: IGRパス
   BGCOLOR: 背景色
   TXTCOLOR: 文字色
-  CAT_SMB_SERVER: '- SMBサーバ -'
+  CAT_SMB_SERVER: '- SMBサーバー -'
   IP_ADDRESS_TYPE: IPアドレスタイプ
-  IP_ADDRESS_TYPE_STATIC:
-  - untranslated
-  - original: Static
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_STATIC: Static
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: IPアドレス
   ADDRESS: アドレス
   MASK: マスク
   GATEWAY: ゲートウェイ
-  DNS_SERVER: DNSサーバ
+  DNS_SERVER: DNSサーバー
   PORT: ポート
   SHARE: 共有名
   USER: ユーザー名
   PASSWORD: パスワード
   NOT_SET: <未設定>
   ADDRESS_TYPE: アドレスタイプ
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
-  ACCEPT: OK
-  DELETE_WARNING: 削除すると元に戻せません。よろしいですか？
-  RENAME: 名前変更
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
+  ACCEPT: 分かった
+  DELETE_WARNING: 削除すると二度と元に戻せません。よろしいですか？
+  RENAME: 名前を変更
   DELETE: 削除
   RUN: 実行
   GFX_SETTINGS: 表示設定
-  ENABLE_WRITE:
-  - untranslated
-  - original: Write Operations
+  ENABLE_WRITE: 書き込み操作
   LASTPLAYED: 最後にプレイしたゲームを記憶する
   SELECTBUTTON: セレクトボタン
   ERR_FRAGMENTED: ゲームがデフラグされていません
-  ERR_FILE_INVALID: ゲーム（アプリ）を開始できませんでした
-  TEST:
-  - untranslated
-  - original: Test Changes
+  ERR_FILE_INVALID: ゲーム（アプリ）を開始出来ませんでした
+  TEST: テストの変更
   HINT_GUEST: GUESTでログインする場合は空欄
   HINT_MODE1: 読み込み速度の補正
   HINT_MODE2: データ読み込みをシンクロ化
@@ -142,7 +118,7 @@ translations:
   MODIFY: 変更
   ABORT: 中止
   RESET: リセット
-  USE_GENERIC: 簡易VMC作成
+  USE_GENERIC: 簡易VMCの作成
   VMC_SCREEN: VMC設定
   VMC_NAME: ファイル名
   SIZE: サイズ
@@ -163,9 +139,7 @@ translations:
   VMODE: 画面モード
   UICOLOR: ダイアログの色
   SELCOLOR: 選択時の色
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
+  RESETCOLOR: 色をリセット
   INFO: インフォ
   ALTSTARTUP: カスタムELF
   COLOR_SELECTION: 表示色設定
@@ -180,9 +154,7 @@ translations:
   VMC_SLOT2: VMCスロット2
   GAME_ID: ゲームID
   DMA_MODE: DMAモード
-  VSYNC:
-  - untranslated
-  - original: V-Sync
+  VSYNC: 垂直同期
   MODE1: モード 1
   MODE2: モード 2
   MODE3: モード 3
@@ -191,30 +163,24 @@ translations:
   MODE6: モード 6
   GSCONFIG: GSM設定
   ETH_OPMODE: ETHリンクモード
-  ETH_100MFDX: 100Mbit full-duplex
-  ETH_100MHDX: 100Mbit half-duplex
-  ETH_10MFDX: 10Mbit full-duplex
-  ETH_10MHDX: 10Mbit half-duplex
+  ETH_100MFDX: 100Mbit 全二重
+  ETH_100MHDX: 100Mbit 半二重
+  ETH_10MFDX: 10Mbit 全二重
+  ETH_10MHDX: 10Mbit 半二重
   GSM_SETTINGS: GSM設定
-  ENABLEGSM:
-  - untranslated
-  - original: GSM Selector
+  ENABLEGSM: GSMセレクター
   HINT_ENABLEGSM: GSM設定をオン/オフ
   HINT_GSMVMODE: 指定されたモードを常に有効化
   XOFFSET: 水平調整
   HINT_XOFFSET: 水平方向の表示位置を微調整
   YOFFSET: 垂直調整
   HINT_YOFFSET: 垂直方向の表示位置を微調整
-  OVERSCAN:
-  - untranslated
-  - original: Overscan
-  HINT_OVERSCAN: Overscan Adjustment
+  OVERSCAN: オーバースキャン
+  HINT_OVERSCAN: オーバースキャンの調整
   GSMSKIPVIDEOS: FMVスキップ
   HINT_GSMSKIPVIDEOS: フルモーションムービーをスキップ
   CHEAT_SETTINGS: チート設定
-  ENABLECHEAT:
-  - untranslated
-  - original: PS2RD Cheat Engine
+  ENABLECHEAT: PS2RDチートエンジン
   HINT_ENABLECHEAT: PS2RDチートをゲーム毎に指定
   CHEATMODE: PS2RDチートモード
   HINT_CHEATMODE: 自動/手動チート選択
@@ -224,9 +190,7 @@ translations:
   NO_CHEATS_FOUND: チートファイルが見つかりません
   DL_DEFAULTS: デフォルト設定をダウンロード
   NET_UPDATE: ネットワークアップデート
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE_ALL: 既存のレコードを上書き
   NET_UPDATE_FAILED: アップデートが失敗しました
   NET_UPDATE_CONN_FAILED: アップデートサーバに接続できませんでした
   NET_UPDATE_DONE: アップデート完了
@@ -241,27 +205,17 @@ translations:
   HINT_PS2LOGO: 本体リージョンとディスクが一致した場合のみ表示されます
   PADEMUCONFIG: PADEMUの設定
   PADEMU_SETTINGS: PADEMUの設定
-  PADEMU_ENABLE:
-  - untranslated
-  - original: Pad Emulator
+  PADEMU_ENABLE: パッドエミュレーター
   HINT_PADEMU_ENABLE: ゲーム毎にPADEMUの有効/無効を指定
   PADEMU_MODE: PADEMUモード
   HINT_PADEMU_MODE: モードを選択
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34USB_MODE: デュアルショック3/4 USB
+  DS34BT_MODE: デュアルショック3/4 BT
   PADPORT: 'ポート番号:'
   HINT_PAD_PORT: PADEMUを適用するポートを指定
-  PADEMU_PORT:
-  - untranslated
-  - original: Emulation
+  PADEMU_PORT: エミュレーション
   HINT_PADEMU_PORT: ポート毎にPADEMUを適用
-  PADEMU_VIB:
-  - untranslated
-  - original: Vibration
+  PADEMU_VIB: 振動
   HINT_PADEMU_VIB: ポート毎に振動の有効/無効を指定
   USBDG_MAC: 'BluetoothアダプタのMACアドレス:'
   PAD_MAC: 'DSのペア設定MACアドレス　　　　:'
@@ -271,36 +225,20 @@ translations:
   NOT_CONNECTED: 接続されていません
   BTINFO: Bluetooth アダプタ情報
   HINT_BTINFO: さらにサポートされている機能を表示
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
-  SUPFEATURES: 'サポート機能:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
+  HCIVER: 'HCIバージョン：'
+  LMPVER: 'LMPバージョン：'
+  MANUFACTURER: 'メーカーID：'
+  SUPFEATURES: 'サポート機能：'
+  'YES': 'はい'
+  'NO': 'いいえ'
   BT_SUPPORTED: BluetoothアダプタはDS3 / DS4コントローラをサポートしています
   BT_NOTSUPPORTED: BluetoothアダプタはDS3 / DS4コントローラをサポートしていません
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
+  MTAP_ENABLE: マルチタップエミュレーション
   HINT_MTAP_ENABLE: 選択したゲームのマルチタップエミュレーションをオン/オフにします
   MTAP_PORT: マルチタップエミュレータのポート
   HINT_MTAP_PORT: マルチタップエミュレーション用のポートを選択
-  PADEMU_WORKAROUND:
-  - untranslated
-  - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  PADEMU_WORKAROUND: 偽のDS3の回避策
+  HINT_PADEMU_WORKAROUND: 一部の偽のDS3には回避策が必要です。このオプションを使用すると、回避策が有効になります。
   GSM_FIELD_FIX: FIELD反転をエミュレートする
   HINT_GSM_FIELD_FIX: プログレッシブビデオモードでグリッチするゲームを修正しました
   PARENLOCKCONFIG: パレンタルロック設定
@@ -313,178 +251,64 @@ translations:
   PARENLOCK_INVALID_PASSWORD: エラー - このパスワードは使用できません
   ERR_VMC_FRAGMENTED_CONTINUE: VMC ％s ファイルは破損しています。 スロット ％d のメモリカードに保存しますか？
   AUDIO_SETTINGS: オーディオ設定
-  SFX:
-  - untranslated
-  - original: Sound Effects
-  BOOT_SND:
-  - untranslated
-  - original: Boot Sound
+  SFX: 効果音
+  BOOT_SND: 起動音
   SFX_VOLUME: 効果音の音量
   BOOT_SND_VOLUME: 起動音の音量
   CFM_VMODE_CHG: ビデオモードの変更を確認しますか？
   CACHE_HDD_GAME_LIST: ゲームリストをキャッシュ（HDD）
-  ENABLE_NOTIFICATIONS:
-  - untranslated
-  - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
-  OPTIONS:
-  - untranslated
-  - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
-  INFO_GENRE:
-  - untranslated
-  - original: Genre
-  INFO_RELEASE:
-  - untranslated
-  - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
-  INFO_DESCRIPTION:
-  - untranslated
-  - original: Description
-  BLOCKDEVICE_SETTINGS:
-  - untranslated
-  - original: Block Devices
-  CONTROLLER_SETTINGS:
-  - untranslated
-  - original: Controller Settings
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
-  USB_GAMES:
-  - untranslated
-  - original: USB Games
-  ILINK_GAMES:
-  - untranslated
-  - original: iLink Games
-  MX4SIO_GAMES:
-  - untranslated
-  - original: MX4SIO Games
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS:
-  - untranslated
-  - original: Pad macro Settings
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD SETTINGS
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
+  ENABLE_NOTIFICATIONS: 通知
+  CFG_NOTIFICATION: 構成が %s からロードされました。
+  THM_NOTIFICATION: テーマが %s からロードされました。
+  LNG_NOTIFICATION: 言語が %s からロードされました。
+  PARTITION_NOTIFICATION: 'パーティション%sがマウントされました。'
+  OPTIONS: オプション
+  GAME_SETTINGS_SAVED: ゲーム設定が保存されました。
+  GAME_SETTINGS_REMOVED: '設定%sが削除されました。'
+  NET_UPDATE_HINT: 有効にすると、既存のゲーム互換性設定が上書きされます。
+  SETTINGS_SOURCE: 設定モード
+  GLOBAL_SETTINGS: グローバル
+  PERGAME_SETTINGS: ゲームごと
+  ALL_SETTINGS: 全て
+  GAME_SETTINGS_PROMPT: 削除する設定を選択します。
+  FORUM_DETAILS: 'サポートフォーラム：'
+  INFO_TITLE: タイトル
+  INFO_GENRE: ジャンル
+  INFO_RELEASE: リリース
+  INFO_DEVELOPER: 開発者
+  INFO_DESCRIPTION: 説明
+  BLOCKDEVICE_SETTINGS: ブロックデバイス
+  CONTROLLER_SETTINGS: コントローラーの設定
+  HINT_BDM_START: ブロックデバイスマネージャーのオン/オフを切り替えます。
+  HINT_BLOCK_DEVICES: ブロックデバイス(USBなど)のオン/オフを切り替えます。
+  USB_GAMES: USBゲーム
+  ILINK_GAMES: iLinkゲーム
+  MX4SIO_GAMES: MX4SIOゲーム
+  PADMACROCONFIG: パッドマクロの設定
+  PADMACRO_SETTINGS: パッドマクロの設定
+  PADMACRO_ENABLE: パッドマクロ
+  PADMACRO_SLOWDOWN: 'アナログスローダウン：'
+  HINT_PADMACRO_SLOWDOWN_AXIS: ボタンを押したときのアナログスティックの範囲を狭くする
+  LEFT_ANALOG: 左スティック
+  RIGHT_ANALOG: 右スティック
+  PADMACRO_INVERT_AXIS: 'アナログ軸反転：'
+  HINT_PADMACRO_INVERT_AXIS: アナログスティックの軸を反転
+  TURBO_SPEED: ターボボタンの速度
+  HINT_TURBO_SPEED: ターボがアクティブな時にボタンを押す速さ
+  ACT_WHILE_PRESSED: ボタンを押している間
+  ACT_TOGGLED: ボタンで切り替え
+  LANGUAGE_JAPANESE: 日本語
+  LANGUAGE_ENGLISH: 英語
+  LANGUAGE_FRENCH: フランス語
+  LANGUAGE_SPANISH: スペイン語
+  LANGUAGE_GERMAN: ドイツ語
+  LANGUAGE_ITALIAN: イタリア語
+  LANGUAGE_DUTCH: オランダ語
+  LANGUAGE_PORTUGUESE: ポルトガル語
+  LANGUAGE_RUSSIAN: ロシア語
+  LANGUAGE_KOREAN: 韓国語
+  LANGUAGE_TRAD_CHINESE: 繁体字中国語
+  LANGUAGE_SIMPL_CHINESE: 簡体字中国語
+  OSD_SETTINGS: OSD設定
+  OSD_SETTINGS_LNG: OSD言語
+  ENABLE_LNG: 言語を変更

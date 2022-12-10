@@ -1,0 +1,311 @@
+translations:
+  LOCALE: Ryukyuan
+  SAVE_CHANGES: 設定たぶいん
+  BACK: むどぅいん
+  NETCONFIG: ネットワーク設定
+  SHOW_ADVANCED_OPTS: 詳細オプション
+  NO_ITEMS: <未設定>
+  SETTINGS_SAVED: 設定%sんかいたぶやびたん
+  ERROR_SAVING_SETTINGS: 設定保存中んかいエラーぬ発生さびたん
+  EXIT: 終了
+  SETTINGS: 設定
+  MENU: メニュー
+  BDM_GAMES: BDMゲーム
+  HDD_GAMES: HDDゲーム
+  NET_GAMES: ETHゲーム
+  APPS: アプリ
+  THEME: テーマ
+  LANGUAGE: 言語
+  CONFIRMATION_POFF: システム終了しー電源ちやびーん
+  CONFIRMATION_EXIT: ブラウザんかいむどぅやびーが？
+  CONFIRMATION_CANCEL_UPDATE: 変更キャンセルさびーが？
+  HDD_NOT_CONNECTED_ERROR: '%d: HDDが接続さりやびらん'
+  HDD_NOT_FORMATTED_ERROR: '%d: HDDがフォーマットさりやびらん'
+  NETWORK_STARTUP_ERROR: '%d: ネットワーク開始エラー'
+  NETWORK_STARTUP_ERROR_NETIF: '%d: ネットワークアダプタぬ接続さりやびらん'
+  NETWORK_STARTUP_ERROR_CONN: '%d: SMBサーバーんかい接続なやびらん'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: SMBサーバーんかいログインなやびらん'
+  NETWORK_STARTUP_ERROR_SHARE: '%d: SMBフォルダ開きやびらん'
+  NETWORK_SHARE_LIST_ERROR: '%d: SMBゲームぬ見ちかやびらん'
+  NETWORK_GAMES_LIST_ERROR: '%d: ゲームぬ見ちかやびらん'
+  NETWORK_ERROR_DHCP_FAIL: '%d: DHCPサーバーぬ見ちかやびらん'
+  NETWORK_ERROR_LINK_FAIL: '%d: ネットワーク接続ぬ見ちかやびらん'
+  'ON': オン
+  'OFF': オフ
+  OK: 分かたん
+  SELECT: 選択
+  CANCEL: キャンセル
+  CIRCLE: O
+  CROSS: X
+  GAMES_LIST: ゲームリスト
+  COMPAT_SETTINGS: ゲーム設定
+  REMOVE_ALL_SETTINGS: 設定削除
+  SCROLLING: 画面スクロール
+  SLOW: にーさん
+  MEDIUM: 普通
+  FAST: ふぇーさん
+  DEFDEVICE: 初期メニュー
+  LOAD_FROM_DISC: ディスクからロード
+  PLEASE_WAIT: 待っちくぃみそーれー
+  ERROR_LOADING_ID: ゲームIDロード中んかいエラーぬ発生さびたん
+  AUTOSORT: 自動的に並べい替い
+  ERR_LOADING_LANGFILE: 言語設定ロード中んかいエラーぬ発生さびたん
+  DEBUG: デバッグぬいる
+  NO_CONTROLLER: コントローラーぬ見ちかやびらん。待っちくぃみそーれー…
+  COVERART: カバーアート
+  WIDE_SCREEN: ワイドスクリーン
+  POWEROFF: 電源ちーん
+  LOADING_SETTINGS: 設定ロード中
+  SAVING_SETTINGS: 設定保存中
+  START_DEVICE: デバイス開始
+  REFRESH: リフレッシュ
+  BDMMODE: BDM開始モード
+  HDDMODE: HDDデバイス開始モード
+  ETHMODE: ETHデバイス開始モード
+  APPMODE: アプリメニュー表示モード
+  AUTO: 自動
+  MANUAL: 手動
+  STARTNBD: NBDサーバー開始
+  STARTINGNBD: NBDサーバー開始さびーん…
+  RUNNINGNBD: NBDサーバーや開始さびたん
+  STARTFAILNBD: NBDサーバーぬ開始んかいしーやんじゃびたん
+  UNLOADNBD: NBDサーバー取消中…
+  EXITTO: IGRパス
+  BGCOLOR: 背景いる
+  TXTCOLOR: 文字いる
+  CAT_SMB_SERVER: '- SMBサーバー -'
+  IP_ADDRESS_TYPE: IPアドレスタイプ
+  IP_ADDRESS_TYPE_STATIC: Static
+  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS: IPアドレス
+  ADDRESS: アドレス
+  MASK: マスク
+  GATEWAY: ゲートウェイ
+  DNS_SERVER: DNSサーバー
+  PORT: ポート
+  SHARE: 共有名
+  USER: ユーザー名
+  PASSWORD: パスワード
+  NOT_SET: <未設定>
+  ADDRESS_TYPE: アドレスタイプ
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
+  ACCEPT: 分かたん
+  DELETE_WARNING: 削除しーねー元んかい戻しやびらん。ゆたさいびーが？
+  RENAME: なめー変更
+  DELETE: 削除
+  RUN: 実行
+  GFX_SETTINGS: 表示設定
+  ENABLE_WRITE: 書き込み操作
+  LASTPLAYED: 最後んかいプレイさるゲームうびーん
+  SELECTBUTTON: セレクトボタン
+  ERR_FRAGMENTED: ゲームぬデフラグさりやびらん
+  ERR_FILE_INVALID: ゲーム（アプリ）開始なやびらんたん
+  TEST: テストぬ変更
+  HINT_GUEST: GUESTっしログインするばーや空欄
+  HINT_MODE1: 読み込み速度ぬ補正
+  HINT_MODE2: データ読み込みシンクロ化
+  HINT_MODE3: Syscallぬ解除
+  HINT_MODE4: 一部ぬムービースキップ
+  HINT_MODE5: 二層ディスク(DVD9)用設定
+  HINT_MODE6: IGR無効化
+  HINT_VMC_SIZE: サイズ変更しーねーVMCーフォーマットさりやびーん
+  CREATE: VMCファイル作成
+  START: 開始
+  MODIFY: 変更
+  ABORT: 中止
+  RESET: リセット
+  USE_GENERIC: 簡易VMC作成
+  VMC_SCREEN: VMC設定
+  VMC_NAME: ファイル名
+  SIZE: サイズ
+  VMC_STATUS: 状態
+  VMC_PROGRESS: 進行
+  VMC_FILE_EXISTS: VMCファイル作成済
+  VMC_FILE_ERROR: VMCファイルぬサイズぬ正しくあいびらん
+  VMC_FILE_NEW: VMCファイル未作成
+  ERR_VMC_CONTINUE: VMC %s でぃエラー。スロット %d ぬメモリカードちかやびーが？
+  AUTOREFRESH: 自動リフレッシュ
+  ABOUT: OPLにちいてぃ
+  DEVS: コーディング
+  QANDA: QAテスター
+  BDM_PREFIX: BDMプリフィクスパス
+  HINT_EXITPATH: IGR後に指定さったるカスタムELF実行さびーん
+  HINT_SPINDOWN: 秒数指定。0っし無効化
+  HDD_SPINDOWN: 自動HDDスピンダウン
+  VMODE: 画面モード
+  UICOLOR: ダイアログぬいる
+  SELCOLOR: 選択時ぬいる
+  RESETCOLOR: いるリセット
+  INFO: インフォ
+  ALTSTARTUP: カスタムELF
+  COLOR_SELECTION: 表示いる設定
+  RECONNECT: 再接続
+  HINT_SHARENAME: まじりぬ共有表示するばーや空欄
+  ETH_PREFIX: ETHプリフィクスパス
+  BACKSPACE: 一文字消去
+  SPACE: スペース
+  ENTER: 決定
+  MODE: モード
+  VMC_SLOT1: VMCスロット1
+  VMC_SLOT2: VMCスロット2
+  GAME_ID: ゲームID
+  DMA_MODE: DMAモード
+  VSYNC: 垂直同期
+  MODE1: モード 1
+  MODE2: モード 2
+  MODE3: モード 3
+  MODE4: モード 4
+  MODE5: モード 5
+  MODE6: モード 6
+  GSCONFIG: GSM設定
+  ETH_OPMODE: ETHリンクモード
+  ETH_100MFDX: 100Mbit 全二重
+  ETH_100MHDX: 100Mbit 半二重
+  ETH_10MFDX: 10Mbit 全二重
+  ETH_10MHDX: 10Mbit 半二重
+  GSM_SETTINGS: GSM設定
+  ENABLEGSM: GSMセレクター
+  HINT_ENABLEGSM: GSM設定オン/オフ
+  HINT_GSMVMODE: 指定さったるモード常に有効化
+  XOFFSET: 水平調整
+  HINT_XOFFSET: 水平方向ぬ表示位置微調整
+  YOFFSET: 垂直調整
+  HINT_YOFFSET: 垂直方向ぬ表示位置微調整
+  OVERSCAN: オーバースキャン
+  HINT_OVERSCAN: オーバースキャンぬ調整
+  GSMSKIPVIDEOS: FMVスキップ
+  HINT_GSMSKIPVIDEOS: フルモーションムービースキップ
+  CHEAT_SETTINGS: チート設定
+  ENABLECHEAT: PS2RDチートエンジン
+  HINT_ENABLECHEAT: PS2RDチートゲーム毎んかい指定
+  CHEATMODE: PS2RDチートモード
+  HINT_CHEATMODE: 自動/手動チート選択
+  CHEATMODEAUTO: 自動チート選択
+  CHEATMODESELECT: 手動チート選択
+  ERR_CHEATS_LOAD_FAILED: チートファイル適用なやびらんたん
+  NO_CHEATS_FOUND: チートファイルぬ見ちかやびらん
+  DL_DEFAULTS: デフォルト設定ダウンロード
+  NET_UPDATE: ネットワークアップデート
+  NET_UPDATE_ALL: 既存ぬレコード上書き
+  NET_UPDATE_FAILED: アップデートぬしーやんじゃびたん
+  NET_UPDATE_CONN_FAILED: アップデートサーバーんかい接続なやびらんたん
+  NET_UPDATE_DONE: アップデートぬしーうわやびたん
+  NET_UPDATE_CANCELLED: アップデートー中止さりやびたん
+  CONFIRMATION_SETTINGS_UPDATE: ネットワークから設定ダウンロードさびーが？
+  CUSTOMIZED_SETTINGS: カスタム設定
+  DOWNLOADED_DEFAULTS: デフォルト設定ダウンロード
+  AUTO_START_IN_N_SECS: 後 %i 秒っし自動的にスタートさびーん
+  AUTOSTARTLAST: 自動スタート
+  HINT_AUTOSTARTLAST: 開始までぃぬ秒数指定。0っし無効化
+  PS2LOGO: PS2ロゴ
+  HINT_PS2LOGO: 本体リージョンとぅディスクぬ一致さるばーぬみ表示さりやびーん
+  PADEMUCONFIG: PADEMUぬ設定
+  PADEMU_SETTINGS: PADEMUぬ設定
+  PADEMU_ENABLE: パッドエミュレーター
+  HINT_PADEMU_ENABLE: ゲーム毎んかいPADEMUぬ有効/無効指定
+  PADEMU_MODE: PADEMUモード
+  HINT_PADEMU_MODE: モード選択
+  DS34USB_MODE: デュアルショック3/4 USB
+  DS34BT_MODE: デュアルショック3/4 BT
+  PADPORT: 'ポート番号：'
+  HINT_PAD_PORT: PADEMU適用するポート指定
+  PADEMU_PORT: エミュレーション
+  HINT_PADEMU_PORT: ポート毎んかいPADEMU適用
+  PADEMU_VIB: 振動
+  HINT_PADEMU_VIB: ポート毎んかい振動ぬ有効/無効指定
+  USBDG_MAC: 'BluetoothアダプタぬMACアドレス：'
+  PAD_MAC: 'DSぬペア設定MACアドレス　　　　：'
+  PAIR: ペア設定
+  PAIR_PAD: DSコントローラーペア設定
+  HINT_PAIRPAD: BluetoothぬMACアドレス指定しDSコントローラーペア設定
+  NOT_CONNECTED: 接続さりやびらん
+  BTINFO: Bluetooth アダプタ情報
+  HINT_BTINFO: さらにサポートさりとーる機能表示
+  HCIVER: 'HCIバージョン：'
+  LMPVER: 'LMPバージョン：'
+  MANUFACTURER: 'メーカーID：'
+  SUPFEATURES: 'サポート機能：'
+  'YES': 'はい'
+  'NO': 'うぅーうぅー'
+  BT_SUPPORTED: BluetoothアダプターDS3 / DS4コントローラサポートそーいびーん
+  BT_NOTSUPPORTED: BluetoothアダプターDS3 / DS4コントローラサポートさびらん
+  MTAP_ENABLE: マルチタップエミュレーション
+  HINT_MTAP_ENABLE: 選択さるゲームぬマルチタップエミュレーションオン/オフなさびーん
+  MTAP_PORT: マルチタップエミュレータぬポート
+  HINT_MTAP_PORT: マルチタップエミュレーション用ぬポート選択
+  PADEMU_WORKAROUND: 偽ぬDS3ぬ回避策
+  HINT_PADEMU_WORKAROUND: 一部ぬ偽ぬDS3ねー回避策がいりゆーやいびーん。くぬオプション使用しーねー、回避策が有効なやびーん。
+  GSM_FIELD_FIX: FIELD反転エミュレートすん
+  HINT_GSM_FIELD_FIX: プログレッシブビデオモードっしグリッチするゲーム修正さびたん
+  PARENLOCKCONFIG: パレンタルロック設定
+  PARENLOCK_PASSWORD: パレンタルロックパスワード
+  PARENLOCK_PASSWORD_HINT: パレンタルロック無効なすんがー空白ぬままなさびーん
+  PARENLOCK_ENTER_PASSWORD_TITLE: パレンタルロックパスワード入力しくぃみそーれー
+  PARENLOCK_PASSWORD_INCORRECT: パレンタルロックぬパスワードぬ正しくあいびらん
+  PARENLOCK_DISABLE_WARNING: パレンタルロックー無効やいびーん
+  BUILD_DETAILS: ビルドオプション：
+  PARENLOCK_INVALID_PASSWORD: エラー - くぬパスワードー使用なやびらん
+  ERR_VMC_FRAGMENTED_CONTINUE: VMC ％s ファイロー破損そーいびーん。 スロット ％d ぬメモリカードんかいたぶやびーが？
+  AUDIO_SETTINGS: オーディオ設定
+  SFX: 効果音
+  BOOT_SND: 起動音
+  SFX_VOLUME: 効果音ぬ音量
+  BOOT_SND_VOLUME: 起動音ぬ音量
+  CFM_VMODE_CHG: ビデオモードぬ変更確認さびーが？
+  CACHE_HDD_GAME_LIST: ゲームリストキャッシュ（HDD）
+  ENABLE_NOTIFICATIONS: 通知
+  CFG_NOTIFICATION: 構成ぬ %s からロードさりやびたん。
+  THM_NOTIFICATION: テーマぬ %s からロードさりやびたん。
+  LNG_NOTIFICATION: 言語ぬ %s からロードさりやびたん。
+  PARTITION_NOTIFICATION: 'パーティション%sぬマウントさりやびたん。'
+  OPTIONS: オプション
+  GAME_SETTINGS_SAVED: ゲーム設定ぬたぶらりやびたん。
+  GAME_SETTINGS_REMOVED: '設定%sぬ削除さりやびたん。'
+  NET_UPDATE_HINT: 有効なしねー、既存ぬゲーム互換性設定ぬ上書きさりやびーん。
+  SETTINGS_SOURCE: 設定モード
+  GLOBAL_SETTINGS: グローバル
+  PERGAME_SETTINGS: ゲームぐとぅ
+  ALL_SETTINGS: まじり
+  GAME_SETTINGS_PROMPT: 削除する設定選択さびーん。
+  FORUM_DETAILS: 'サポートフォーラム：'
+  INFO_TITLE: タイトル
+  INFO_GENRE: ジャンル
+  INFO_RELEASE: リリース
+  INFO_DEVELOPER: 開発者
+  INFO_DESCRIPTION: 説明
+  BLOCKDEVICE_SETTINGS: ブロックデバイス
+  CONTROLLER_SETTINGS: コントローラーぬ設定
+  HINT_BDM_START: ブロックデバイスマネージャーぬオン/オフ切り替いやびーん。
+  HINT_BLOCK_DEVICES: ブロックデバイス(USBんでー)ぬオン/オフ切り替いやびーん。
+  USB_GAMES: USBゲーム
+  ILINK_GAMES: iLinkゲーム
+  MX4SIO_GAMES: MX4SIOゲーム
+  PADMACROCONFIG: パッドマクロぬ設定
+  PADMACRO_SETTINGS: パッドマクロぬ設定
+  PADMACRO_ENABLE: パッドマクロ
+  PADMACRO_SLOWDOWN: 'アナログスローダウン：'
+  HINT_PADMACRO_SLOWDOWN_AXIS: ボタンうちゃるとぅちぬアナログスティックぬ範囲いばくすん
+  LEFT_ANALOG: ふぃじゃいスティック
+  RIGHT_ANALOG: にじりスティック
+  PADMACRO_INVERT_AXIS: 'アナログ軸反転：'
+  HINT_PADMACRO_INVERT_AXIS: アナログスティックぬ軸反転
+  TURBO_SPEED: ターボボタンぬ速度
+  HINT_TURBO_SPEED: ターボぬアクティブなとぅちにボタンうすんふぇーさ
+  ACT_WHILE_PRESSED: ボタンうちょーる間
+  ACT_TOGGLED: ボタンっし切り替い
+  LANGUAGE_JAPANESE: やまとぅぐち
+  LANGUAGE_ENGLISH: 英語
+  LANGUAGE_FRENCH: フランス語
+  LANGUAGE_SPANISH: スペイン語
+  LANGUAGE_GERMAN: ドイツ語
+  LANGUAGE_ITALIAN: イタリア語
+  LANGUAGE_DUTCH: オランダ語
+  LANGUAGE_PORTUGUESE: ポルトガル語
+  LANGUAGE_RUSSIAN: ロシア語
+  LANGUAGE_KOREAN: 韓国語
+  LANGUAGE_TRAD_CHINESE: 繁体字中国語
+  LANGUAGE_SIMPL_CHINESE: 簡体字中国語
+  OSD_SETTINGS: OSD設定
+  OSD_SETTINGS_LNG: OSD言語
+  ENABLE_LNG: 言語変更
