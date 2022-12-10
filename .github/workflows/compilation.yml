@@ -9,13 +9,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: ghcr.io/ps2dev/ps2dev:latest
+    container: ghcr.io/ps2homebrew/ps2homebrew:main
     steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: ps2homebrew/Open-PS2-Loader
+
+      - uses: actions/checkout@v3
+        with:
+          path: lng_src
+
       - name: Compile
         run: |
-          apk add build-base git zip gawk python3 py3-pip bash
-          git clone --depth 1 https://github.com/ps2homebrew/Open-PS2-Loader
-          cd Open-PS2-Loader
-          pip3 install -r requirements.txt
-          make --trace download_lng languages
+          make --trace languages
           sh ./lng_pack.sh
