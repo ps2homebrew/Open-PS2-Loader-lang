@@ -12,9 +12,7 @@ translations:
   ERROR_SAVING_SETTINGS: Erro ao salvar as configurações!
   EXIT: Sair
   SETTINGS: Configurações
-  MENU:
-  - untranslated
-  - original: Menu
+  MENU: Menu
   BDM_GAMES: Jogos no BDM
   HDD_GAMES: Jogos no HDD
   NET_GAMES: Jogos no ETH
@@ -46,9 +44,9 @@ translations:
   COMPAT_SETTINGS: Configurações do Jogo
   REMOVE_ALL_SETTINGS: Remover Configurações
   SCROLLING: Velocidade da Rolagem
-  SLOW: Lento
-  MEDIUM: Médio
-  FAST: Rápido
+  SLOW: Lenta
+  MEDIUM: Média
+  FAST: Rápida
   DEFDEVICE: Menu Padrão
   LOAD_FROM_DISC: Carregar do Disco
   PLEASE_WAIT: Por favor aguarde.
@@ -69,9 +67,7 @@ translations:
   ETHMODE: Modo de Início no ETH
   APPMODE: Modo de Início nos Aplicativos
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar o Servidor NBD
   STARTINGNBD: O servidor NBD está iniciando…
   RUNNINGNBD: O servidor NBD está sendo executado…
@@ -83,9 +79,7 @@ translations:
   CAT_SMB_SERVER: '- Servidor SMB -'
   IP_ADDRESS_TYPE: Tipo de Endereço IP
   IP_ADDRESS_TYPE_STATIC: Estático
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: Endereço IP
   ADDRESS: Endereço
   MASK: Máscara
@@ -97,12 +91,8 @@ translations:
   PASSWORD: Senha
   NOT_SET: <sem definição>
   ADDRESS_TYPE: Tipo de Endereço
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Aceitar
   DELETE_WARNING: O item será apagado PERMANENTEMENTE, continuar?
   RENAME: Renomear
@@ -158,16 +148,10 @@ translations:
   ETH_PREFIX: Prefixo do Caminho ETH
   BACKSPACE: Apagar
   SPACE: Espaço
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Modo
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
+  VMC_SLOT1: VMC Slot 1
+  VMC_SLOT2: VMC Slot 2
   GAME_ID: ID do Jogo
   DMA_MODE: Modo de DMA
   VSYNC: Sincronização do Vídeo
@@ -191,16 +175,12 @@ translations:
   HINT_XOFFSET: Ajustes Horizontais.
   YOFFSET: Posição Vertical
   HINT_YOFFSET: Ajustes Verticais.
-  OVERSCAN:
-  - untranslated
-  - original: Overscan
+  OVERSCAN: Overscan
   HINT_OVERSCAN: Ajustes do Overscan.
   GSMSKIPVIDEOS: Pular FMV
   HINT_GSMSKIPVIDEOS: Pula os vídeos do jogo.
   CHEAT_SETTINGS: Configurações de Trapaças
-  ENABLECHEAT:
-  - untranslated
-  - original: PS2RD Cheat Engine
+  ENABLECHEAT: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Deixar o PS2RD patchear seus jogos
   CHEATMODE: Modo do PS2RD Cheat Engine
   HINT_CHEATMODE: Auto-Selecionar ou Escolher as trapaças.
@@ -208,7 +188,7 @@ translations:
   CHEATMODESELECT: Selecionar Trapaças
   ERR_CHEATS_LOAD_FAILED: 'Erro: Falha ao carregar as trapaças'
   NO_CHEATS_FOUND: Nenhuma trapaça encontrada
-  DL_DEFAULTS: Baixar configurações
+  DL_DEFAULTS: Baixar Configurações
   NET_UPDATE: Atualizar pela Internet
   NET_UPDATE_ALL: Substituir Registros Existentes
   NET_UPDATE_FAILED: Falha na atualização.
@@ -219,26 +199,24 @@ translations:
   CUSTOMIZED_SETTINGS: Configurações Personalizadas
   DOWNLOADED_DEFAULTS: Configurações Baixadas
   AUTO_START_IN_N_SECS: Iniciar automaticamente no %i s…
-  AUTOSTARTLAST: Auto-começar
+  AUTOSTARTLAST: Auto-Começar
   HINT_AUTOSTARTLAST: Valores em segundos (s), 0 para desativar.
   PS2LOGO: Logotipo do PlayStation 2
   HINT_PS2LOGO: Será mostrado apenas para os jogos que for da mesma região do console.
   PADEMUCONFIG: Configurações do DualShock3/4
   PADEMU_SETTINGS: Configurações de Emulação do Controle
   PADEMU_ENABLE: Emulação de Controle
-  HINT_PADEMU_ENABLE: Liga/desliga a emulação de controle para o jogo selecionado.
+  HINT_PADEMU_ENABLE: Liga/Desliga a emulação de controle para o jogo selecionado.
   PADEMU_MODE: Modo de Emulação de Controle
   HINT_PADEMU_MODE: Escolha o modo de emulação de controle.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
+  DS34USB_MODE: DualShock3/4 USB
   DS34BT_MODE: DualShock3/4 Bluetooth
   PADPORT: 'Configurações da Porta:'
   HINT_PAD_PORT: Escolha a porta do controle emulado para aplicar os ajustes.
   PADEMU_PORT: Emulação
-  HINT_PADEMU_PORT: Liga/desliga o emulador de controle para a porta selecionada.
+  HINT_PADEMU_PORT: Liga/Desliga o emulador de controle para a porta selecionada.
   PADEMU_VIB: Vibração
-  HINT_PADEMU_VIB: Liga/desliga a vibração para o controle emulado da porta selecionada.
+  HINT_PADEMU_VIB: Liga/Desliga a vibração para o controle emulado da porta selecionada.
   USBDG_MAC: 'Endereço MAC do Adaptador USB:'
   PAD_MAC: 'DualShock 3 Sincronizado com o MAC:'
   PAIR: Sincronizar
@@ -295,9 +273,7 @@ translations:
   NET_UPDATE_HINT: Substitui as configurações de compatibilidade de jogos existentes
     ao ativar.
   SETTINGS_SOURCE: Modo de Configuração
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
+  GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por Jogo
   ALL_SETTINGS: Tudo
   GAME_SETTINGS_PROMPT: Selecione um ajuste para remover.
@@ -314,23 +290,19 @@ translations:
   USB_GAMES: Jogos no USB
   ILINK_GAMES: Jogos no iLink
   MX4SIO_GAMES: Jogos no MX4SIO
-  PADMACROCONFIG: Configurar PADMACRO
-  PADMACRO_SETTINGS: Configurações Pad macro
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
+  PADMACROCONFIG: Configurações do PADMACRO
+  PADMACRO_SETTINGS: Configurações do Pad macro
+  PADMACRO_ENABLE: Pad macros
+  PADMACRO_SLOWDOWN: 'Desaceleração Analógica:'
   HINT_PADMACRO_SLOWDOWN_AXIS: Reduz o alcance do analógico quando o botão é pressionado
   LEFT_ANALOG: Analógico Esquerdo
   RIGHT_ANALOG: Analógico Direito
-  PADMACRO_INVERT_AXIS: 'Inverter eixo do analógico:'
-  HINT_PADMACRO_INVERT_AXIS: Inverte eixo do analógico
-  TURBO_SPEED: Velocidade do botão Turbo
-  HINT_TURBO_SPEED: Quão rápido pressionar o bõtão quando o turbo está ativo
+  PADMACRO_INVERT_AXIS: 'Inversão Analógica:'
+  HINT_PADMACRO_INVERT_AXIS: Inverte o eixo do analógico
+  TURBO_SPEED: Velocidade do Botão Turbo
+  HINT_TURBO_SPEED: Define a rapidez do botão quando o turbo está ativo
   ACT_WHILE_PRESSED: Enquanto pressiona o botão
-  ACT_TOGGLED: Ao pressionar o botão
+  ACT_TOGGLED: Ativado pelo botão
   LANGUAGE_JAPANESE: JAPONÊS
   LANGUAGE_ENGLISH: INGLÊS
   LANGUAGE_FRENCH: FRANCÊS
@@ -343,18 +315,10 @@ translations:
   LANGUAGE_KOREAN: COREANO
   LANGUAGE_TRAD_CHINESE: CHINÊS (TRADICIONAL)
   LANGUAGE_SIMPL_CHINESE: CHINÊS (SIMPLIFICADO)
-  OSD_SETTINGS: Configurações OSD
-  OSD_SETTINGS_LNG: Idioma OSD
+  OSD_SETTINGS: Configurações do OSD
+  OSD_SETTINGS_LNG: Idioma do OSD
   ENABLE_LNG: Mudar Idioma
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  BGM: Música de Fundo
+  BGM_VOLUME: Volume da Música de Fundo
+  DEF_BGM_PATH: Música do Tema Padrão
+  DEF_BGM_PATH_HINT: Defina um caminho para transmitir a música para o tema interno.
