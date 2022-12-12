@@ -12,7 +12,9 @@ translations:
   ERROR_SAVING_SETTINGS: Erro ao salvar as configurações!
   EXIT: Sair
   SETTINGS: Configurações
-  MENU: Menu
+  MENU:
+  - untranslated
+  - original: Menu
   BDM_GAMES: Jogos no BDM
   HDD_GAMES: Jogos no HDD
   NET_GAMES: Jogos no ETH
@@ -67,7 +69,9 @@ translations:
   ETHMODE: Modo de Início no ETH
   APPMODE: Modo de Início nos Aplicativos
   AUTO: Automático
-  MANUAL: Manual
+  MANUAL:
+  - untranslated
+  - original: Manual
   STARTNBD: Iniciar o Servidor NBD
   STARTINGNBD: O servidor NBD está iniciando…
   RUNNINGNBD: O servidor NBD está sendo executado…
@@ -79,7 +83,9 @@ translations:
   CAT_SMB_SERVER: '- Servidor SMB -'
   IP_ADDRESS_TYPE: Tipo de Endereço IP
   IP_ADDRESS_TYPE_STATIC: Estático
-  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS_TYPE_DHCP:
+  - untranslated
+  - original: DHCP
   IP_ADDRESS: Endereço IP
   ADDRESS: Endereço
   MASK: Máscara
@@ -91,8 +97,12 @@ translations:
   PASSWORD: Senha
   NOT_SET: <sem definição>
   ADDRESS_TYPE: Tipo de Endereço
-  ADDR_TYPE_IP: IP
-  ADDR_TYPE_NETBIOS: NetBIOS
+  ADDR_TYPE_IP:
+  - untranslated
+  - original: IP
+  ADDR_TYPE_NETBIOS:
+  - untranslated
+  - original: NetBIOS
   ACCEPT: Aceitar
   DELETE_WARNING: O item será apagado PERMANENTEMENTE, continuar?
   RENAME: Renomear
@@ -148,10 +158,16 @@ translations:
   ETH_PREFIX: Prefixo do Caminho ETH
   BACKSPACE: Apagar
   SPACE: Espaço
-  ENTER: Enter
+  ENTER:
+  - untranslated
+  - original: Enter
   MODE: Modo
-  VMC_SLOT1: VMC Slot 1
-  VMC_SLOT2: VMC Slot 2
+  VMC_SLOT1:
+  - untranslated
+  - original: VMC Slot 1
+  VMC_SLOT2:
+  - untranslated
+  - original: VMC Slot 2
   GAME_ID: ID do Jogo
   DMA_MODE: Modo de DMA
   VSYNC: Sincronização do Vídeo
@@ -175,12 +191,16 @@ translations:
   HINT_XOFFSET: Ajustes Horizontais.
   YOFFSET: Posição Vertical
   HINT_YOFFSET: Ajustes Verticais.
-  OVERSCAN: Overscan
+  OVERSCAN:
+  - untranslated
+  - original: Overscan
   HINT_OVERSCAN: Ajustes do Overscan.
   GSMSKIPVIDEOS: Pular FMV
   HINT_GSMSKIPVIDEOS: Pula os vídeos do jogo.
   CHEAT_SETTINGS: Configurações de Trapaças
-  ENABLECHEAT: PS2RD Cheat Engine
+  ENABLECHEAT:
+  - untranslated
+  - original: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Deixar o PS2RD patchear seus jogos
   CHEATMODE: Modo do PS2RD Cheat Engine
   HINT_CHEATMODE: Auto-Selecionar ou Escolher as trapaças.
@@ -209,7 +229,9 @@ translations:
   HINT_PADEMU_ENABLE: Liga/Desliga a emulação de controle para o jogo selecionado.
   PADEMU_MODE: Modo de Emulação de Controle
   HINT_PADEMU_MODE: Escolha o modo de emulação de controle.
-  DS34USB_MODE: DualShock3/4 USB
+  DS34USB_MODE:
+  - untranslated
+  - original: DualShock3/4 USB
   DS34BT_MODE: DualShock3/4 Bluetooth
   PADPORT: 'Configurações da Porta:'
   HINT_PAD_PORT: Escolha a porta do controle emulado para aplicar os ajustes.
@@ -273,7 +295,9 @@ translations:
   NET_UPDATE_HINT: Substitui as configurações de compatibilidade de jogos existentes
     ao ativar.
   SETTINGS_SOURCE: Modo de Configuração
-  GLOBAL_SETTINGS: Global
+  GLOBAL_SETTINGS:
+  - untranslated
+  - original: Global
   PERGAME_SETTINGS: Por Jogo
   ALL_SETTINGS: Tudo
   GAME_SETTINGS_PROMPT: Selecione um ajuste para remover.
@@ -292,7 +316,9 @@ translations:
   MX4SIO_GAMES: Jogos no MX4SIO
   PADMACROCONFIG: Configurações do PADMACRO
   PADMACRO_SETTINGS: Configurações do Pad macro
-  PADMACRO_ENABLE: Pad macros
+  PADMACRO_ENABLE:
+  - untranslated
+  - original: Pad macros
   PADMACRO_SLOWDOWN: 'Desaceleração Analógica:'
   HINT_PADMACRO_SLOWDOWN_AXIS: Reduz o alcance do analógico quando o botão é pressionado
   LEFT_ANALOG: Analógico Esquerdo
