@@ -1,6 +1,6 @@
 comments: |-
   Turkish translation by Gürkan DEMİR <vampire_bs@hotmail.com> aka: dante
-  Turkish translation by Serdar Sağlam 2021-2022 <teknomobil@msn.com> All translations have been revised and corrected.
+  Turkish translation by Serdar Sağlam 2021-2023 <teknomobil@msn.com> All translations have been revised and corrected.
   For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
 translations:
   LOCALE: Turkish
@@ -80,28 +80,20 @@ translations:
   CAT_SMB_SERVER: '- SMB Sunucu -'
   IP_ADDRESS_TYPE: IP Adresi Türü
   IP_ADDRESS_TYPE_STATIC: Statik
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: IP Adresi
   ADDRESS: Adres
   MASK: Maske
   GATEWAY: Ağ Geçidi
   DNS_SERVER: DNS Sunucu
-  PORT:
-  - untranslated
-  - original: Port
+  PORT: Port
   SHARE: Paylaşım
   USER: Kullanıcı
   PASSWORD: Parola
   NOT_SET: <ayarlanmadı>
   ADDRESS_TYPE: Adres Türü
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Onayla
   DELETE_WARNING: Öge kalıcı olarak silinecek, devam edilsin mi?
   RENAME: Adlandır
@@ -173,18 +165,10 @@ translations:
   MODE6: Kip 6
   GSCONFIG: GSM Yapılandırması
   ETH_OPMODE: Ethernet Link Kipi
-  ETH_100MFDX:
-  - untranslated
-  - original: 100Mbit Full-duplex
-  ETH_100MHDX:
-  - untranslated
-  - original: 100Mbit Half-duplex
-  ETH_10MFDX:
-  - untranslated
-  - original: 10Mbit Full-duplex
-  ETH_10MHDX:
-  - untranslated
-  - original: 10Mbit Half-duplex
+  ETH_100MFDX: 100Mbit Full-duplex
+  ETH_100MHDX: 100Mbit Half-duplex
+  ETH_10MFDX: 10Mbit Full-duplex
+  ETH_10MHDX: 10Mbit Half-duplex
   GSM_SETTINGS: GSM Ayarları
   ENABLEGSM: GSM Seçici
   HINT_ENABLEGSM: GSM aç/kapat.
@@ -219,9 +203,7 @@ translations:
   AUTO_START_IN_N_SECS: '%i içinde otomatik başlat…'
   AUTOSTARTLAST: Otomatik Başlat
   HINT_AUTOSTARTLAST: Otomatik başlatmayı kapatmak için saniye cinsinden değer, 0.
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: PS2 Logo
   HINT_PS2LOGO: Konsol bölgesiyle eşleşen mevcut disk logosu görüntülenir.
   PADEMUCONFIG: Denetleyici Emülatörü Yapılandırması
   PADEMU_SETTINGS: Denetleyici Emülatör Ayarları
@@ -229,12 +211,8 @@ translations:
   HINT_PADEMU_ENABLE: Seçili oyun için Denetleyici Emülatörü aç/kapat.
   PADEMU_MODE: Denetleyici Emülatör Kipi
   HINT_PADEMU_MODE: Denetleyici Emülatör kipini seçin.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Port Ayarları:'
   HINT_PAD_PORT: Ayarlar için Denetleyici Emülatör portunu seçin.
   PADEMU_PORT: Emülatör
@@ -340,15 +318,7 @@ translations:
   OSD_SETTINGS: OSD AYARLARI
   OSD_SETTINGS_LNG: OSD Dili
   ENABLE_LNG: Dili değiştir
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  BGM: Fon Müziği
+  BGM_VOLUME: Fon Müziği Seviyesi
+  DEF_BGM_PATH: Varsayılan Tema Müziği
+  DEF_BGM_PATH_HINT: Dahili tema için müzik akışı yolunu ayarlayın.
