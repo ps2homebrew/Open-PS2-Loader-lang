@@ -1,6 +1,6 @@
 comments: |-
   Turkish translation by Gürkan DEMİR <vampire_bs@hotmail.com> aka: dante
-  Turkish translation by Serdar Sağlam 2021-2022 <teknomobil@msn.com> All translations have been revised and corrected.
+  Turkish translation by Serdar Sağlam 2021-2023 <teknomobil@msn.com> All translations have been revised and corrected.
   For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
 translations:
   LOCALE: Turkish
@@ -340,15 +340,7 @@ translations:
   OSD_SETTINGS: OSD AYARLARI
   OSD_SETTINGS_LNG: OSD Dili
   ENABLE_LNG: Dili değiştir
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  BGM: Fon Müziği
+  BGM_VOLUME: Fon Müziği Seviyesi
+  DEF_BGM_PATH: Varsayılan Tema Müziği
+  DEF_BGM_PATH_HINT: Dahili tema için müzik akışı yolunu ayarlayın.
