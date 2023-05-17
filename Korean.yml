@@ -171,10 +171,10 @@ translations:
   MODE6: 모드 6
   GSCONFIG: GSM 구성
   ETH_OPMODE: 이더넷 링크 모드
-  ETH_100MFDX: 100Mbit full-duplex
-  ETH_100MHDX: 100Mbit half-duplex
-  ETH_10MFDX: 10Mbit full-duplex
-  ETH_10MHDX: 10Mbit half-duplex
+  ETH_100MFDX: 100메가비트 양방향
+  ETH_100MHDX: 100메가비트 반양방향
+  ETH_10MFDX: 10메가비트 양방향
+  ETH_10MHDX: 10메가비트 반양방향
   GSM_SETTINGS: GSM 설정
   ENABLEGSM: GSM 선택기
   HINT_ENABLEGSM: GSM 켜기 또는 끄기
@@ -282,7 +282,7 @@ translations:
   GLOBAL_SETTINGS: 글로벌
   PERGAME_SETTINGS: 게임별
   ALL_SETTINGS: 모두
-  GAME_SETTINGS_PROMPT: 제거할 설정을 선택하십시오.
+  GAME_SETTINGS_PROMPT: 제거할 설정을 선택하세요.
   FORUM_DETAILS: '지원 포럼:'
   INFO_TITLE: 타이틀
   INFO_GENRE: 장르
@@ -324,15 +324,7 @@ translations:
   OSD_SETTINGS: OSD 설정
   OSD_SETTINGS_LNG: OSD 언어
   ENABLE_LNG: 언어 변경
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  BGM: 배경 음악
+  BGM_VOLUME: 배경 음악 볼륨
+  DEF_BGM_PATH: 기본 테마 음악
+  DEF_BGM_PATH_HINT: 내부 테마의 음악 스트리밍 경로를 설정합니다.
