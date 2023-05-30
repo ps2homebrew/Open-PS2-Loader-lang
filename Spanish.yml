@@ -1,6 +1,6 @@
 comments: |-
-  Spanish translation by El_Patas - @http://psx-scene.com/forums/members/elpatas/
-  For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
+  Spanish translation by El_Patas - @https://www.psx-place.com/members/el_patas.30357/
+  For Open PS2 Loader v1.1.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
 translations:
   LOCALE: Spanish
   SAVE_CHANGES: Guardar cambios
@@ -41,7 +41,7 @@ translations:
   CIRCLE: Círculo
   CROSS: Equis
   GAMES_LIST: Lista de juegos
-  COMPAT_SETTINGS: Configuración
+  COMPAT_SETTINGS: Configuración del juego
   REMOVE_ALL_SETTINGS: Borrar configuraciones
   SCROLLING: Velocidad desplazamiento
   SLOW: Lento
@@ -55,8 +55,8 @@ translations:
   ERR_LOADING_LANGFILE: Error al cargar el archivo de idioma
   DEBUG: Colores para depuración
   NO_CONTROLLER: Mando no encontrado, esperando…
-  COVERART: Carátulas, serigrafías y fondos
-  WIDE_SCREEN: Pantalla panorámica
+  COVERART: Imágenes diseño gráfico
+  WIDE_SCREEN: 'Relación de aspecto 16:9'
   POWEROFF: Apagar PS2
   LOADING_SETTINGS: Cargando configuración…
   SAVING_SETTINGS: Guardando configuración…
@@ -67,13 +67,11 @@ translations:
   ETHMODE: Modo de inicio para Red
   APPMODE: Modo de inicio para Aplicaciones
   AUTO: Automático
-  MANUAL:
-  - untranslated
-  - original: Manual
+  MANUAL: Manual
   STARTNBD: Iniciar servidor NBD
   STARTINGNBD: Iniciando servidor NBD…
-  RUNNINGNBD: Servidor NBD conectado…
-  STARTFAILNBD: Error al iniciar el servidor NBD.
+  RUNNINGNBD: Servidor NBD conectado
+  STARTFAILNBD: Error al iniciar el servidor NBD
   UNLOADNBD: Cerrando servidor NBD…
   EXITTO: Ruta del IGR
   BGCOLOR: Color de fondo
@@ -81,9 +79,7 @@ translations:
   CAT_SMB_SERVER: '- Servidor SMB -'
   IP_ADDRESS_TYPE: Tipo de dirección IP
   IP_ADDRESS_TYPE_STATIC: Estática
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: Dirección IP
   ADDRESS: Dirección
   MASK: Máscara de subred
@@ -95,18 +91,14 @@ translations:
   PASSWORD: Contraseña
   NOT_SET: <Sin definir>
   ADDRESS_TYPE: Tipo de dirección
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Aceptar
   DELETE_WARNING: El archivo se borrará definitivamente, ¿continuar?
   RENAME: Renombrar juego
   DELETE: Borrar juego
   RUN: Iniciar
-  GFX_SETTINGS: Pantalla
+  GFX_SETTINGS: Configuración de pantalla
   ENABLE_WRITE: Operaciones de escritura
   LASTPLAYED: Recordar último juego en uso
   SELECTBUTTON: Botón de selección
@@ -145,7 +137,7 @@ translations:
   HINT_EXITPATH: Dejar en blanco para salida hacia el navegador de PS2
   HINT_SPINDOWN: Valor en minutos, 0 para desactivar el paro automático
   HDD_SPINDOWN: Paro automático rotación del disco duro
-  VMODE: Modo de vídeo
+  VMODE: Resolución de pantalla
   UICOLOR: Color de diálogos
   SELCOLOR: Color de selección
   RESETCOLOR: Reinicio colores
@@ -161,7 +153,7 @@ translations:
   MODE: Modo
   VMC_SLOT1: Ranura VMC 1
   VMC_SLOT2: Ranura VMC 2
-  GAME_ID: ID del juego
+  GAME_ID: Código ID del juego
   DMA_MODE: Modo DMA
   VSYNC: Sincronización vertical
   MODE1: Modo 1
@@ -178,32 +170,32 @@ translations:
   ETH_10MHDX: 10Mbit half-duplex
   GSM_SETTINGS: Opciones GSM
   ENABLEGSM: Selector GSM
-  HINT_ENABLEGSM: Activa/Desactiva el GSM para forzar modos de vídeo
-  HINT_GSMVMODE: Modo de vídeo a forzar
+  HINT_ENABLEGSM: Activa/Desactiva el GSM para cambiar resoluciones de pantalla
+  HINT_GSMVMODE: Cambia la resolución de pantalla seleccionada
   XOFFSET: Posición horizontal
   HINT_XOFFSET: Mueve la posición horizontal de la pantalla
   YOFFSET: Posición vertical
   HINT_YOFFSET: Mueve la posición vertical de la pantalla
-  OVERSCAN: Sobre escaneo
-  HINT_OVERSCAN: Ajuste sobre escaneo
+  OVERSCAN: Márgenes de pantalla
+  HINT_OVERSCAN: Permite variar el zoom para ajustar los márgenes de la imagen con la pantalla
   GSMSKIPVIDEOS: Omitir vídeos FMV
   HINT_GSMSKIPVIDEOS: Omite escenas Full Motion Vídeos
   CHEAT_SETTINGS: Configuración PS2RD
-  ENABLECHEAT: Motor de trucos PS2RD
-  HINT_ENABLECHEAT: Permitir que PS2RD parchee el juego
+  ENABLECHEAT: Motor de códigos PS2RD
+  HINT_ENABLECHEAT: Activa/Desactiva el PS2RD para usar códigos con el juego
   CHEATMODE: Modo PS2RD
-  HINT_CHEATMODE: Auto-seleccionar o seleccionar códigos de juegos
-  CHEATMODEAUTO: Auto-seleccionar códigos
-  CHEATMODESELECT: Seleccionar códigos de juegos
+  HINT_CHEATMODE: Selección automática o manual de los códigos para el juego
+  CHEATMODEAUTO: Selección automática de los códigos
+  CHEATMODESELECT: Selección manual de los códigos
   ERR_CHEATS_LOAD_FAILED: 'Error: fallo al cargar el archivo de códigos'
   NO_CHEATS_FOUND: No se han encontrado códigos
   DL_DEFAULTS: Descargar configuración predeterminada
   NET_UPDATE: Descargar configuraciones de los juegos
   NET_UPDATE_ALL: Sobrescribir configuración existente
-  NET_UPDATE_FAILED: Actualización fallida.
-  NET_UPDATE_CONN_FAILED: Error al conectarse con el servidor de actualización.
-  NET_UPDATE_DONE: Actualización completa.
-  NET_UPDATE_CANCELLED: Actualización cancelada.
+  NET_UPDATE_FAILED: Actualización fallida
+  NET_UPDATE_CONN_FAILED: Error al conectarse con el servidor de actualización
+  NET_UPDATE_DONE: Actualización completa
+  NET_UPDATE_CANCELLED: Actualización cancelada
   CONFIRMATION_SETTINGS_UPDATE: ¿Descargar configuración desde la red?
   CUSTOMIZED_SETTINGS: Configuraciones personalizadas
   DOWNLOADED_DEFAULTS: Descargada configuración predeterminada
@@ -220,7 +212,7 @@ translations:
   HINT_PADEMU_MODE: Selecciona el modo de emulación del mando
   DS34USB_MODE: DualShock 3/4 USB
   DS34BT_MODE: DualShock 3/4 Bluetooth
-  PADPORT: Ajustes para el puerto
+  PADPORT: 'Ajustes para el puerto:'
   HINT_PAD_PORT: Selecciona el puerto del mando emulado para aplicar los ajustes
   PADEMU_PORT: Emulación
   HINT_PADEMU_PORT: Activa/Desactiva la emulación del mando para el puerto seleccionado
@@ -240,9 +232,7 @@ translations:
   MANUFACTURER: 'ID fabricante:'
   SUPFEATURES: 'Funciones soportadas:'
   'YES': Sí
-  'NO':
-  - untranslated
-  - original: 'No'
+  'NO': 'No'
   BT_SUPPORTED: El adaptador bluetooth debe ser totalmente compatible con los mandos
     DS3/DS4
   BT_NOTSUPPORTED: El adaptador bluetooth puede no funcionar correctamente con los
@@ -255,15 +245,15 @@ translations:
   HINT_PADEMU_WORKAROUND: Algunos DS3 falsos necesitan una solución alternativa, esta
     opción la activa
   GSM_FIELD_FIX: Emular alternancia de valores de CAMPO
-  HINT_GSM_FIELD_FIX: Solución para juegos que fallan bajo modos de vídeo progresivos.
-  PARENLOCKCONFIG: Control paterno
+  HINT_GSM_FIELD_FIX: Solución para juegos que fallan bajo resoluciones progresivas
+  PARENLOCKCONFIG: Control parental
   PARENLOCK_PASSWORD: Contraseña
-  PARENLOCK_PASSWORD_HINT: Dejar en blanco para desactivar el control paterno.
-  PARENLOCK_ENTER_PASSWORD_TITLE: Introduce contraseña de control paterno
-  PARENLOCK_PASSWORD_INCORRECT: Contraseña control paterno incorrecta.
-  PARENLOCK_DISABLE_WARNING: Control paterno desactivado.
+  PARENLOCK_PASSWORD_HINT: Dejar en blanco para desactivar el control parental
+  PARENLOCK_ENTER_PASSWORD_TITLE: Introduce contraseña de control parental
+  PARENLOCK_PASSWORD_INCORRECT: Contraseña control parental incorrecta.
+  PARENLOCK_DISABLE_WARNING: Control parental desactivado.
   BUILD_DETAILS: 'Opciones de compilación:'
-  PARENLOCK_INVALID_PASSWORD: Error - esta contraseña no se puede usar.
+  PARENLOCK_INVALID_PASSWORD: Error - esta contraseña no se puede usar
   ERR_VMC_FRAGMENTED_CONTINUE: El archivo VMC %s está fragmentado. ¿Continuar con
     la tarjeta de memoria en ranura %d?
   AUDIO_SETTINGS: Configuración de sonido
@@ -271,7 +261,7 @@ translations:
   BOOT_SND: Sonido de inicio
   SFX_VOLUME: Volumen efectos de sonido
   BOOT_SND_VOLUME: Volumen sonido de inicio
-  CFM_VMODE_CHG: ¿Confirmar el cambio de modo de vídeo?
+  CFM_VMODE_CHG: ¿Confirmar el cambio de resolución de pantalla?
   CACHE_HDD_GAME_LIST: Caché lista de juegos (Disco duro)
   ENABLE_NOTIFICATIONS: Notificaciones
   CFG_NOTIFICATION: Configuración cargada desde %s
@@ -284,13 +274,11 @@ translations:
   NET_UPDATE_HINT: Cuando se activa sobrescribe la configuración de compatibilidad
     del juego
   SETTINGS_SOURCE: Modo de configuración
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
+  GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por juego
   ALL_SETTINGS: Todo
-  GAME_SETTINGS_PROMPT: Selecciona configuraciones para borrar.
-  FORUM_DETAILS: Foros de soporte
+  GAME_SETTINGS_PROMPT: Selecciona configuraciones para borrar
+  FORUM_DETAILS: 'Foros de soporte:'
   INFO_TITLE: Título
   INFO_GENRE: Género
   INFO_RELEASE: Lanzamiento
@@ -304,21 +292,19 @@ translations:
   USB_GAMES: Juegos USB
   ILINK_GAMES: Juegos iLink
   MX4SIO_GAMES: Juegos MX4SIO
-  PADMACROCONFIG: Configurar PADMACRO
-  PADMACRO_SETTINGS: Configuraciones PADMACRO
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN: Ralentización de Analógico
-  HINT_PADMACRO_SLOWDOWN_AXIS: Reduce rango del analogico cuando el boton es presionado
-  LEFT_ANALOG: Analógico Izquierdo
-  RIGHT_ANALOG: Analógico Derecho
-  PADMACRO_INVERT_AXIS: 'Inversión Analógicos:'
-  HINT_PADMACRO_INVERT_AXIS: Invertir eje analógico
-  TURBO_SPEED: Botón velocidad TURBO
-  HINT_TURBO_SPEED: Cuan rápido se presiona el botón con el TURBO activo
-  ACT_WHILE_PRESSED: Mientras se mantiene el botón
-  ACT_TOGGLED: Al presionar el botón
+  PADMACROCONFIG: Configuración funciones del mando
+  PADMACRO_SETTINGS: Opciones para las funciones del mando
+  PADMACRO_ENABLE: Funciones del mando
+  PADMACRO_SLOWDOWN: 'Ralentización del analógico:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Reduce el rango del joystick analógico cuando se pulsa el botón
+  LEFT_ANALOG: Joystick analógico izquierdo
+  RIGHT_ANALOG: Joystick analógico derecho
+  PADMACRO_INVERT_AXIS: 'Invertir eje analógico:'
+  HINT_PADMACRO_INVERT_AXIS: Cambia la dirección de la cámara horizontal o vertical
+  TURBO_SPEED: Velocidad del botón turbo
+  HINT_TURBO_SPEED: Cambia la velocidad de pulsación del botón cuando se usa el turbo
+  ACT_WHILE_PRESSED: Al mantener pulsado el botón
+  ACT_TOGGLED: Al pulsar el botón
   LANGUAGE_JAPANESE: JAPONÉS
   LANGUAGE_ENGLISH: INGLÉS
   LANGUAGE_FRENCH: FRANCÉS
