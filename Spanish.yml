@@ -305,30 +305,22 @@ translations:
   HINT_TURBO_SPEED: Cambia la velocidad de pulsación del botón cuando se usa el turbo
   ACT_WHILE_PRESSED: Al mantener pulsado el botón
   ACT_TOGGLED: Al pulsar el botón
-  LANGUAGE_JAPANESE: JAPONÉS
-  LANGUAGE_ENGLISH: INGLÉS
-  LANGUAGE_FRENCH: FRANCÉS
-  LANGUAGE_SPANISH: ESPAÑOL
-  LANGUAGE_GERMAN: ALEMAN
-  LANGUAGE_ITALIAN: ITALIANO
-  LANGUAGE_DUTCH: HOLANDÉS
-  LANGUAGE_PORTUGUESE: PORTUGUES
-  LANGUAGE_RUSSIAN: RUSO
-  LANGUAGE_KOREAN: KOREANO
-  LANGUAGE_TRAD_CHINESE: CHINO TRADICIONAL
-  LANGUAGE_SIMPL_CHINESE: CHINO SIMPLIFICADO
-  OSD_SETTINGS: Ajustes OSD
+  LANGUAGE_JAPANESE: Japonés
+  LANGUAGE_ENGLISH: Inglés
+  LANGUAGE_FRENCH: Francés
+  LANGUAGE_SPANISH: Español
+  LANGUAGE_GERMAN: Alemán
+  LANGUAGE_ITALIAN: Italiano
+  LANGUAGE_DUTCH: Holandés
+  LANGUAGE_PORTUGUESE: Portugués
+  LANGUAGE_RUSSIAN: Ruso
+  LANGUAGE_KOREAN: Coreano
+  LANGUAGE_TRAD_CHINESE: Chino tradicional
+  LANGUAGE_SIMPL_CHINESE: Chino simplificado
+  OSD_SETTINGS: Configuración OSD
   OSD_SETTINGS_LNG: Idioma OSD
   ENABLE_LNG: Cambiar Idioma
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  BGM: Música
+  BGM_VOLUME: Volumen música
+  DEF_BGM_PATH: Ruta de la canción
+  DEF_BGM_PATH_HINT: Indica donde está ubicada la canción a usar para el tema
