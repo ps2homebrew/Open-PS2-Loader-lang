@@ -54,12 +54,12 @@ translations:
   AUTOSORT: Listas ordenadas por alfabeto
   ERR_LOADING_LANGFILE: Error al cargar el archivo de idioma
   DEBUG: Colores para depuración
-  NO_CONTROLLER: Mando no encontrado, esperando…
+  NO_CONTROLLER: Mando no encontrado, esperando...
   COVERART: Imágenes diseño gráfico
   WIDE_SCREEN: 'Relación de aspecto 16:9'
   POWEROFF: Apagar PS2
-  LOADING_SETTINGS: Cargando configuración…
-  SAVING_SETTINGS: Guardando configuración…
+  LOADING_SETTINGS: Cargando configuración...
+  SAVING_SETTINGS: Guardando configuración...
   START_DEVICE: Iniciar dispositivo
   REFRESH: Actualizar
   BDMMODE: Modo de inicio para BDM
@@ -69,10 +69,10 @@ translations:
   AUTO: Automático
   MANUAL: Manual
   STARTNBD: Iniciar servidor NBD
-  STARTINGNBD: Iniciando servidor NBD…
+  STARTINGNBD: Iniciando servidor NBD...
   RUNNINGNBD: Servidor NBD conectado
   STARTFAILNBD: Error al iniciar el servidor NBD
-  UNLOADNBD: Cerrando servidor NBD…
+  UNLOADNBD: Cerrando servidor NBD...
   EXITTO: Ruta del IGR
   BGCOLOR: Color de fondo
   TXTCOLOR: Color de texto
@@ -199,7 +199,7 @@ translations:
   CONFIRMATION_SETTINGS_UPDATE: ¿Descargar configuración desde la red?
   CUSTOMIZED_SETTINGS: Configuraciones personalizadas
   DOWNLOADED_DEFAULTS: Descargada configuración predeterminada
-  AUTO_START_IN_N_SECS: Inicio en %i s…
+  AUTO_START_IN_N_SECS: Inicio en %i s...
   AUTOSTARTLAST: Inicio automático
   HINT_AUTOSTARTLAST: Valor en segundos, 0 para desactivar el inicio automático
   PS2LOGO: Logotipo Playstation 2
@@ -250,8 +250,8 @@ translations:
   PARENLOCK_PASSWORD: Contraseña
   PARENLOCK_PASSWORD_HINT: Dejar en blanco para desactivar el control parental
   PARENLOCK_ENTER_PASSWORD_TITLE: Introduce contraseña de control parental
-  PARENLOCK_PASSWORD_INCORRECT: Contraseña control parental incorrecta.
-  PARENLOCK_DISABLE_WARNING: Control parental desactivado.
+  PARENLOCK_PASSWORD_INCORRECT: Contraseña control parental incorrecta
+  PARENLOCK_DISABLE_WARNING: Control parental desactivado
   BUILD_DETAILS: 'Opciones de compilación:'
   PARENLOCK_INVALID_PASSWORD: Error - esta contraseña no se puede usar
   ERR_VMC_FRAGMENTED_CONTINUE: El archivo VMC %s está fragmentado. ¿Continuar con
