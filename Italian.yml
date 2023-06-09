@@ -1,5 +1,5 @@
 comments: |-
-  Italian translation by jauffreblades completed by Peppe90
+  Italian translation by jauffreblades completed by Peppe90/theheroGAC
   For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
 translations:
   LOCALE: Italian
@@ -192,16 +192,14 @@ translations:
   VMC_SLOT1: Slot VMC 1
   VMC_SLOT2: Slot VMC 2
   GAME_ID: ID gioco
-  DMA_MODE: Modo DMA
-  VSYNC:
-  - untranslated
-  - original: V-Sync
-  MODE1: Modo 1
-  MODE2: Modo 2
-  MODE3: Modo 3
-  MODE4: Modo 4
-  MODE5: Modo 5
-  MODE6: Modo 6
+  DMA_MODE: Modalità DMA
+  VSYNC: V-Sync
+  MODE1: Modalità 1
+  MODE2: Modalità 2
+  MODE3: Modalità 3
+  MODE4: Mododalità 4
+  MODE5: Modalità 5
+  MODE6: Modalità 6
   GSCONFIG: Configura GSM
   ETH_OPMODE: Modalità Collegamento Ethernet
   ETH_100MFDX: 100Mbit full-duplex
@@ -262,21 +260,13 @@ translations:
   HINT_PADEMU_ENABLE: Attiva/disattiva l'Emulatore Pad per il gioco selezionato.
   PADEMU_MODE: Modalità Emulatore Pad
   HINT_PADEMU_MODE: Seleziona modalità per l'Emulatore Pad.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 BT
   PADPORT: 'Impostazioni Per l''Ingresso:'
   HINT_PAD_PORT: Seleziona l'ingresso dell'Emulatore Pad per le impostazioni.
-  PADEMU_PORT:
-  - untranslated
-  - original: Emulation
+  PADEMU_PORT: Emulazione
   HINT_PADEMU_PORT: Attiva/disattiva l'Emulatore Pad per l'ingresso selezionato.
-  PADEMU_VIB:
-  - untranslated
-  - original: Vibration
+  PADEMU_VIB: Vibrazione
   HINT_PADEMU_VIB: Attiva/disattiva la vibrazione per l'Emulatore Pad nell'ingresso
     selezionato.
   USBDG_MAC: 'Indirizzo MAC dell''Adattatore Bluetooth USB:'
@@ -324,31 +314,17 @@ translations:
   ERR_VMC_FRAGMENTED_CONTINUE: Il file VMC %s è frammentato. Continuare con la Memory
     Card nello slot %d?
   AUDIO_SETTINGS: Impostazioni Audio
-  SFX:
-  - untranslated
-  - original: Sound Effects
-  BOOT_SND:
-  - untranslated
-  - original: Boot Sound
+  SFX: Effetti sonori
+  BOOT_SND: Suono di avvio
   SFX_VOLUME: Volume Effetti Sonori
   BOOT_SND_VOLUME: Volume Suono di avvio
   CFM_VMODE_CHG: Confermare la modifica della modalità video?
   CACHE_HDD_GAME_LIST: Cache Lista Giochi (HDD)
-  ENABLE_NOTIFICATIONS:
-  - untranslated
-  - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
+  ENABLE_NOTIFICATIONS: Notifiche
+  CFG_NOTIFICATION: Configurazione caricata da %s
+  THM_NOTIFICATION: Tema caricato da %s
+  LNG_NOTIFICATION: Lingua caricata da %s
+  PARTITION_NOTIFICATION: '%s partizione montata.'
   OPTIONS: Opzioni
   GAME_SETTINGS_SAVED: Impostazioni salvate.
   GAME_SETTINGS_REMOVED: '%s impostazioni rimosse.'
@@ -358,126 +334,48 @@ translations:
   PERGAME_SETTINGS: Per Gioco
   ALL_SETTINGS: Tutti
   GAME_SETTINGS_PROMPT: Seleziona le impostazioni da rimuovere.
-  FORUM_DETAILS: 'Forum per Supporto:'
+  FORUM_DETAILS: 'Forum di Supporto:'
   INFO_TITLE: Titolo
   INFO_GENRE: Genere
   INFO_RELEASE: Pubblicazione
   INFO_DEVELOPER: Sviluppatore
   INFO_DESCRIPTION: Descrizione
-  BLOCKDEVICE_SETTINGS:
-  - untranslated
-  - original: Block Devices
-  CONTROLLER_SETTINGS:
-  - untranslated
-  - original: Controller Settings
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
-  USB_GAMES:
-  - untranslated
-  - original: USB Games
-  ILINK_GAMES:
-  - untranslated
-  - original: iLink Games
-  MX4SIO_GAMES:
-  - untranslated
-  - original: MX4SIO Games
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS:
-  - untranslated
-  - original: Pad macro Settings
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD settings
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  BLOCKDEVICE_SETTINGS: Dispositivi a blocchi
+  CONTROLLER_SETTINGS: Impostazioni del Controller
+  HINT_BDM_START: Attiva/disattiva Block Device Manager.
+  HINT_BLOCK_DEVICES: Attiva/disattiva i dispositivi a blocchi (ad es. USB).
+  USB_GAMES: Giochi USB
+  ILINK_GAMES: Giochi iLink
+  MX4SIO_GAMES: Giochi MX4SIO
+  PADMACROCONFIG: Configura PADMACRO
+  PADMACRO_SETTINGS: Impostazioni Pad macro
+  PADMACRO_ENABLE: Pad macros
+  PADMACRO_SLOWDOWN: 'Rallentamento analogico:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Riduce la portata della levetta analogica quando si preme il pulsante
+  LEFT_ANALOG: Levetta sinistra
+  RIGHT_ANALOG: Levetta destra
+  PADMACRO_INVERT_AXIS: 'Inverti asse analogico:'
+  HINT_PADMACRO_INVERT_AXIS: Inverti l'asse dello stick analogico
+  TURBO_SPEED: Velocità del pulsante Turbo
+  HINT_TURBO_SPEED: Quanto velocemente si preme il pulsante quando il turbo è attivo
+  ACT_WHILE_PRESSED: Mentre il pulsante è premuto
+  ACT_TOGGLED: Attivato tramite pulsante
+  LANGUAGE_JAPANESE: GIAPPONESE
+  LANGUAGE_ENGLISH: INGLESE
+  LANGUAGE_FRENCH: FRANCESE
+  LANGUAGE_SPANISH: SPAGNOLO
+  LANGUAGE_GERMAN: TEDESCO
+  LANGUAGE_ITALIAN: ITALIANO
+  LANGUAGE_DUTCH: DANESE
+  LANGUAGE_PORTUGUESE: PORTOGHESE
+  LANGUAGE_RUSSIAN: RUSSO
+  LANGUAGE_KOREAN: COREANO
+  LANGUAGE_TRAD_CHINESE: CINESE TRADIZIONALE
+  LANGUAGE_SIMPL_CHINESE: SIMPLIFICATO CINESE
+  OSD_SETTINGS: Impostazioni OSD
+  OSD_SETTINGS_LNG: Linguaggio OSD
+  ENABLE_LNG: Cambia linguaggio
+  BGM: Musica di sottofondo
+  BGM_VOLUME: Volume della musica di sottofondo
+  DEF_BGM_PATH: Tema musicale predefinito
+  DEF_BGM_PATH_HINT: Imposta il percorso per lo streaming di musica per il tema interno.
