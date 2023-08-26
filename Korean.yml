@@ -179,14 +179,10 @@ translations:
   ENABLEGSM: GSM 선택기
   HINT_ENABLEGSM: GSM 켜기 또는 끄기
   HINT_GSMVMODE: 강제 커스텀 디스플레이 모드
-  XOFFSET:
-  - untranslated
-  - original: H-POS
-  HINT_XOFFSET: 수평 조정
-  YOFFSET:
-  - untranslated
-  - original: V-POS
-  HINT_YOFFSET: 수직 조정
+  XOFFSET: 가로 위치
+  HINT_XOFFSET: 가로 조정
+  YOFFSET: 세로 위치
+  HINT_YOFFSET: 세로 조정
   OVERSCAN: 오버스캔
   HINT_OVERSCAN: 오버스캔 조정
   GSMSKIPVIDEOS: FMV 건너뛰기
