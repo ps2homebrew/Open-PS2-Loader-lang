@@ -8,31 +8,31 @@ translations:
   NETCONFIG: 网络设置
   SHOW_ADVANCED_OPTS: 进阶设置
   NO_ITEMS: <无数值>
-  SETTINGS_SAVED: 设置保存到 %s
-  ERROR_SAVING_SETTINGS: 写入设置错误!
+  SETTINGS_SAVED: 设置已保存到%s
+  ERROR_SAVING_SETTINGS: 设置保存错误！
   EXIT: 离开
   SETTINGS: 设置
-  MENU: 选单
-  BDM_GAMES: BDM 游戏
-  HDD_GAMES: HDD 游戏
-  NET_GAMES: ETH 游戏
+  MENU: 菜单
+  BDM_GAMES: BDM游戏
+  HDD_GAMES: HDD游戏
+  NET_GAMES: ETH游戏
   APPS: 应用程序
   THEME: 主题
   LANGUAGE: 语言
-  CONFIRMATION_POFF: 系统电源将会关闭.
-  CONFIRMATION_EXIT: 退出到浏览界面?
-  CONFIRMATION_CANCEL_UPDATE: 取消更新?
-  HDD_NOT_CONNECTED_ERROR: '%d: 检测不到硬盘'
-  HDD_NOT_FORMATTED_ERROR: '%d: 硬盘没有格式化'
-  NETWORK_STARTUP_ERROR: '%d: 启动网络错误'
-  NETWORK_STARTUP_ERROR_NETIF: '%d: 检测不到网卡'
-  NETWORK_STARTUP_ERROR_CONN: '%d: 无法连接 SMB 服务器'
-  NETWORK_STARTUP_ERROR_LOGON: '%d: 无法登入 SMB 服务器'
-  NETWORK_STARTUP_ERROR_SHARE: '%d: 无法开启 SMB 共享'
-  NETWORK_SHARE_LIST_ERROR: '%d: 无法罗列 SMB 共享清单'
-  NETWORK_GAMES_LIST_ERROR: '%d: 无法列出游戏清单'
-  NETWORK_ERROR_DHCP_FAIL: '%d: DHCP 服务器不存在'
-  NETWORK_ERROR_LINK_FAIL: '%d: 无网络连接'
+  CONFIRMATION_POFF: 即将关闭主机电源。
+  CONFIRMATION_EXIT: 要返回浏览器界面吗？
+  CONFIRMATION_CANCEL_UPDATE: 取消更新？
+  HDD_NOT_CONNECTED_ERROR: '%d：检测不到硬盘'
+  HDD_NOT_FORMATTED_ERROR: '%d：硬盘没有格式化'
+  NETWORK_STARTUP_ERROR: '%d：启动网络错误'
+  NETWORK_STARTUP_ERROR_NETIF: '%d：检测不到网卡'
+  NETWORK_STARTUP_ERROR_CONN: '%d：无法连接SMB服务器'
+  NETWORK_STARTUP_ERROR_LOGON: '%d：无法登入SMB服务器'
+  NETWORK_STARTUP_ERROR_SHARE: '%d：无法开启SMB共享目录'
+  NETWORK_SHARE_LIST_ERROR: '%d：无法列出SMB共享目录列表'
+  NETWORK_GAMES_LIST_ERROR: '%d：无法列出游戏清单'
+  NETWORK_ERROR_DHCP_FAIL: '%d：DHCP服务器不存在'
+  NETWORK_ERROR_LINK_FAIL: '%d：无网络连接'
   'ON': 开启
   'OFF': 关闭
   OK: 确定
@@ -43,133 +43,117 @@ translations:
   GAMES_LIST: 游戏列表
   COMPAT_SETTINGS: 游戏设置
   REMOVE_ALL_SETTINGS: 删除设置
-  SCROLLING: 滚动
+  SCROLLING: 滚动速度
   SLOW: 较慢
   MEDIUM: 中等
   FAST: 较快
   DEFDEVICE: 默认选单
   LOAD_FROM_DISC: 从光盘中读取
   PLEASE_WAIT: 请稍后
-  ERROR_LOADING_ID: 读取 游戏 ID 时出错
+  ERROR_LOADING_ID: 读取游戏ID时出错
   AUTOSORT: 自动滚动
   ERR_LOADING_LANGFILE: 读取语言文件时出错
-  DEBUG:
-  - untranslated
-  - original: Debug Colors
+  DEBUG: Debug颜色
   NO_CONTROLLER: 未检测到摇杆, 等待中…
-  COVERART:
-  - untranslated
-  - original: Cover Art
-  WIDE_SCREEN: 宽屏幕
+  COVERART: 游戏封面
+  WIDE_SCREEN: 宽屏显示
   POWEROFF: 关机
-  LOADING_SETTINGS: 设置读取中
-  SAVING_SETTINGS: 设置储存中
+  LOADING_SETTINGS: 正在读取配置
+  SAVING_SETTINGS: 正在储存配置
   START_DEVICE: 启动设备
-  REFRESH: 重新整理
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
-  HDDMODE: HDD 设备启动模式
-  ETHMODE: ETH 设备启动模式
+  REFRESH: 刷新
+  BDMMODE: BDM设备启动模式
+  HDDMODE: HDD设备启动模式
+  ETHMODE: ETH设备启动模式
   APPMODE: 应用程序启动模式
   AUTO: 自动
   MANUAL: 手动
-  STARTNBD: 启动 NBD 服务
-  STARTINGNBD: NBD 服务启动中…
-  RUNNINGNBD: NBD 服务正在运行…
-  STARTFAILNBD: 启动 NBD 服务时出错.
-  UNLOADNBD: NBD 服务未能读取…
-  EXITTO: IGR 位置
+  STARTNBD: 启动NBD服务
+  STARTINGNBD: 正在启动NBD服务…
+  RUNNINGNBD: NBD服务正在运行…
+  STARTFAILNBD: 启动NBD服务发生错误。
+  UNLOADNBD: 未能读取NBD服务…
+  EXITTO: IGR路径
   BGCOLOR: 背景颜色
   TXTCOLOR: 文字颜色
-  CAT_SMB_SERVER: '- SMB 服务器 -'
-  IP_ADDRESS_TYPE: IP 地址模式
+  CAT_SMB_SERVER: '- SMB服务器 -'
+  IP_ADDRESS_TYPE: IP地址模式
   IP_ADDRESS_TYPE_STATIC: 静态
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
-  IP_ADDRESS: IP 地址
+  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS: IP地址
   ADDRESS: 地址
   MASK: 子网掩码
   GATEWAY: 网关
-  DNS_SERVER: DNS 服务器
+  DNS_SERVER: DNS服务器
   PORT: 端口
-  SHARE: 共享
-  USER: 使用者
+  SHARE: 共享目录名
+  USER: 用户名
   PASSWORD: 密码
-  NOT_SET: <无设置>
+  NOT_SET: <未配置>
   ADDRESS_TYPE: 地址格式
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: 允许
-  DELETE_WARNING: 项目将被永久删除, 继续吗?
-  RENAME: 重新命名
+  DELETE_WARNING: 将会永久删除该项目，是否继续？
+  RENAME: 重命名
   DELETE: 删除
   RUN: 运行
-  GFX_SETTINGS: 显示设置
-  ENABLE_WRITE:
-  - untranslated
-  - original: Write Operations
-  LASTPLAYED: 记住最后一个玩的游戏
-  SELECTBUTTON: 选定键
-  ERR_FRAGMENTED: 错误, 游戏有碎片
-  ERR_FILE_INVALID: 错误, 无法运行该项目
+  GFX_SETTINGS: 图像设置
+  ENABLE_WRITE: 启用写入功能
+  LASTPLAYED: 记住上次玩的游戏
+  SELECTBUTTON: 确定键
+  ERR_FRAGMENTED: 错误，游戏有碎片
+  ERR_FILE_INVALID: 错误，无法运行该项目
   TEST: 测试修改
   HINT_GUEST: GUEST验证留空.
   HINT_MODE1: 精确读取
   HINT_MODE2: 同步模式
   HINT_MODE3: 脱开系统调用
-  HINT_MODE4: 跳过 videos
-  HINT_MODE5: 模拟 DVD-DL
-  HINT_MODE6: 禁用 IGR
-  HINT_VMC_SIZE: 改变大小将会重新格式化 VMC
+  HINT_MODE4: 跳过视频
+  HINT_MODE5: 模拟DVD-DL
+  HINT_MODE6: 禁用IGR
+  HINT_VMC_SIZE: 改变大小将会重新格式化虚拟记忆卡
   CREATE: 生成
   START: 开始
   MODIFY: 变更
   ABORT: 放弃
   RESET: 重置
   USE_GENERIC: 使用通用
-  VMC_SCREEN: 设置 VMC
+  VMC_SCREEN: 设置虚拟记忆卡
   VMC_NAME: 名称
-  SIZE: 大小
+  SIZE: 容量
   VMC_STATUS: 状态
   VMC_PROGRESS: 进度
-  VMC_FILE_EXISTS: VMC 档案已存在
-  VMC_FILE_ERROR: 无效的 VMC 档案, 大小有误
-  VMC_FILE_NEW: 需要建立VMC 档案
-  ERR_VMC_CONTINUE: VMC %s 出错, 继续使用物理记忆卡吗 (slot %d)?
-  AUTOREFRESH: 自动重新整理
+  VMC_FILE_EXISTS: 虚拟记忆卡文件已存在
+  VMC_FILE_ERROR: 无效的虚拟记忆卡文件，大小有误
+  VMC_FILE_NEW: 需要建立虚拟记忆卡文件
+  ERR_VMC_CONTINUE: 虚拟记忆卡%s出错，是否改为使用接口%d的物理记忆卡？
+  AUTOREFRESH: 自动刷新
   ABOUT: 关于
   DEVS: 程序
   QANDA: 测试
-  BDM_PREFIX: BDM 前缀路径
+  BDM_PREFIX: BDM前缀路径
   HINT_EXITPATH: 自定义IGR启动文件
-  HINT_SPINDOWN: 数值以分钟计,设为 0 禁用降速
-  HDD_SPINDOWN: 自动 HDD 降速
+  HINT_SPINDOWN: 数值以分钟计，设为0则禁用降速
+  HDD_SPINDOWN: 自动HDD降速
   VMODE: 影片模式
   UICOLOR: 对话框颜色
   SELCOLOR: 被选定颜色
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
-  INFO: 讯息
-  ALTSTARTUP: 自定义 ELF
+  RESETCOLOR: 重置颜色
+  INFO: 信息
+  ALTSTARTUP: 自定义ELF
   COLOR_SELECTION: 颜色选项
   RECONNECT: 重新连接
-  HINT_SHARENAME: 留空列出共享清单
-  ETH_PREFIX: ETH 前缀路径
+  HINT_SHARENAME: 若此选项留空，则会列出共享目录列表
+  ETH_PREFIX: ETH前缀路径
   BACKSPACE: 退格
   SPACE: 空格
   ENTER: 回车
   MODE: 模式
-  VMC_SLOT1: VMC 插槽 1
-  VMC_SLOT2: VMC 插槽 2
-  GAME_ID: 游戏 ID
-  DMA_MODE: DMA 模式
+  VMC_SLOT1: 虚拟记忆卡插槽1
+  VMC_SLOT2: 虚拟记忆卡插槽2
+  GAME_ID: 游戏ID
+  DMA_MODE: DMA模式
   VSYNC: 垂直同步
   MODE1: 模式 1
   MODE2: 模式 2
@@ -177,75 +161,65 @@ translations:
   MODE4: 模式 4
   MODE5: 模式 5
   MODE6: 模式 6
-  GSCONFIG: 配置 GSM
+  GSCONFIG: 配置GSM
   ETH_OPMODE: 以太网链接模式
   ETH_100MFDX: 100Mbit 全双工
   ETH_100MHDX: 100Mbit 半双工
   ETH_10MFDX: 10Mbit 全双工
   ETH_10MHDX: 10Mbit 半双工
-  GSM_SETTINGS: GSM 设置
+  GSM_SETTINGS: GSM设置
   ENABLEGSM:
   - untranslated
   - original: GSM Selector
   HINT_ENABLEGSM: 切换 GSM 开或关
   HINT_GSMVMODE: 强制自定义显示模式
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: 水平位置
   HINT_XOFFSET: 水平调整
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: 垂直位置
   HINT_YOFFSET: 垂直调整
   OVERSCAN: 过扫
   HINT_OVERSCAN: 过扫调节
   GSMSKIPVIDEOS: 跳过 FMV
   HINT_GSMSKIPVIDEOS: 跳过全动态视频
   CHEAT_SETTINGS: 金手指设置
-  ENABLECHEAT:
-  - untranslated
-  - original: PS2RD Cheat Engine
-  HINT_ENABLECHEAT: 允许 PS2RD 金手指引擎对你的游戏进行补丁
-  CHEATMODE: PS2RD 金手指引擎模式
+  ENABLECHEAT: PS2RD金手指引擎
+  HINT_ENABLECHEAT: 允许PS2RD金手指引擎对你的游戏进行补丁
+  CHEATMODE: PS2RD金手指引擎模式
   HINT_CHEATMODE: 自动或手动选择游戏金手指
   CHEATMODEAUTO: 自动选择金手指
   CHEATMODESELECT: 手动选择金手指
-  ERR_CHEATS_LOAD_FAILED: '错误: 读取金手指文件出错'
+  ERR_CHEATS_LOAD_FAILED: '错误：读取金手指文件出错'
   NO_CHEATS_FOUND: 未发现金手指文件
   DL_DEFAULTS: 下载默认值
   NET_UPDATE: 网络更新
   NET_UPDATE_ALL: 覆盖现有记录
-  NET_UPDATE_FAILED: 更新失败.
-  NET_UPDATE_CONN_FAILED: 连结更新服务器失败.
-  NET_UPDATE_DONE: 更新已完成.
-  NET_UPDATE_CANCELLED: 更新已取消.
-  CONFIRMATION_SETTINGS_UPDATE: 从网络上下载设置?
+  NET_UPDATE_FAILED: 更新失败。
+  NET_UPDATE_CONN_FAILED: 连接更新服务器失败。
+  NET_UPDATE_DONE: 更新已完成。
+  NET_UPDATE_CANCELLED: 更新已取消。
+  CONFIRMATION_SETTINGS_UPDATE: 从网络上下载设置？
   CUSTOMIZED_SETTINGS: 自定义设置
   DOWNLOADED_DEFAULTS: 已下载默认值
   AUTO_START_IN_N_SECS: 将自动于 %i 秒后启动…
   AUTOSTARTLAST: 自动启动
-  HINT_AUTOSTARTLAST: 以秒为单位,设为 0 来禁用自动启动
-  PS2LOGO: PS2 标志
-  HINT_PS2LOGO: 只显示与控制台区域匹配的有效磁盘标识
+  HINT_AUTOSTARTLAST: 以秒为单位，设为 0 来禁用自动启动
+  PS2LOGO: PS2标志
+  HINT_PS2LOGO: 只显示与控制台区域匹配的有效碟片标识
   PADEMUCONFIG: 配置PADEMU
-  PADEMU_SETTINGS: Pad模拟器设置
-  PADEMU_ENABLE:
-  - untranslated
-  - original: Pad Emulator
-  HINT_PADEMU_ENABLE: 为选定的游戏开启/关闭pad模拟调节。
-  PADEMU_MODE: Pad模拟器模式
-  HINT_PADEMU_MODE: 选择Pad模拟器模式。
+  PADEMU_SETTINGS: 手柄模拟器设置
+  PADEMU_ENABLE: 手柄模拟器
+  HINT_PADEMU_ENABLE: 为选定的游戏开启/关闭手柄模拟调节。
+  PADEMU_MODE: 手柄模拟器模式
+  HINT_PADEMU_MODE: 选择手柄模拟器模式。
   DS34USB_MODE: 有线连接
   DS34BT_MODE: 蓝牙连接
-  PADPORT: '设置端口:'
+  PADPORT: '设置端口：'
   HINT_PAD_PORT: 选择Pad模拟器端口
   PADEMU_PORT:
   - untranslated
   - original: Emulation
   HINT_PADEMU_PORT: 打开/关闭选定端口的模拟器
-  PADEMU_VIB:
-  - untranslated
-  - original: Vibration
+  PADEMU_VIB: 震动
   HINT_PADEMU_VIB: 打开/关闭选定端口的振动。
   USBDG_MAC: 'USB蓝牙适配器MAC地址:'
   PAD_MAC: 'D  S 手 柄   MAC地址:'
@@ -257,8 +231,8 @@ translations:
   HINT_BTINFO: 显示更多的信息和支持的特性
   HCIVER: 'HCI版本:'
   LMPVER: 'LMP版本:'
-  MANUFACTURER: '制造商ID:'
-  SUPFEATURES: '支持的功能:'
+  MANUFACTURER: '制造商ID：'
+  SUPFEATURES: '支持的功能：'
   'YES': 是
   'NO': 否
   BT_SUPPORTED: 蓝牙适配器应该完全兼容DS3/DS4手柄
@@ -277,45 +251,29 @@ translations:
   - original: Some fake DS3s need a workaround, this option will enable it.
   GSM_FIELD_FIX: 模拟播片扫描方式切换
   HINT_GSM_FIELD_FIX: 修正逐行模式下视频播放有问题的游戏.
-  PARENLOCKCONFIG: 家长锁设置
-  PARENLOCK_PASSWORD: 家长锁密码
-  PARENLOCK_PASSWORD_HINT: 留空将不启用家长锁.
-  PARENLOCK_ENTER_PASSWORD_TITLE: 输入家长锁密码
-  PARENLOCK_PASSWORD_INCORRECT: 家长锁密码不正确.
-  PARENLOCK_DISABLE_WARNING: 已禁用家长锁.
-  BUILD_DETAILS: '创建选项:'
-  PARENLOCK_INVALID_PASSWORD: 错误-无法使用此密码.
-  ERR_VMC_FRAGMENTED_CONTINUE: vmc% s 文件碎片化.是否继续使用插槽% d 中的记忆卡？
+  PARENLOCKCONFIG: 儿童锁设置
+  PARENLOCK_PASSWORD: 儿童锁密码
+  PARENLOCK_PASSWORD_HINT: 留空将禁用用儿童锁。
+  PARENLOCK_ENTER_PASSWORD_TITLE: 请输入儿童锁密码
+  PARENLOCK_PASSWORD_INCORRECT: 儿童锁密码不正确。
+  PARENLOCK_DISABLE_WARNING: 已禁用儿童锁。
+  BUILD_DETAILS: '创建选项：'
+  PARENLOCK_INVALID_PASSWORD: 错误-无法使用此密码。
+  ERR_VMC_FRAGMENTED_CONTINUE: 虚拟记忆卡%s文件有碎片，是否改为使用接口%d的物理记忆卡？
   AUDIO_SETTINGS: 音频设置
-  SFX:
-  - untranslated
-  - original: Sound Effects
-  BOOT_SND:
-  - untranslated
-  - original: Boot Sound
+  SFX: 音效
+  BOOT_SND: 启动音
   SFX_VOLUME: 音效音量
   BOOT_SND_VOLUME: 启动音量
-  CFM_VMODE_CHG: 确认视频模式更改？
+  CFM_VMODE_CHG: 确认更改视频模式？
   CACHE_HDD_GAME_LIST: 缓存游戏列表 (硬盘)
-  ENABLE_NOTIFICATIONS:
-  - untranslated
-  - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
-  OPTIONS:
-  - untranslated
-  - original: Options
-  GAME_SETTINGS_SAVED: 游戏设置已保存。
+  ENABLE_NOTIFICATIONS: 通知
+  CFG_NOTIFICATION: 已从%s加载设置
+  THM_NOTIFICATION: 已从%s加载主题
+  LNG_NOTIFICATION: 已从%s加载语言
+  PARTITION_NOTIFICATION: 已挂载%s分区。
+  OPTIONS: 设置
+  GAME_SETTINGS_SAVED: 已保存游戏设置。
   GAME_SETTINGS_REMOVED: '%s设置已删除。'
   NET_UPDATE_HINT: 启用时覆盖现有的游戏兼容性设置。
   SETTINGS_SOURCE: 设置模式
@@ -323,45 +281,19 @@ translations:
   PERGAME_SETTINGS: 当前游戏
   ALL_SETTINGS: 全部
   GAME_SETTINGS_PROMPT: 选择要删除的设置。
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
-  INFO_GENRE:
-  - untranslated
-  - original: Genre
-  INFO_RELEASE:
-  - untranslated
-  - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
-  INFO_DESCRIPTION:
-  - untranslated
-  - original: Description
-  BLOCKDEVICE_SETTINGS:
-  - untranslated
-  - original: Block Devices
-  CONTROLLER_SETTINGS:
-  - untranslated
-  - original: Controller Settings
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
-  USB_GAMES:
-  - untranslated
-  - original: USB Games
-  ILINK_GAMES:
-  - untranslated
-  - original: iLink Games
-  MX4SIO_GAMES:
-  - untranslated
-  - original: MX4SIO Games
+  FORUM_DETAILS: 支持论坛：
+  INFO_TITLE: 标题
+  INFO_GENRE: 类型
+  INFO_RELEASE: 发行商
+  INFO_DEVELOPER: 开发商
+  INFO_DESCRIPTION: 描述
+  BLOCKDEVICE_SETTINGS: 块设备
+  CONTROLLER_SETTINGS: 控制器设置
+  HINT_BDM_START: 打开/关闭块设备管理器。
+  HINT_BLOCK_DEVICES: 打开/关闭块设备(例如USB)。
+  USB_GAMES: USB游戏
+  ILINK_GAMES: iLink游戏
+  MX4SIO_GAMES: MX4SIO游戏
   PADMACROCONFIG:
   - untranslated
   - original: Configure PADMACRO
@@ -377,21 +309,11 @@ translations:
   HINT_PADMACRO_SLOWDOWN_AXIS:
   - untranslated
   - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
+  LEFT_ANALOG: 左摇杆
+  RIGHT_ANALOG: 右摇杆
+  PADMACRO_INVERT_AXIS: 摇杆反转：
+  HINT_PADMACRO_INVERT_AXIS: 反转摇杆的轴
+  TURBO_SPEED: 连发键速度
   HINT_TURBO_SPEED:
   - untranslated
   - original: How fast to press the button when turbo is active
@@ -401,60 +323,22 @@ translations:
   ACT_TOGGLED:
   - untranslated
   - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD settings
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  LANGUAGE_JAPANESE: 日文
+  LANGUAGE_ENGLISH: 英文
+  LANGUAGE_FRENCH: 法文
+  LANGUAGE_SPANISH: 西班牙文
+  LANGUAGE_GERMAN: 德文
+  LANGUAGE_ITALIAN: 意大利文
+  LANGUAGE_DUTCH: 荷兰文
+  LANGUAGE_PORTUGUESE: 葡萄牙文
+  LANGUAGE_RUSSIAN: 俄文
+  LANGUAGE_KOREAN: 韩文
+  LANGUAGE_TRAD_CHINESE: 繁体中文
+  LANGUAGE_SIMPL_CHINESE: 简体中文
+  OSD_SETTINGS: 屏幕菜单设置
+  OSD_SETTINGS_LNG: 屏幕菜单语言
+  ENABLE_LNG: 修改语言
+  BGM: 背景音乐
+  BGM_VOLUME: 背景音乐音量
+  DEF_BGM_PATH: 默认主题音乐
+  DEF_BGM_PATH_HINT: 为内置主题设置音乐路径。
