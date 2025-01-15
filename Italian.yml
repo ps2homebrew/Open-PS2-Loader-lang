@@ -13,7 +13,7 @@ translations:
   EXIT: Esci
   SETTINGS: Impostazioni
   MENU:
-  - same
+  - untranslated
   - original: Menu
   BDM_GAMES: Giochi BDM
   HDD_GAMES: Giochi HDD
@@ -36,13 +36,13 @@ translations:
   NETWORK_ERROR_DHCP_FAIL: '%d: Server DHCP non disponibile.'
   NETWORK_ERROR_LINK_FAIL: '%d: Nessuna connessione di rete.'
   'ON':
-  - same
+  - untranslated
   - original: 'On'
   'OFF':
-  - same
+  - untranslated
   - original: 'Off'
   OK:
-  - same
+  - untranslated
   - original: OK
   SELECT: Seleziona
   CANCEL: Annulla
@@ -65,7 +65,7 @@ translations:
   NO_CONTROLLER: Nessun controller rilevato, in attesa…
   COVERART: Copertina
   WIDE_SCREEN:
-  - same
+  - untranslated
   - original: Widescreen
   POWEROFF: Spegni
   LOADING_SETTINGS: Caricamento configurazione…
@@ -90,28 +90,28 @@ translations:
   IP_ADDRESS_TYPE: Tipo di Indirizzo IP
   IP_ADDRESS_TYPE_STATIC: Statico
   IP_ADDRESS_TYPE_DHCP:
-  - same
+  - untranslated
   - original: DHCP
   IP_ADDRESS: Indirizzo IP
   ADDRESS: Indirizzo
   MASK: Maschera
   GATEWAY:
-  - same
+  - untranslated
   - original: Gateway
   DNS_SERVER: Server DNS
   PORT: Porta
   SHARE: Condivisione
   USER: Utente
   PASSWORD:
-  - same
+  - untranslated
   - original: Password
   NOT_SET: <non impostato>
   ADDRESS_TYPE: Tipo di Indirizzo
   ADDR_TYPE_IP:
-  - same
+  - untranslated
   - original: IP
   ADDR_TYPE_NETBIOS:
-  - same
+  - untranslated
   - original: NetBIOS
   ACCEPT: Accetta
   DELETE_WARNING: "L'oggetto sarà cancellato in modo permanente, continuare?"
@@ -167,7 +167,7 @@ translations:
   HINT_SHARENAME: Lascia vuoto per elencare le condivisioni.
   ETH_PREFIX: Percorso Prefisso ETH
   BACKSPACE:
-  - same
+  - untranslated
   - original: Backspace
   SPACE: Spazio
   ENTER: Invio
@@ -177,7 +177,7 @@ translations:
   GAME_ID: ID gioco
   DMA_MODE: Modalità DMA
   VSYNC:
-  - same
+  - untranslated
   - original: V-Sync
   MODE1: Modalità 1
   MODE2: Modalità 2
@@ -200,7 +200,7 @@ translations:
   YOFFSET: POS-V
   HINT_YOFFSET: Regolazione verticale.
   OVERSCAN:
-  - same
+  - untranslated
   - original: Overscan
   HINT_OVERSCAN: Regolazione overscan.
   GSMSKIPVIDEOS: Salta FMV
@@ -257,7 +257,7 @@ translations:
   SUPFEATURES: 'Funzionalità supportate:'
   'YES': Sì
   'NO':
-  - same
+  - untranslated
   - original: 'No'
   BT_SUPPORTED: "L'adattatore Bluetooth dovrebbe essere perfettamente compatibile con i controller DS3/DS4."
   BT_NOTSUPPORTED: "L'adattatore Bluetooth potrebbe non funzionare correttamente con i controller DS3/DS4."
@@ -356,4 +356,3 @@ translations:
   FILE_COUNT: 'File trovati: %i'
   CHEAT_SELECTION: Selezione trucchi
   HDD_HINT: È consentito un solo HDD, abilitando i blocchi APA o GPT.
-
