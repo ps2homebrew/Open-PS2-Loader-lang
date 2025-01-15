@@ -216,7 +216,7 @@ translations:
   NO_CHEATS_FOUND: Nessun trucco trovato.
   DL_DEFAULTS: Scarica Predefiniti
   NET_UPDATE: Aggiornamento via Rete
-  NET_UPDATE_ALL: Sovrascrivi registrazioni esistenti
+  NET_UPDATE_ALL: Sovrascrivi impostazioni esistenti
   NET_UPDATE_FAILED: Aggiornamento fallito.
   NET_UPDATE_CONN_FAILED: Impossibile connettersi al server di aggiornamento.
   NET_UPDATE_DONE: Aggiornamento completato.
