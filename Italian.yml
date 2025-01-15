@@ -44,9 +44,7 @@ translations:
   OK:
   - same
   - original: OK
-  SELECT:
-  - same
-  - original: Select
+  SELECT: Seleziona
   CANCEL: Annulla
   CIRCLE: Cerchio
   CROSS: X
@@ -57,7 +55,7 @@ translations:
   SLOW: Lenta
   MEDIUM: Media
   FAST: Veloce
-  DEFDEVICE: Menu Predefinito
+  DEFDEVICE: Menu predefinito
   LOAD_FROM_DISC: Carica da Disco
   PLEASE_WAIT: Attendere prego.
   ERROR_LOADING_ID: "Errore durante il caricamento dell'ID di gioco."
@@ -159,7 +157,7 @@ translations:
   HINT_SPINDOWN: Valore in minuti, 0 per disabilitare lo spin down.
   HDD_SPINDOWN: Spin Down automatico HDD
   VMODE: Modalità Video
-  UICOLOR: Colore finestra
+  UICOLOR: Colore Finestra
   SELCOLOR: Selezione Colore
   RESETCOLOR: Ripristina Colori
   INFO: Informazioni
@@ -283,7 +281,7 @@ translations:
   AUDIO_SETTINGS: Impostazioni Audio
   SFX: Effetti sonori
   BOOT_SND: Suono di avvio
-  SFX_VOLUME: Volume Effetti sonori
+  SFX_VOLUME: Volume Effetti Sonori
   BOOT_SND_VOLUME: Volume Suono di avvio
   CFM_VMODE_CHG: Confermare la modifica della modalità video?
   CACHE_HDD_GAME_LIST: Cache lista giochi (HDD)
@@ -358,3 +356,4 @@ translations:
   FILE_COUNT: 'File trovati: %i'
   CHEAT_SELECTION: Selezione trucchi
   HDD_HINT: È consentito un solo HDD, abilitando i blocchi APA o GPT.
+
