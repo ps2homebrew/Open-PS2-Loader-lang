@@ -4,7 +4,7 @@ comments: |-
 translations:
   LOCALE: Japanese
   SAVE_CHANGES: 設定を保存する
-  BACK: 戻る
+  BACK: もどる
   NETCONFIG: ネットワーク設定
   SHOW_ADVANCED_OPTS: 詳細オプション
   NO_ITEMS: <未設定>
@@ -13,7 +13,7 @@ translations:
   EXIT: 終了
   SETTINGS: 設定
   MENU: メニュー
-  BDM_GAMES: BDMゲーム
+  BDM_GAMES: USBゲーム
   HDD_GAMES: HDDゲーム
   NET_GAMES: ETHゲーム
   APPS: アプリ
@@ -321,14 +321,11 @@ translations:
   OSD_SETTINGS_LNG: OSD言語
   ENABLE_LNG: 言語を変更
   BGM:
-  - untranslated
-  - original: Background Music
+  - original: バックグラウンドミュージック
   BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
+  - original: BGM おんりょ
   DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
+  - original: きてい テーマ ミュージック
   DEF_BGM_PATH_HINT:
   - untranslated
   - original: Set path to stream music for internal theme.
