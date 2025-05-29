@@ -1,14 +1,14 @@
 comments: |-
-  German translation by ps2guy completed by velocet, LopoTRI & TnA
+  German translation by ps2guy, LopoTRI, TnA, and WebSnke
   For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
 translations:
   LOCALE: German
-  SAVE_CHANGES: Änderungen Speichern
+  SAVE_CHANGES: Änderungen speichern
   BACK: Zurück
   NETCONFIG: Netzwerk
   SHOW_ADVANCED_OPTS: Erweiterte Einstellungen
   NO_ITEMS: <Keine Werte>
-  SETTINGS_SAVED: Einstellungen Gespeichert in %s
+  SETTINGS_SAVED: Einstellungen gespeichert in %s
   ERROR_SAVING_SETTINGS: 'Fehler: Schreiben der Einstellungen!'
   EXIT: Verlassen
   SETTINGS: Einstellungen
@@ -19,19 +19,19 @@ translations:
   APPS: Apps
   THEME: Theme
   LANGUAGE: Sprache
-  CONFIRMATION_POFF: System Ausschalten?
-  CONFIRMATION_EXIT: Zurück Zum Browser?
-  CONFIRMATION_CANCEL_UPDATE: Aktualisierung Abbrechen?
-  HDD_NOT_CONNECTED_ERROR: '%d: Festplatte nicht Gefunden.'
-  HDD_NOT_FORMATTED_ERROR: '%d: Festplatte nicht Formatiert.'
-  NETWORK_STARTUP_ERROR: '%d: Fehler beim Starten des Netzwerk.'
-  NETWORK_STARTUP_ERROR_NETIF: '%d: Kein Netzwerkadapter Gefunden.'
-  NETWORK_STARTUP_ERROR_CONN: '%d: SMB-Server nicht Erreichbar.'
-  NETWORK_STARTUP_ERROR_LOGON: '%d: SMB-Anmeldung Fehlgeschlagen.'
-  NETWORK_STARTUP_ERROR_SHARE: '%d: SMB-Freigabe kann nicht Geöffnet werden.'
-  NETWORK_SHARE_LIST_ERROR: '%d: SMB-Freigaben können nicht Gelistet werden.'
-  NETWORK_GAMES_LIST_ERROR: '%d: Spiele können nicht Gelistet werden.'
-  NETWORK_ERROR_DHCP_FAIL: '%d: DHCP-Server nicht Verfügbar.'
+  CONFIRMATION_POFF: System ausschalten?
+  CONFIRMATION_EXIT: Zurück zum Browser?
+  CONFIRMATION_CANCEL_UPDATE: Aktualisierung abbrechen?
+  HDD_NOT_CONNECTED_ERROR: '%d: Festplatte nicht gefunden.'
+  HDD_NOT_FORMATTED_ERROR: '%d: Festplatte nicht formatiert.'
+  NETWORK_STARTUP_ERROR: '%d: Fehler beim Starten des Netzwerks.'
+  NETWORK_STARTUP_ERROR_NETIF: '%d: Kein Netzwerkadapter gefunden.'
+  NETWORK_STARTUP_ERROR_CONN: '%d: SMB-Server nicht erreichbar.'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: SMB-Anmeldung fehlgeschlagen.'
+  NETWORK_STARTUP_ERROR_SHARE: '%d: SMB-Freigabe kann nicht geöffnet werden.'
+  NETWORK_SHARE_LIST_ERROR: '%d: SMB-Freigaben können nicht gelistet werden.'
+  NETWORK_GAMES_LIST_ERROR: '%d: Spiele können nicht gelistet werden.'
+  NETWORK_ERROR_DHCP_FAIL: '%d: DHCP-Server nicht verfügbar.'
   NETWORK_ERROR_LINK_FAIL: '%d: Keine Verbindung zum Netzwerk.'
   'ON': Ein
   'OFF': Aus
@@ -41,28 +41,26 @@ translations:
   CIRCLE: Kreis
   CROSS: Kreuz
   GAMES_LIST: Spiele
-  COMPAT_SETTINGS: Spiel Einstellungen
-  REMOVE_ALL_SETTINGS: Einstellungen Zurücksetzen
+  COMPAT_SETTINGS: Spieleinstellungen
+  REMOVE_ALL_SETTINGS: Einstellungen zurücksetzen
   SCROLLING: Scrollen
   SLOW: Langsam
   MEDIUM: Mittel
   FAST: Schnell
   DEFDEVICE: Voreinstellungen
-  LOAD_FROM_DISC: Lade von Disc
-  PLEASE_WAIT: Bitte Warten.
-  ERROR_LOADING_ID: 'Fehler: Laden der Spiel ID.'
+  LOAD_FROM_DISC: Von Disc laden
+  PLEASE_WAIT: Bitte warten
+  ERROR_LOADING_ID: 'Fehler: Laden der Spiel-ID.'
   AUTOSORT: Auto. Sortierung
   ERR_LOADING_LANGFILE: 'Fehler: Laden der Sprachdatei.'
-  DEBUG:
-  - untranslated
-  - original: Debug Colors
+  DEBUG: Debug-Farben
   NO_CONTROLLER: Kein Controller erkannt, warte…
   COVERART: Cover-Art
   WIDE_SCREEN: Breitbild
   POWEROFF: Ausschalten
-  LOADING_SETTINGS: Konfiguration Laden…
-  SAVING_SETTINGS: Konfiguration Speichern…
-  START_DEVICE: Gerät Starten
+  LOADING_SETTINGS: Konfiguration wird geladen…
+  SAVING_SETTINGS: Konfiguration wird gespeichert…
+  START_DEVICE: Gerät starten
   REFRESH: Aktual.
   BDMMODE: BDM-Startmodus
   HDDMODE: 'Startmodus: HDD'
@@ -70,18 +68,16 @@ translations:
   APPMODE: 'Startmodus: Apps'
   AUTO: Auto.
   MANUAL: Manuell
-  STARTNBD: NBD-Server Starten
-  STARTINGNBD: NBD-Server Startet…
+  STARTNBD: NBD-Server starten
+  STARTINGNBD: NBD-Server wird gestartet…
   RUNNINGNBD: NBD-Server Läuft…
   STARTFAILNBD: 'Fehler: Starten des NBD-Server.'
-  UNLOADNBD: NBD-Server Stoppen…
+  UNLOADNBD: NBD-Server wird gestoppt…
   EXITTO: IGR-Pfad
-  BGCOLOR: Hintergrund
-  TXTCOLOR: Text
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
-  IP_ADDRESS_TYPE: IP Typ
+  BGCOLOR: Hintergrundfarbe
+  TXTCOLOR: Textfarbe
+  CAT_SMB_SERVER: '- SMB-Server -'
+  IP_ADDRESS_TYPE: IP-Typ
   IP_ADDRESS_TYPE_STATIC: Fest
   IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: IP-Adresse
@@ -98,7 +94,7 @@ translations:
   ADDR_TYPE_IP: IP
   ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Annehmen
-  DELETE_WARNING: Element Löschen?
+  DELETE_WARNING: Element löschen?
   RENAME: Umbenennen
   DELETE: Löschen
   RUN: Start
@@ -106,61 +102,55 @@ translations:
   ENABLE_WRITE:
   - untranslated
   - original: Write Operations
-  LASTPLAYED: Letztes Spiel Merken
-  SELECTBUTTON: Ausw. Button
-  ERR_FRAGMENTED: 'Fehler: Spiel Fragmentiert!'
-  ERR_FILE_INVALID: 'Fehler: Objekt kann nicht Ausgeführt werden!'
-  TEST: Änderungen Testen
+  LASTPLAYED: Letztes Spiel merken
+  SELECTBUTTON: Select-Taste
+  ERR_FRAGMENTED: 'Fehler: Spiel fragmentiert!'
+  ERR_FILE_INVALID: 'Fehler: Objekt kann nicht ausgeführt werden!'
+  TEST: Änderungen testen
   HINT_GUEST: Leer = Anmeldung als Gast
   HINT_MODE1: Genaue Lesegeschwindigkeit
-  HINT_MODE2: Synchron Modus
-  HINT_MODE3: Syscalls Aushängen
-  HINT_MODE4: Videos Überspringen
-  HINT_MODE5: DVD-DL Emulation
-  HINT_MODE6: IGR Deaktivieren
+  HINT_MODE2: Synchron-Modus
+  HINT_MODE3: Syscalls aushängen
+  HINT_MODE4: Videos überspringen
+  HINT_MODE5: DVD-DL emulieren
+  HINT_MODE6: IGR deaktivieren
   HINT_VMC_SIZE: Änderung der VMC Größe führt zu Reformatierung.
   CREATE: Neu
   START: Start
   MODIFY: Ändern
   ABORT: Abbruch
-  RESET:
-  - untranslated
-  - original: Reset
+  RESET: Zurücksetzen
   USE_GENERIC: Generische Nutzen
   VMC_SCREEN: VMC-Einstellungen
   VMC_NAME: Name
   SIZE: Größe
   VMC_STATUS: Status
   VMC_PROGRESS: Fortschritt
-  VMC_FILE_EXISTS: VMC-Datei Existiert.
+  VMC_FILE_EXISTS: VMC-Datei existiert.
   VMC_FILE_ERROR: 'Ungültige VMC Datei: Größe nicht Korrekt.'
-  VMC_FILE_NEW: VMC-Datei muss Erstellt werden.
+  VMC_FILE_NEW: VMC-Datei muss erstellt werden.
   ERR_VMC_CONTINUE: 'Fehler: Zugriff auf VMC %s. Weiter mit MC in Port %d?'
-  AUTOREFRESH: Auto. Aktualisieren
+  AUTOREFRESH: Auto. aktualisieren
   ABOUT: Über
-  DEVS: Programmierer
+  DEVS: Entwickler
   QANDA: Qualitätskontrolle
-  BDM_PREFIX: BDM Präfix Pfad
+  BDM_PREFIX: BDM-Präfix-Pfad
   HINT_EXITPATH: ELF nach IGR Booten
   HINT_SPINDOWN: Wert in Minuten. 0 = Keine HDD Abschaltung
   HDD_SPINDOWN: Auto. HDD Abschaltung
   VMODE: Videomodus
   UICOLOR: Dialog
   SELCOLOR: Auswahl
-  RESETCOLOR: Farben Zurücksetzen
-  INFO:
-  - untranslated
-  - original: Info
+  RESETCOLOR: Farben zurücksetzen
+  INFO: Info
   ALTSTARTUP: Eigene ELF
   COLOR_SELECTION: Farbauswahl
   RECONNECT: Erneut Verbinden
-  HINT_SHARENAME: Leer = Freigaben Auflisten
+  HINT_SHARENAME: Leer = Freigaben auflisten
   ETH_PREFIX: ETH Präfix Pfad
   BACKSPACE: Zurücktaste
   SPACE: Leertaste
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter-Taste
   MODE: Modus
   VMC_SLOT1: VMC-Port 1
   VMC_SLOT2: VMC-Port 2
@@ -173,72 +163,70 @@ translations:
   MODE4: Modus 4
   MODE5: Modus 5
   MODE6: Modus 6
-  GSCONFIG: GSM Konfigurieren
+  GSCONFIG: GSM konfigurieren
   ETH_OPMODE: Ethernet-Linkmodus
   ETH_100MFDX: 100Mbit/s Full-Duplex
   ETH_100MHDX: 100Mbit/s Half-Duplex
   ETH_10MFDX: 10Mbit/s Full-Duplex
   ETH_10MHDX: 10Mbit/s Half-Duplex
   GSM_SETTINGS: GSM-Einstellungen
-  ENABLEGSM:
-  - untranslated
-  - original: GSM Selector
-  HINT_ENABLEGSM: GSM Ein/Aus.
-  HINT_GSMVMODE: Benutzerdef. Video Mode.
+  ENABLEGSM: GSM Selector
+  HINT_ENABLEGSM: Schaltet GSM ein/aus
+  HINT_GSMVMODE: Benutzerdef. Videomodus aktiviert.
   XOFFSET: H-POS
   HINT_XOFFSET: Horizontale Position
   YOFFSET: V-POS
   HINT_YOFFSET: Vertikale Position
   OVERSCAN: Overscan
-  HINT_OVERSCAN: Overscan Anpassen
-  GSMSKIPVIDEOS: FMVs Überspringen
-  HINT_GSMSKIPVIDEOS: FMV Sequenzen Überspringen.
+  HINT_OVERSCAN: Overscan anpassen
+  GSMSKIPVIDEOS: FMVs überspringen
+  HINT_GSMSKIPVIDEOS: FMV Sequenzen überspringen.
   CHEAT_SETTINGS: Cheat-Einstellungen
-  ENABLECHEAT: PS2RD Cheat Engine
-  HINT_ENABLECHEAT: PS2RD Cheat Engine Spiele Patchen Lassen
-  CHEATMODE: PS2RD Cheat Engine Modus
+  ENABLECHEAT: PS2RD Cheat-Engine
+  HINT_ENABLECHEAT: PS2RD Cheat-Engine Spiele patchen lassen
+  CHEATMODE: PS2RD Cheat-Engine-Modus
   HINT_CHEATMODE: Auto. oder Cheat Wählen
   CHEATMODEAUTO: Cheats Auto. Wählen
-  CHEATMODESELECT: Cheats Wählen
+  CHEATMODESELECT: Cheats wählen
   ERR_CHEATS_LOAD_FAILED: 'Fehler: Laden der Cheat Datei.'
-  NO_CHEATS_FOUND: Keine Cheats Gefunden.
-  DL_DEFAULTS: Standardeinstellungen Laden
-  NET_UPDATE: Netzwerk Update
-  NET_UPDATE_ALL: Einstellungen Überschreiben?
-  NET_UPDATE_FAILED: Update Fehlgeschlagen.
-  NET_UPDATE_CONN_FAILED: Verbindung zu Update Server Fehlgeschlagen.
-  NET_UPDATE_DONE: Update Beendet.
-  NET_UPDATE_CANCELLED: Update Abgebrochen.
-  CONFIRMATION_SETTINGS_UPDATE: Einstellungen über Netzwerk Laden?
+  NO_CHEATS_FOUND: Keine Cheats gefunden.
+  DL_DEFAULTS: Standardeinstellungen laden
+  NET_UPDATE: Netzwerk-Update
+  NET_UPDATE_ALL: Einstellungen überschreiben?
+  NET_UPDATE_FAILED: Update fehlgeschlagen.
+  NET_UPDATE_CONN_FAILED: Verbindung zu Update-Server fehlgeschlagen.
+  NET_UPDATE_DONE: Update beendet.
+  NET_UPDATE_CANCELLED: Update abgebrochen.
+  CONFIRMATION_SETTINGS_UPDATE: Einstellungen über Netzwerk laden?
   CUSTOMIZED_SETTINGS: Benutzerdef. Einstellungen
-  DOWNLOADED_DEFAULTS: Standardeinstellungen Geladen
+  DOWNLOADED_DEFAULTS: Standardeinstellungen geladen
   AUTO_START_IN_N_SECS: Auto. Start in %i s…
   AUTOSTARTLAST: Auto. Start
   HINT_AUTOSTARTLAST: Wert in Sekunden. 0 = Deaktiviert.
   PS2LOGO: PS2-Logo
-  HINT_PS2LOGO: Anzeigen wenn Übereinstimmung mit Region der Konsole
+  HINT_PS2LOGO: Wird für ein gültiges Disc-Logo angezeigt, das der Region der Konsole entspricht.
   PADEMUCONFIG: PADEMU Konfigurieren
-  PADEMU_SETTINGS: Pad Emulator Einstellungen
+  PADEMU_SETTINGS: Pad-Emulator-Einstellungen
   PADEMU_ENABLE: Pad-Emulator
-  HINT_PADEMU_ENABLE: Pad Emulator Ein/Aus
+  HINT_PADEMU_ENABLE: Pad-Emulator ein/aus
   PADEMU_MODE: Pad-Emulatormodus
-  HINT_PADEMU_MODE: Pad-Emulatormodus Wählen
+  HINT_PADEMU_MODE: Pad-Emulatormodus wählen
   DS34USB_MODE: DualShock 3/4 USB
   DS34BT_MODE: DualShock 3/4 BT
   PADPORT: 'Anschluss Einstellungen:'
   HINT_PAD_PORT: Port des Pad-Emulators für Einstellungen
   PADEMU_PORT: Emulation
-  HINT_PADEMU_PORT: Pad-Emulator für Port Ein/Aus.
+  HINT_PADEMU_PORT: Pad-Emulator für Port ein/aus.
   PADEMU_VIB: Vibration
-  HINT_PADEMU_VIB: Vibration für Port Ein/Aus.
+  HINT_PADEMU_VIB: Vibration für Port ein/aus.
   USBDG_MAC: 'BT-Aadapter MAC-Adresse:'
   PAD_MAC: 'DS-Controller Verbunden mit MAC-Adresse:'
   PAIR: Verbinden
   PAIR_PAD: Verbinde DS-Controller
   HINT_PAIRPAD: Verbinde DS-Controller mit BT-Adapter MAC-Adresse.
-  NOT_CONNECTED: Nicht Verbunden
-  BTINFO: BT-Adapter Informationen
-  HINT_BTINFO: Mehr Informationen und Unterstützte Funktionen.
+  NOT_CONNECTED: Nicht verbunden
+  BTINFO: BT-Adapter-Informationen
+  HINT_BTINFO: Mehr Informationen und unterstützte Funktionen zeigen.
   HCIVER: 'HCI-Version:'
   LMPVER: 'LMP-Version:'
   MANUFACTURER: 'Hersteller-ID:'
@@ -248,9 +236,9 @@ translations:
   BT_SUPPORTED: BT-Adapter sollte voll mit DS-Controller kompatibel sein.
   BT_NOTSUPPORTED: BT-Adapter funktioniert evtl. nicht korrekt mit DS-Controller.
   MTAP_ENABLE: Multitap-Emulation
-  HINT_MTAP_ENABLE: Multitap-Emulation Ein/Aus.
+  HINT_MTAP_ENABLE: Multitap-Emulation ein/aus.
   MTAP_PORT: 'Multitap-Emulation Port:'
-  HINT_MTAP_PORT: Multitap-Emulation Port Wählen.
+  HINT_MTAP_PORT: Multitap-Emulation Port wählen.
   PADEMU_WORKAROUND:
   - untranslated
   - original: Fake DS3 Workaround
@@ -271,12 +259,12 @@ translations:
   PARENLOCK_INVALID_PASSWORD: 'Fehler: Passwort nicht Verwendbar.'
   ERR_VMC_FRAGMENTED_CONTINUE: VMC %s fragmentiert. Weiter mit MC in Port %d?
   AUDIO_SETTINGS: Audio
-  SFX: OPL Töne
-  BOOT_SND: Boot Ton
-  SFX_VOLUME: Lautstärke OPL Töne
-  BOOT_SND_VOLUME: Lautstärke des Boot-Ton
-  CFM_VMODE_CHG: Video Mode Änderungen Bestätigen?
-  CACHE_HDD_GAME_LIST: Spieleliste Cache (HDD)
+  SFX: Soundeffekte
+  BOOT_SND: Startupsound
+  SFX_VOLUME: Soundeffekte-Lautstärke
+  BOOT_SND_VOLUME: Lautstärke des Startupsound
+  CFM_VMODE_CHG: Videoeinstellungen bestätigen?
+  CACHE_HDD_GAME_LIST: Spieleliste-Cache (HDD)
   ENABLE_NOTIFICATIONS: Benachrichtigungen
   CFG_NOTIFICATION:
   - untranslated
