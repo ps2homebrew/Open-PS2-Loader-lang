@@ -19,10 +19,10 @@ translations:
   APPS: Apps
   THEME: Theme
   LANGUAGE: Sprache
-  CONFIRMATION_POFF: System ausschalten?
+  CONFIRMATION_POFF: Das System wird nun heruntergefahren.
   CONFIRMATION_EXIT: Zurück zum Browser?
   CONFIRMATION_CANCEL_UPDATE: Aktualisierung abbrechen?
-  HDD_NOT_CONNECTED_ERROR: '%d: Festplatte nicht gefunden.'
+  HDD_NOT_CONNECTED_ERROR: '%d: Festplatte nicht erkannt.'
   HDD_NOT_FORMATTED_ERROR: '%d: Festplatte nicht formatiert.'
   NETWORK_STARTUP_ERROR: '%d: Fehler beim Starten des Netzwerks.'
   NETWORK_STARTUP_ERROR_NETIF: '%d: Kein Netzwerkadapter gefunden.'
@@ -35,19 +35,19 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Keine Verbindung zum Netzwerk.'
   'ON': Ein
   'OFF': Aus
-  OK: OK
-  SELECT: Ausw.
+  OK: Okay
+  SELECT: Select
   CANCEL: Abbruch
   CIRCLE: Kreis
   CROSS: Kreuz
   GAMES_LIST: Spiele
   COMPAT_SETTINGS: Spieleinstellungen
   REMOVE_ALL_SETTINGS: Einstellungen zurücksetzen
-  SCROLLING: Scrollen
+  SCROLLING: Scrollgeschwindigkeit
   SLOW: Langsam
   MEDIUM: Mittel
   FAST: Schnell
-  DEFDEVICE: Voreinstellungen
+  DEFDEVICE: Standardmenü
   LOAD_FROM_DISC: Von Disc laden
   PLEASE_WAIT: Bitte warten
   ERROR_LOADING_ID: 'Fehler: Laden der Spiel-ID.'
@@ -70,7 +70,7 @@ translations:
   MANUAL: Manuell
   STARTNBD: NBD-Server starten
   STARTINGNBD: NBD-Server wird gestartet…
-  RUNNINGNBD: NBD-Server Läuft…
+  RUNNINGNBD: NBD-Server läuft…
   STARTFAILNBD: 'Fehler: Starten des NBD-Server.'
   UNLOADNBD: NBD-Server wird gestoppt…
   EXITTO: IGR-Pfad
@@ -361,60 +361,24 @@ translations:
   ACT_TOGGLED:
   - untranslated
   - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD settings
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
+  LANGUAGE_JAPANESE: JAPANISCH
+  LANGUAGE_ENGLISH: ENGLISCH
+  LANGUAGE_FRENCH: FRANZÖSISCH
+  LANGUAGE_SPANISH: SPANISCH
+  LANGUAGE_GERMAN: DEUTSCH
+  LANGUAGE_ITALIAN: ITALIENISCH
+  LANGUAGE_DUTCH: NIEDERLÄNDISCH
+  LANGUAGE_PORTUGUESE: PORTUGIESISCH
+  LANGUAGE_RUSSIAN: RUSSISCH
+  LANGUAGE_KOREAN: KOREANISCH
+  LANGUAGE_TRAD_CHINESE: TRADITIONELLES CHINESISCH
+  LANGUAGE_SIMPL_CHINESE: VEREINFACHTES CHINESISCH
+  OSD_SETTINGS: OSD-Einstellungen
+  OSD_SETTINGS_LNG: OSD-Sprache
+  ENABLE_LNG: Sprache ändern
+  BGM: Hintergrundmusik
+  BGM_VOLUME: Hintergrundmusik-Lautstärke
   DEF_BGM_PATH:
   - untranslated
   - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  DEF_BGM_PATH_HINT: Pfad zum Streamen von Musik für das interne Thema festlegen.
