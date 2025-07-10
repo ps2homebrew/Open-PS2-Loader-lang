@@ -8,7 +8,7 @@ translations:
   NETCONFIG: Hálózat konfigurálása
   SHOW_ADVANCED_OPTS: Haladó beállítások
   NO_ITEMS: <Nincs érték>
-  SETTINGS_SAVED: Beállítások elmentve ide: %s
+  SETTINGS_SAVED: Beállítások elmentve ide %s
   ERROR_SAVING_SETTINGS: Hiba a beállítások írásában!
   EXIT: Kilépés
   SETTINGS: Beállítások
