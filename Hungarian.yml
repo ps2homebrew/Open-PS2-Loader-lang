@@ -8,7 +8,7 @@ translations:
   NETCONFIG: Hálózat konfigurálása
   SHOW_ADVANCED_OPTS: Haladó beállítások
   NO_ITEMS: <Nincs érték>
-  SETTINGS_SAVED: Beállítások elmentve %s-be
+  SETTINGS_SAVED: Beállítások elmentve ide %s
   ERROR_SAVING_SETTINGS: Hiba a beállítások írásában!
   EXIT: Kilépés
   SETTINGS: Beállítások
@@ -55,22 +55,16 @@ translations:
   ERROR_LOADING_ID: Hiba a Játék ID betöltése közben
   AUTOSORT: Automatikus rendezés
   ERR_LOADING_LANGFILE: Hiba a nyelv fájl betöltésnél
-  DEBUG:
-  - untranslated
-  - original: Debug Colors
+  DEBUG: Debug színek
   NO_CONTROLLER: Nem található kontroller, várakozás…
-  COVERART:
-  - untranslated
-  - original: Cover Art
-  WIDE_SCREEN: Szélesvásznú
+  COVERART: Borítókép
+  WIDE_SCREEN: Szélesvásznú mód
   POWEROFF: Kikapcsolás
   LOADING_SETTINGS: Konfiguráció betöltése
   SAVING_SETTINGS: Konfiguráció mentése
   START_DEVICE: Eszköz indítása
   REFRESH: Frissítés
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: BDM start mód
   HDDMODE: HDD eszköz indítási mód
   ETHMODE: ETH eszköz indítási mód
   APPMODE: Alkalmazások menü megjelenítési mód
@@ -114,12 +108,10 @@ translations:
   RENAME: Átnevezés
   DELETE: Törlés
   RUN: Futtatás
-  GFX_SETTINGS: Képernyő beállítások
-  ENABLE_WRITE:
-  - untranslated
-  - original: Write Operations
+  GFX_SETTINGS: Képernyőbeállítások
+  ENABLE_WRITE: Írásműveletek
   LASTPLAYED: Emlékezzen a legutóbbi játékra
-  SELECTBUTTON: Select gomb
+  SELECTBUTTON: SELECT gomb
   ERR_FRAGMENTED: Hiba, a játék töredezett
   ERR_FILE_INVALID: Hiba, az elem futtatása sikertelen
   TEST: Változások tesztelése
@@ -195,7 +187,7 @@ translations:
   ENABLEGSM:
   - untranslated
   - original: GSM Selector
-  HINT_ENABLEGSM: KI vagy BE kapcsolja a GSM-t
+  HINT_ENABLEGSM: KI vagy BE kapcsolja a GSM-et
   HINT_GSMVMODE: Kényszerített testreszabott megjelenítési mód
   XOFFSET: Vízszintes-pozíció
   HINT_XOFFSET: Vízszintes szabályozás
@@ -218,8 +210,8 @@ translations:
   CHEATMODESELECT: Játékcsalások kiválasztása
   ERR_CHEATS_LOAD_FAILED: 'Hiba: A Csalásfájl betöltése sikertelen'
   NO_CHEATS_FOUND: Nem találhatóak csalások
-  DL_DEFAULTS: Alapértelmezett letöltése
-  NET_UPDATE: Hálózat frissítése
+  DL_DEFAULTS: Alapértelmezések letöltése
+  NET_UPDATE: Hálózati frissítés
   NET_UPDATE_ALL: Létező rekordok felülírása
   NET_UPDATE_FAILED: Frissítés sikertelen.
   NET_UPDATE_CONN_FAILED: Nem sikerült csatlakozni a frissítő szerverhez.
@@ -240,7 +232,7 @@ translations:
   - original: Pad Emulator
   HINT_PADEMU_ENABLE: Be/ki kapcsolja a PadEmulátor-t a kiválaszott játékhoz.
   PADEMU_MODE: Pad Emulátor mód
-  HINT_PADEMU_MODE: Válassza ki a Pad Emulátor módját.
+  HINT_PADEMU_MODE: Válassza ki a PadEmulátor módját.
   DS34USB_MODE:
   - untranslated
   - original: DualShock3/4 USB
@@ -248,17 +240,17 @@ translations:
   - untranslated
   - original: DualShock3/4 BT
   PADPORT: 'Port beállítások:'
-  HINT_PAD_PORT: Válassza ki a Pad Emulátor portot a beállításokhoz.
+  HINT_PAD_PORT: Válassza ki a PadEmulátor portot a beállításokhoz.
   PADEMU_PORT:
   - untranslated
   - original: Emulation
-  HINT_PADEMU_PORT: Be/ki kapcsolja a Pad Emulátor-t a kiválasztott porthoz.
+  HINT_PADEMU_PORT: Be/ki kapcsolja a PadEmulátor-t a kiválasztott porthoz.
   PADEMU_VIB:
   - untranslated
   - original: Vibration
-  HINT_PADEMU_VIB: Be/ki kapcsolja a rezgést a Pad Emulátor kiválasztott portjához.
+  HINT_PADEMU_VIB: Be/ki kapcsolja a rezgést a PadEmulátor kiválasztott portjához.
   USBDG_MAC: 'USB bluetooth adapter mac címe:'
-  PAD_MAC: 'DS kontroller a következő MAC címhez pároztatva:'
+  PAD_MAC: 'DS kontroller a következő MAC címhez párosítva:'
   PAIR: Párosítás
   PAIR_PAD: DS kontroller párosítása
   HINT_PAIRPAD: DS kontroller párosítása Bluetooth adapter MAC címmel.
@@ -268,7 +260,7 @@ translations:
   HCIVER: 'HCI verzió:'
   LMPVER: 'LMP verzió:'
   MANUFACTURER: 'Gyártó ID:'
-  SUPFEATURES: 'Támogatási funkciók:'
+  SUPFEATURES: 'Támogatott funkciók:'
   'YES': Igen
   'NO': Nem
   BT_SUPPORTED: A Bluetooth adapternek teljes mértékben kompatibilisnek kell lennie
@@ -279,7 +271,7 @@ translations:
   - untranslated
   - original: Multitap Emulation
   HINT_MTAP_ENABLE: Ki/be kapcsolja a Multitap emulációt a kiválasztott játékhoz.
-  MTAP_PORT: Multitap emulátor ezen a porton
+  MTAP_PORT: Multitap emuláció ezen a porton
   HINT_MTAP_PORT: Válassza ki a portot a Multitap emulációhoz.
   PADEMU_WORKAROUND:
   - untranslated
@@ -305,7 +297,7 @@ translations:
   BOOT_SND: Boot effekt
   SFX_VOLUME: Hanghatások hangereje
   BOOT_SND_VOLUME: Boot effekt hangereje
-  CFM_VMODE_CHG: Videó mód változtatás jóváhagyása?
+  CFM_VMODE_CHG: jóváhagyja a Videó mód változtatását?
   CACHE_HDD_GAME_LIST: Játéklista cachelés (HDD)
   ENABLE_NOTIFICATIONS: Értesítések
   CFG_NOTIFICATION:
@@ -319,7 +311,7 @@ translations:
   - original: Language loaded from %s
   PARTITION_NOTIFICATION:
   - untranslated
-  - original: '%s partition mounted.'
+  - original: '%s partíció mountolva.'
   OPTIONS: Opciók
   GAME_SETTINGS_SAVED: Játékbeállítások elmentve.
   GAME_SETTINGS_REMOVED: '%s beállítások eltávolítva'
@@ -332,27 +324,21 @@ translations:
   FORUM_DETAILS: 'Támogatási fórumok:'
   INFO_TITLE: Cím
   INFO_GENRE: Műfaj
-  INFO_RELEASE: Megjelenés
+  INFO_RELEASE: Kiadás
   INFO_DEVELOPER: Fejlesztő
   INFO_DESCRIPTION: Leírás
   BLOCKDEVICE_SETTINGS:
   - untranslated
   - original: Block Devices
-  CONTROLLER_SETTINGS: Kontroller beállítások
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
+  CONTROLLER_SETTINGS: Kontrollerbeállítások
+  HINT_BDM_START: A Block Device Manager ki/bekapcsolása.
+  HINT_BLOCK_DEVICES: Ki/bekapcsolja a Block eszközöket (pl. USB).
   USB_GAMES: USB játékok
   ILINK_GAMES: iLink játékok
   MX4SIO_GAMES: MX4SIO játékok
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS: Pad makró beállítások
-  PADMACRO_ENABLE: Pad makrók
+  PADMACROCONFIG: PADMACRO beállítása
+  PADMACRO_SETTINGS: Padmakró beállítások
+  PADMACRO_ENABLE: Padmakrók
   PADMACRO_SLOWDOWN:
   - untranslated
   - original: 'Analog slow-down:'
@@ -368,15 +354,9 @@ translations:
   - untranslated
   - original: Invert analog stick axis
   TURBO_SPEED: Turbo gomb sebessége
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
+  HINT_TURBO_SPEED: Milyen gyorsan nyomkodja a gombot, ha a turbó aktív
+  ACT_WHILE_PRESSED: Amíg a gomb lenyomva van
+  ACT_TOGGLED: A gombbal átkapcsolható
   LANGUAGE_JAPANESE: JAPÁN
   LANGUAGE_ENGLISH: ANGOL
   LANGUAGE_FRENCH: FRANCIA
