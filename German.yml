@@ -304,24 +304,16 @@ translations:
   BLOCKDEVICE_SETTINGS:
   - untranslated
   - original: Block Devices
-  CONTROLLER_SETTINGS:
-  - untranslated
-  - original: Controller Settings
+  CONTROLLER_SETTINGS: Controller-Einstellungen
   HINT_BDM_START:
   - untranslated
   - original: Turn on/off Block Device Manager.
   HINT_BLOCK_DEVICES:
   - untranslated
   - original: Turn on/off Block Devices (e.g. USB).
-  USB_GAMES:
-  - untranslated
-  - original: USB Games
-  ILINK_GAMES:
-  - untranslated
-  - original: iLink Games
-  MX4SIO_GAMES:
-  - untranslated
-  - original: MX4SIO Games
+  USB_GAMES: USB-Spiele
+  ILINK_GAMES: iLink-Spiele
+  MX4SIO_GAMES: MX4SIO-Spiele
   PADMACROCONFIG:
   - untranslated
   - original: Configure PADMACRO
@@ -334,33 +326,15 @@ translations:
   PADMACRO_SLOWDOWN:
   - untranslated
   - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
+  HINT_PADMACRO_SLOWDOWN_AXIS: Reichweite des Analogsticks bei Tastendruck verringern
+  LEFT_ANALOG: Linker Stick
+  RIGHT_ANALOG: Rechter Stick
+  PADMACRO_INVERT_AXIS: 'Analoge Achse invertieren:'
+  HINT_PADMACRO_INVERT_AXIS: Analogstick-Achse invertieren
+  TURBO_SPEED: Tastengeschwindigkeit
+  HINT_TURBO_SPEED: Wie schnell Taste gedrückt werden muss, wenn der Turbo aktiviert ist
+  ACT_WHILE_PRESSED: Während Taste gedrückt ist
+  ACT_TOGGLED: Mit Taste wechseln
   LANGUAGE_JAPANESE: JAPANISCH
   LANGUAGE_ENGLISH: ENGLISCH
   LANGUAGE_FRENCH: FRANZÖSISCH
@@ -378,7 +352,5 @@ translations:
   ENABLE_LNG: Sprache ändern
   BGM: Hintergrundmusik
   BGM_VOLUME: Hintergrundmusik-Lautstärke
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
+  DEF_BGM_PATH: Standardmusik
   DEF_BGM_PATH_HINT: Pfad zum Streamen von Musik für das interne Thema festlegen.
