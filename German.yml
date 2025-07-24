@@ -99,9 +99,7 @@ translations:
   DELETE: Löschen
   RUN: Start
   GFX_SETTINGS: Anzeige
-  ENABLE_WRITE:
-  - untranslated
-  - original: Write Operations
+  ENABLE_WRITE: Schreibvorgänge
   LASTPLAYED: Letztes Spiel merken
   SELECTBUTTON: Select-Taste
   ERR_FRAGMENTED: 'Fehler: Spiel fragmentiert!'
@@ -239,12 +237,8 @@ translations:
   HINT_MTAP_ENABLE: Multitap-Emulation ein/aus.
   MTAP_PORT: 'Multitap-Emulation Port:'
   HINT_MTAP_PORT: Multitap-Emulation Port wählen.
-  PADEMU_WORKAROUND:
-  - untranslated
-  - original: Fake DS3 Workaround
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
+  PADEMU_WORKAROUND: Gefälschte DS3s umgehen
+  HINT_PADEMU_WORKAROUND: Einige gefälschte DS3s werden mit dieser Option umgangen.
   GSM_FIELD_FIX: FIELD Flipping Emulation
   HINT_GSM_FIELD_FIX: Fix für Spiele mit Progressive Video Modes (zB. 576p)
   PARENLOCKCONFIG: Kindersicherung
@@ -253,16 +247,14 @@ translations:
   PARENLOCK_ENTER_PASSWORD_TITLE: Kindersicherung Passwort eingeben
   PARENLOCK_PASSWORD_INCORRECT: Kindersicherung Passwort Falsch.
   PARENLOCK_DISABLE_WARNING: Kindersicherung Deaktiviert.
-  BUILD_DETAILS:
-  - untranslated
-  - original: 'Build Options:'
+  BUILD_DETAILS: 'Build-Optionen:'
   PARENLOCK_INVALID_PASSWORD: 'Fehler: Passwort nicht Verwendbar.'
   ERR_VMC_FRAGMENTED_CONTINUE: VMC %s fragmentiert. Weiter mit MC in Port %d?
   AUDIO_SETTINGS: Audio
   SFX: Soundeffekte
   BOOT_SND: Startupsound
   SFX_VOLUME: Soundeffekte-Lautstärke
-  BOOT_SND_VOLUME: Lautstärke des Startupsound
+  BOOT_SND_VOLUME: Lautstärke des Startupsounds
   CFM_VMODE_CHG: Videoeinstellungen bestätigen?
   CACHE_HDD_GAME_LIST: Spieleliste-Cache (HDD)
   ENABLE_NOTIFICATIONS: Benachrichtigungen
@@ -283,34 +275,20 @@ translations:
   GAME_SETTINGS_REMOVED: '%s Einstellungen Entfernt.'
   NET_UPDATE_HINT: Überschreibt Kompatibilitäts Einstellungen
   SETTINGS_SOURCE: Einstellungen Modus
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
+  GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Pro Spiel
   ALL_SETTINGS: Alle
   GAME_SETTINGS_PROMPT: Einstellungen zum Entfernen Wählen.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
+  FORUM_DETAILS: 'Support-Foren:'
   INFO_TITLE: Titel
-  INFO_GENRE:
-  - untranslated
-  - original: Genre
-  INFO_RELEASE:
-  - untranslated
-  - original: Release
+  INFO_GENRE: Genre
+  INFO_RELEASE: Veröffentlichung
   INFO_DEVELOPER: Entwickler
   INFO_DESCRIPTION: Beschreibung
-  BLOCKDEVICE_SETTINGS:
-  - untranslated
-  - original: Block Devices
+  BLOCKDEVICE_SETTINGS: Block-Geräte
   CONTROLLER_SETTINGS: Controller-Einstellungen
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
+  HINT_BDM_START: Block-Gerätemanager ein/aus
+  HINT_BLOCK_DEVICES: Block-Geräte ein/aus
   USB_GAMES: USB-Spiele
   ILINK_GAMES: iLink-Spiele
   MX4SIO_GAMES: MX4SIO-Spiele
