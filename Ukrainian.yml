@@ -1,0 +1,321 @@
+comments: |-
+  Ukrainian translation by crisukbot
+  For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
+translations:
+  LOCALE: Ukrainian
+  SAVE_CHANGES: Зберігти налаштування
+  BACK: Повернутись
+  NETCONFIG: Конфигурація мережі
+  SHOW_ADVANCED_OPTS: Розширені налаштування
+  NO_ITEMS: <не вказано>
+  SETTINGS_SAVED: Збережено на %s
+  ERROR_SAVING_SETTINGS: Помилка збереження налаштувань!
+  EXIT: Вихід
+  SETTINGS: Налаштування
+  MENU: Меню
+  BDM_GAMES: BDM-Ігри
+  HDD_GAMES: HDD-Ігри
+  NET_GAMES: Мережеві ігри
+  APPS: Застосунки
+  THEME: Тема
+  LANGUAGE: Мова
+  CONFIRMATION_POFF: Вимкнути приставку.
+  CONFIRMATION_EXIT: Вийти у браузер?
+  CONFIRMATION_CANCEL_UPDATE: Скасувати оновлення?
+  HDD_NOT_CONNECTED_ERROR: '%d: Жорсткий диск не підключено'
+  HDD_NOT_FORMATTED_ERROR: '%d: Жорсткий диск не відформатовано'
+  NETWORK_STARTUP_ERROR: '%d: Помилка налаштування мережі'
+  NETWORK_STARTUP_ERROR_NETIF: '%d: Не вдалося знайти мережевий адаптер'
+  NETWORK_STARTUP_ERROR_CONN: '%d: Не вдається знайти мережевий ресурс або підключитися
+    до нього'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: Не вдається увійти на мережевий ресурс із зазначеними
+    обліковими даними'
+  NETWORK_STARTUP_ERROR_SHARE: '%d: Не вдається відкрити мережевий ресурс'
+  NETWORK_SHARE_LIST_ERROR: '%d: Не вдається відкрити список із мережевого ресурсу'
+  NETWORK_GAMES_LIST_ERROR: '%d: Не вдається відкрити список'
+  NETWORK_ERROR_DHCP_FAIL: '%d: DHCP сервер недоступний'
+  NETWORK_ERROR_LINK_FAIL: '%d: Відсутнє підключення до мережі'
+  'ON': Увімк
+  'OFF': Вимк
+  OK: Ок
+  SELECT: Выбір
+  CANCEL: Скасувати
+  CIRCLE: Коло
+  CROSS: Хрестик
+  GAMES_LIST: Список ігор
+  COMPAT_SETTINGS: Конфігурація ігор
+  REMOVE_ALL_SETTINGS: Скинути всі налаштування
+  SCROLLING: Швидкість скролінгу
+  SLOW: Повільно
+  MEDIUM: Середньо
+  FAST: Швидко
+  DEFDEVICE: Меню за замовчуванням
+  LOAD_FROM_DISC: Загрузитись з диску
+  PLEASE_WAIT: Будь ласка, почекайте.
+  ERROR_LOADING_ID: Виникла помилка під час завантаження файлу Game ID.
+  AUTOSORT: Автоматичне сортування
+  ERR_LOADING_LANGFILE: Помилка завантаження мовного файлу.
+  DEBUG: Колір дебаґу
+  NO_CONTROLLER: Контролер не виявлено, чекаємо...
+  COVERART: Обкладинка
+  WIDE_SCREEN: Широкоекранний
+  POWEROFF: Вимкнення живлення
+  LOADING_SETTINGS: Завантаження конфігу...
+  SAVING_SETTINGS: Збереження конфігу...
+  START_DEVICE: Запустити пристрій
+  REFRESH: Оновити
+  BDMMODE: Режим запуску BDM
+  HDDMODE: Режим запуску HDD
+  ETHMODE: Режим запуску ETH
+  APPMODE: Режим запуску застосунків
+  AUTO: Авто
+  MANUAL: Вручну
+  STARTNBD: Запустити сервер NBD
+  STARTINGNBD: NBD Server запускається...
+  RUNNINGNBD: NBD Server працює...
+  STARTFAILNBD: Не вдалося запустити сервер NBD.
+  UNLOADNBD: Сервер NBD зупиняється...
+  EXITTO: ELF при виклику IGR
+  BGCOLOR: Колір фону
+  TXTCOLOR: Колір тексту
+  CAT_SMB_SERVER: '- Сервер SMB -'
+  IP_ADDRESS_TYPE: Тип IP-адреси
+  IP_ADDRESS_TYPE_STATIC: Статичний
+  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS: IP-адреса
+  ADDRESS: Адреса
+  MASK: Маска
+  GATEWAY: Шлюз
+  DNS_SERVER: DNS сервер
+  PORT: Порт
+  SHARE: Мережева папка
+  USER: Користувач
+  PASSWORD: Пароль
+  NOT_SET: <не вказано>
+  ADDRESS_TYPE: Тип адреси
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
+  ACCEPT: Застосувати
+  DELETE_WARNING: Файл буде безповоротно видалено, продовжуйте
+  RENAME: Перейменувати
+  DELETE: Видалити
+  RUN: Запустити
+  GFX_SETTINGS: Налаштування екрану
+  ENABLE_WRITE: Операції запису
+  LASTPLAYED: Запам'ятати останню зіграну гру
+  SELECTBUTTON: Обрати кнопку
+  ERR_FRAGMENTED: Помилка, гра фрагментована.
+  ERR_FILE_INVALID: Помилка, не вдалося запустити файл!
+  TEST: Перевірка змін
+  HINT_GUEST: Залиште порожнім для GUEST авторизації.
+  HINT_MODE1: Обережне читання
+  HINT_MODE2: Режим синхронізації
+  HINT_MODE3: Розблокувати системні виклики
+  HINT_MODE4: Пропуск відео
+  HINT_MODE5: Емулювати DVD-DL
+  HINT_MODE6: Вимкнути використання IGR
+  HINT_VMC_SIZE: При зміні розміру, VMC переформатовується
+  CREATE: Створити
+  START: Старт
+  MODIFY: Змінити
+  ABORT: Скасувати
+  RESET: Скинути
+  USE_GENERIC: Використовувати звичайну
+  VMC_SCREEN: Налаштування VMC
+  VMC_NAME: Им'я
+  SIZE: Розмір
+  VMC_STATUS: Статус
+  VMC_PROGRESS: Прогрес
+  VMC_FILE_EXISTS: VMC файл існує
+  VMC_FILE_ERROR: Пошкоджений VMC файл, неправильний розмір
+  VMC_FILE_NEW: Необхідно створити VMC файл
+  ERR_VMC_CONTINUE: Помилка з VMC %s, використовувати фізичну картку (слот %d)?
+  AUTOREFRESH: Автоматичне оновлення
+  ABOUT: Про програму
+  DEVS: Розробники
+  QANDA: Гарантія якості
+  BDM_PREFIX: Префікс шляху для BDM
+  HINT_EXITPATH: Завантажити інший ELF, після IGR
+  HINT_SPINDOWN: Значення в хвилинах, 0 для відключення функції
+  HDD_SPINDOWN: Автоматичне відключення HDD
+  VMODE: Відеорежим
+  UICOLOR: Колір тексту
+  SELCOLOR: Обраний колір
+  RESETCOLOR: Скинути кольори
+  INFO: Інфо
+  ALTSTARTUP: Користувацький ELF
+  COLOR_SELECTION: Выбір кольору
+  RECONNECT: Перепідключитися
+  HINT_SHARENAME: Залиште порожнім для виведення списку
+  ETH_PREFIX: Префікс шляху для мережевого ресурсу
+  BACKSPACE: Видалити
+  SPACE: Пропуск
+  ENTER: Ввід
+  MODE: Режим
+  VMC_SLOT1: VMC слот 1
+  VMC_SLOT2: VMC слот 2
+  GAME_ID: ID ігри
+  DMA_MODE: Режим DMA
+  VSYNC: Вертикальна синхронізація
+  MODE1: Режим 1
+  MODE2: Режим 2
+  MODE3: Режим 3
+  MODE4: Режим 4
+  MODE5: Режим 5
+  MODE6: Режим 6
+  GSCONFIG: Конфигурація GSM
+  ETH_OPMODE: Швидкість підключення та режим дуплекса
+  ETH_100MFDX: 100 Мбіт та повний дуплекс
+  ETH_100MHDX: 100 Мбіт та полудуплекс
+  ETH_10MFDX: 10 Мбит та повний дуплекс
+  ETH_10MHDX: 10 Мбит та полудуплекс
+  GSM_SETTINGS: Налаштування GSM
+  ENABLEGSM: Перемикач GSM
+  HINT_ENABLEGSM: Примусово задіює GSM із зазначеними нижче параметрами
+  HINT_GSMVMODE: Примусово задіює користувацький режим
+  XOFFSET: Відступити вліво або вправо
+  HINT_XOFFSET: Горизонтальне положення
+  YOFFSET: Відступити вниз та вверх
+  HINT_YOFFSET: Вертикальне положення
+  OVERSCAN: Виліт розгортки
+  HINT_OVERSCAN: Регулювати виліт розгортки
+  GSMSKIPVIDEOS: Пропуск FMV
+  HINT_GSMSKIPVIDEOS: Пропускати Full Motion відео
+  CHEAT_SETTINGS: Налаштування читів
+  ENABLECHEAT: Чити PS2RD
+  HINT_ENABLECHEAT: PS2RD пропатчить вашу гру
+  CHEATMODE: Режим читів PS2RD
+  HINT_CHEATMODE: Автоматичний выбір або оберіть чит для гри
+  CHEATMODEAUTO: Автоматичний вибір читів
+  CHEATMODESELECT: Обрати чит для гри
+  ERR_CHEATS_LOAD_FAILED: Помилка, файл с читами не завантажено
+  NO_CHEATS_FOUND: Чити не знайдено
+  DL_DEFAULTS: Завантаження стандартних
+  NET_UPDATE: Оновлення з інтернету
+  NET_UPDATE_ALL: Перезаписувати наявні налаштування
+  NET_UPDATE_FAILED: Не вдалося завантажити.
+  NET_UPDATE_CONN_FAILED: Не вдалося з'єднатися з сервером.
+  NET_UPDATE_DONE: Оновлення завершено
+  NET_UPDATE_CANCELLED: Оновлення скасовано.
+  CONFIRMATION_SETTINGS_UPDATE: Завантажити налаштування з інтернету?
+  CUSTOMIZED_SETTINGS: Користувацькі налаштування
+  DOWNLOADED_DEFAULTS: Завантаження стандартних
+  AUTO_START_IN_N_SECS: Автозапуск через %i s…
+  AUTOSTARTLAST: Автозапуск
+  HINT_AUTOSTARTLAST: Значення в секундах(и), 0 щоб вимкнути автопуск...
+  PS2LOGO: Логотип PS2
+  HINT_PS2LOGO: Відображається в разі збігу регіонів диска і консолі.
+  PADEMUCONFIG: Налаштувати PADEMU
+  PADEMU_SETTINGS: Налаштування Pad емулятора
+  PADEMU_ENABLE: Эмуляція контроллерів
+  HINT_PADEMU_ENABLE: Увімк/вимк емуляцію контроллерів для обранної гри.
+  PADEMU_MODE: Режим емуляції контроллерів
+  HINT_PADEMU_MODE: Обрати режим емуляції контроллерів.
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 BT
+  PADPORT: 'Налаштування для порту:'
+  HINT_PAD_PORT: Вибрати налаштування для порту Pad емулятора.
+  PADEMU_PORT: Емуляція
+  HINT_PADEMU_PORT: Увімк/Вимк емуляцію контролерів для обраного порту.
+  PADEMU_VIB: Вібрація
+  HINT_PADEMU_VIB: Увімк/вимк вібрацію в обраному порті Pad емулятора.
+  USBDG_MAC: 'MAC-адреса USB Bluetooth адаптера:'
+  PAD_MAC: 'DS контроллер підключився до MAC-адресу:'
+  PAIR: Синхронізація
+  PAIR_PAD: Синхронізувати DS контроллер
+  HINT_PAIRPAD: Синхронізувати DS контролер з MAC-адресою Bluetooth адаптера.
+  NOT_CONNECTED: Не підключено
+  BTINFO: Інформація про Bluetooth адаптер
+  HINT_BTINFO: Показати більше інформації та функції які підтримуються
+  HCIVER: 'HCI версія:'
+  LMPVER: 'LMP версія:'
+  MANUFACTURER: 'ID виробника:'
+  SUPFEATURES: 'Підтримувані функції:'
+  'YES': Так
+  'NO': Ні
+  BT_SUPPORTED: Bluetooth адаптер має бути сумісний із DS3/DS4 контролерами.
+  BT_NOTSUPPORTED: Bluetooth адаптер може працювати неправильно з DS3/DS4 контролерами.
+  MTAP_ENABLE: Емуляція Multitap
+  HINT_MTAP_ENABLE: Увімк/вимк емуляцію Multitap для обраної гри.
+  MTAP_PORT: 'Емуляція Multitap на порту:'
+  HINT_MTAP_PORT: Вибрати порт для Multitap емуляції.
+  PADEMU_WORKAROUND: Тимчасове рішення для неоригінальних DS3
+  HINT_PADEMU_WORKAROUND: Деякі неоригінальні DS3 потребують особливого режиму, що вмикається
+    цією опцією.
+  GSM_FIELD_FIX: Емулювати ОБЛАСТЬ огляду
+  HINT_GSM_FIELD_FIX: Виправлення для ігор, де є проблема з прогресивним режимом.
+  PARENLOCKCONFIG: Налаштувати батьківський контроль
+  PARENLOCK_PASSWORD: Пароль для батьківського контролю
+  PARENLOCK_PASSWORD_HINT: Не заповнюйте, щоб вимкнути батьківський контроль.
+  PARENLOCK_ENTER_PASSWORD_TITLE: Батьківський контроль, введіть пароль
+  PARENLOCK_PASSWORD_INCORRECT: Батьківський контроль, невірний пароль.
+  PARENLOCK_DISABLE_WARNING: Батьківський контроль вимкнено.
+  BUILD_DETAILS: 'Опції складання:'
+  PARENLOCK_INVALID_PASSWORD: Помилка - цей пароль не може бути використано.
+  ERR_VMC_FRAGMENTED_CONTINUE: VMC %s файл фрагментовано. Продовжити з картою пам'яті
+    у слоті %d?
+  AUDIO_SETTINGS: Налаштування звуку
+  SFX: Звукові ефекти
+  BOOT_SND: Звук завантаження
+  SFX_VOLUME: Гучність звукових ефектів
+  BOOT_SND_VOLUME: Гучність звуку завантаження
+  CFM_VMODE_CHG: Змінити режим відео?
+  CACHE_HDD_GAME_LIST: Кешування списку ігор (HDD)
+  ENABLE_NOTIFICATIONS: Повідомлення
+  CFG_NOTIFICATION: Налаштування завантажено з %s
+  THM_NOTIFICATION: Тему завантажено з %s
+  LNG_NOTIFICATION: Переклад завантажено з %s
+  PARTITION_NOTIFICATION: '%s розділ диска змонтовано.'
+  OPTIONS: Налаштування
+  GAME_SETTINGS_SAVED: Налаштування гри збережено.
+  GAME_SETTINGS_REMOVED: '%s налаштування видалено.'
+  NET_UPDATE_HINT: Перезапис наявних налаштувань сумісності ігор, якщо увімкнено.
+  SETTINGS_SOURCE: Режим налаштувань
+  GLOBAL_SETTINGS: Глобальні
+  PERGAME_SETTINGS: Для гри
+  ALL_SETTINGS: Усі налаштування
+  GAME_SETTINGS_PROMPT: Виберіть налаштування для видалення.
+  FORUM_DETAILS: 'Форуми підтримки:'
+  INFO_TITLE: Назва
+  INFO_GENRE: Жанр
+  INFO_RELEASE: Випуск
+  INFO_DEVELOPER: Розробник
+  INFO_DESCRIPTION: Опис
+  BLOCKDEVICE_SETTINGS: Блокові пристрої
+  CONTROLLER_SETTINGS: Налаштування контролерів
+  HINT_BDM_START: Увімкнути/вимкнути менеджер блокових пристроїв.
+  HINT_BLOCK_DEVICES: Увімкнути/вимкнути блокові пристрої (наприклад USB).
+  USB_GAMES: USB-Ігри
+  ILINK_GAMES: iLink-Ігри
+  MX4SIO_GAMES: MX4SIO Ігри
+  PADMACROCONFIG: Налаштування PADMACRO
+  PADMACRO_SETTINGS: Налаштування Pad-макросів
+  PADMACRO_ENABLE: Pad макроси
+  PADMACRO_SLOWDOWN: 'Аналогове уповільнення:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Зменшення дальності дії аналогового джойстика при натисканні кнопки
+  LEFT_ANALOG: Лівий стік
+  RIGHT_ANALOG: Правий стік
+  PADMACRO_INVERT_AXIS: 'Інверсія аналогової осі:'
+  HINT_PADMACRO_INVERT_AXIS: Інвертація осі аналогового стику
+  TURBO_SPEED: Швидкість турбо-кнопки
+  HINT_TURBO_SPEED: Як швидко натискати кнопку, коли активний режим турбо
+  ACT_WHILE_PRESSED: Поки кнопка натиснута
+  ACT_TOGGLED: Вмикається кнопкою
+  LANGUAGE_JAPANESE: Японська
+  LANGUAGE_ENGLISH: Англійська
+  LANGUAGE_FRENCH: Французька
+  LANGUAGE_SPANISH: Іспанська
+  LANGUAGE_GERMAN: Німецька
+  LANGUAGE_ITALIAN: Італійська
+  LANGUAGE_DUTCH: Датська
+  LANGUAGE_PORTUGUESE: Португальська
+  LANGUAGE_KOREAN: Корейська
+  LANGUAGE_TRAD_CHINESE: Традиційна китайська
+  LANGUAGE_SIMPL_CHINESE: Спрощена китайська
+  OSD_SETTINGS: Налаштування OSD
+  OSD_SETTINGS_LNG: Мова OSD
+  ENABLE_LNG: Змінити мову
+  BGM: Музика на фоні
+  BGM_VOLUME: Гучність музики на фоні
+  DEF_BGM_PATH: Музика за замовчуванням
+  DEF_BGM_PATH_HINT: Встановіть шлях до потокової музики для внутрішньої теми.
