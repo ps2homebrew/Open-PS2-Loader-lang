@@ -4,12 +4,12 @@ comments: |-
 translations:
   LOCALE: Galician
   SAVE_CHANGES: Gardar cambios
-  BACK: Atrás
+  BACK: Voltar
   NETCONFIG: Conexión de rede
   SHOW_ADVANCED_OPTS: Opcións avanzadas
   NO_ITEMS: <Sen configurar>
   SETTINGS_SAVED: Configuración gardada en %s
-  ERROR_SAVING_SETTINGS: ¡Erro ó gardar a configuración!
+  ERROR_SAVING_SETTINGS: Erro ao gardar a configuración!
   EXIT: Saír
   SETTINGS: Configuración principal
   MENU: Menú
@@ -19,14 +19,14 @@ translations:
   APPS: Aplicacións
   THEME: Tema
   LANGUAGE: Idioma
-  CONFIRMATION_POFF: O Sistema apagarase
-  CONFIRMATION_EXIT: Saír ó navegador da consola?
+  CONFIRMATION_POFF: O sistema apagarase
+  CONFIRMATION_EXIT: Saír ao navegador da consola?
   CONFIRMATION_CANCEL_UPDATE: Cancelar actualización?
   HDD_NOT_CONNECTED_ERROR: '%d: Disco duro non detectado'
   HDD_NOT_FORMATTED_ERROR: '%d: Disco duro non formatado'
-  NETWORK_STARTUP_ERROR: '%d: Erro ó iniciar rede'
+  NETWORK_STARTUP_ERROR: '%d: Erro ao iniciar a rede'
   NETWORK_STARTUP_ERROR_NETIF: '%d: Non se detectou ningún adaptador de rede'
-  NETWORK_STARTUP_ERROR_CONN: '%d: Non se pode conectar ó servidor SMB'
+  NETWORK_STARTUP_ERROR_CONN: '%d: Non se pode conectar ao servidor SMB'
   NETWORK_STARTUP_ERROR_LOGON: '%d: Non se pode iniciar sesión no servidor SMB'
   NETWORK_STARTUP_ERROR_SHARE: '%d: Non se pode abrir a unidade compartida SMB'
   NETWORK_SHARE_LIST_ERROR: '%d: Non se pode listar a unidade compartida SMB'
@@ -36,79 +36,79 @@ translations:
   'ON': Activado
   'OFF': Desactivado
   OK: Aceptar
-  SELECT: Aceptar
+  SELECT: Seleccionar
   CANCEL: Cancelar
   CIRCLE: Círculo
-  CROSS: Xe
+  CROSS: Cruz
   GAMES_LIST: Lista de xogos
   COMPAT_SETTINGS: Configuración do xogo
-  REMOVE_ALL_SETTINGS: Borrar configuracións
+  REMOVE_ALL_SETTINGS: Eliminar configuracións
   SCROLLING: Velocidade de desprazamento
   SLOW: Lento
   MEDIUM: Medio
   FAST: Rápido
   DEFDEVICE: Menú predeterminado
-  LOAD_FROM_DISC: Cargar do disco
-  PLEASE_WAIT: Agarde por favor
-  ERROR_LOADING_ID: Erro ao cargar o código ID do xogo
+  LOAD_FROM_DISC: Cargar dende o disco
+  PLEASE_WAIT: Agarde, por favor
+  ERROR_LOADING_ID: Erro ao cargar o ID do xogo
   AUTOSORT: Listas ordenadas alfabeticamente
-  ERR_LOADING_LANGFILE: Erro ao cargar o arquivo de idioma
+  ERR_LOADING_LANGFILE: Erro ao cargar o ficheiro de idioma
   DEBUG: Cores para depuración
   NO_CONTROLLER: Mando non atopado, esperando...
-  COVERART: Imaxes de deseño gráfico
+  COVERART: Imaxes da carátula
   WIDE_SCREEN: 'Relación de aspecto 16:9'
   POWEROFF: Apagar PS2
   LOADING_SETTINGS: Cargando configuración...
   SAVING_SETTINGS: Gardando configuración...
   START_DEVICE: Iniciar dispositivo
   REFRESH: Actualizar
-  BDMMODE: Modo de inicio para BDM
-  HDDMODE: Modo de inicio para Disco duro
-  ETHMODE: Modo de inicio para Rede
-  APPMODE: Modo de inicio para Aplicacións
+  BDMMODE: Modo de arranque para BDM
+  HDDMODE: Modo de arranque para Disco duro
+  ETHMODE: Modo de arranque para Rede
+  APPMODE: Modo de arranque para Aplicacións
   AUTO: Automático
   MANUAL: Manual
   STARTNBD: Iniciar servidor NBD
   STARTINGNBD: Iniciando servidor NBD...
   RUNNINGNBD: Servidor NBD conectado
-  STARTFAILNBD: Error al iniciar el servidor NBD
-  UNLOADNBD: Cerrando servidor NBD...
-  EXITTO: Ruta del IGR
+  STARTFAILNBD: Erro ao iniciar o servidor NBD
+  UNLOADNBD: Pechando o servidor NBD...
+  EXITTO: Ruta do IGR
   BGCOLOR: Cor de fondo
   TXTCOLOR: Cor de texto
   CAT_SMB_SERVER: '- Servidor SMB -'
-  IP_ADDRESS_TYPE: Tipo de dirección IP
+  IP_ADDRESS_TYPE: Tipo de enderezo IP
   IP_ADDRESS_TYPE_STATIC: Estática
   IP_ADDRESS_TYPE_DHCP: DHCP
-  IP_ADDRESS: Dirección IP
-  ADDRESS: Dirección
+  IP_ADDRESS: Enderezo IP
+  ADDRESS: Enderezo
   MASK: Máscara de subrede
   GATEWAY: Porta de enlace predeterminada
   DNS_SERVER: Servidor DNS
   PORT: Porto
-  SHARE: Unidade ou carpeta compartida
-  USER: Conta de usuario compartida
+  SHARE: Unidade ou cartafol compartida
+  USER: Usuario
   PASSWORD: Contrasinal
   NOT_SET: <Sen definir>
-  ADDRESS_TYPE: Tipo de dirección
+  ADDRESS_TYPE: Tipo de enderezo
   ADDR_TYPE_IP: IP
   ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Aceptar
-  DELETE_WARNING: O arquivo será borrado definitivamente, continuar?
+  DELETE_WARNING: O ficheiro será eliminado definitivamente. Continuar?
   RENAME: Renomear xogo
-  DELETE: Borrar xogo
+  DELETE: Eliminar xogo
   RUN: Iniciar
   GFX_SETTINGS: Configuración de pantalla
   ENABLE_WRITE: Operacións de escritura
   LASTPLAYED: Recordar último xogo en uso
   SELECTBUTTON: Botón de selección
   ERR_FRAGMENTED: Erro, o xogo está fragmentado
-  ERR_FILE_INVALID: Erro, non se puido iniciar o arquivo
+  ERR_FILE_INVALID: Erro, non se puido iniciar o ficheiro
   TEST: Probar cambios
   HINT_GUEST: Deixar en branco para autenticar como GUEST
   HINT_MODE1: Lectura precisa
   HINT_MODE2: Modo sincronizado
-  HINT_MODE3: Desvincula el sistema
+  HINT_MODE3: Desvincula o sistema
   HINT_MODE4: Omite vídeos
   HINT_MODE5: Emula DVD-DL
   HINT_MODE6: Quita o IGR
@@ -124,10 +124,10 @@ translations:
   SIZE: Tamaño
   VMC_STATUS: Estado
   VMC_PROGRESS: Progreso
-  VMC_FILE_EXISTS: Arquivo VMC creado
-  VMC_FILE_ERROR: Arquivo VMC inválido, o tamaño é incorrecto
-  VMC_FILE_NEW: O arquivo VMC debe ser creado
-  ERR_VMC_CONTINUE: Erro accedendo á VMC %s, continuar coa tarxeta de memoria na rañura %d)?
+  VMC_FILE_EXISTS: Ficheiro VMC creado
+  VMC_FILE_ERROR: Ficheiro VMC inválido, o tamaño é incorrecto
+  VMC_FILE_NEW: O ficheiro VMC debe crearse
+  ERR_VMC_CONTINUE: Erro ao acceder á VMC %s, continuar coa tarxeta de memoria na rañura %d?
   AUTOREFRESH: Refresco automático das listas
   ABOUT: Acerca de OPL
   DEVS: Desenvolvedores
@@ -139,12 +139,12 @@ translations:
   VMODE: Resolución de pantalla
   UICOLOR: Cor de diálogos
   SELCOLOR: Cor de selección
-  RESETCOLOR: Reinicio cores
+  RESETCOLOR: Restablecer cores
   INFO: Info.
-  ALTSTARTUP: Arquivo ELF personalizado
+  ALTSTARTUP: Ficheiro ELF personalizado
   COLOR_SELECTION: Seleccionar cor
   RECONNECT: Reconexión
-  HINT_SHARENAME: Deixar en branco para mostrar tódalas unidades ou carpetas compartidas
+  HINT_SHARENAME: Deixar en branco para mostrar tódalas unidades ou cartafoles compartidas
   ETH_PREFIX: Ruta predeterminada da conexión de rede
   BACKSPACE: Retroceso
   SPACE: Espacio
@@ -186,7 +186,7 @@ translations:
   HINT_CHEATMODE: Selección automática ou manual dos códigos para o xogo
   CHEATMODEAUTO: Selección automática dos códigos
   CHEATMODESELECT: Selección manual dos códigos
-  ERR_CHEATS_LOAD_FAILED: 'Erro: fallo ao cargar-lo arquivo de códigos'
+  ERR_CHEATS_LOAD_FAILED: 'Erro: fallou a carga do ficheiro de códigos'
   NO_CHEATS_FOUND: Non se atoparon códigos
   DL_DEFAULTS: Descargar configuración predeterminada
   NET_UPDATE: Descargar configuracións dos xogos
@@ -202,7 +202,7 @@ translations:
   AUTOSTARTLAST: Inicio automático
   HINT_AUTOSTARTLAST: Valor en segundos, 0 para desactivar o inicio automático
   PS2LOGO: Logotipo PlayStation 2
-  HINT_PS2LOGO: Só se mostrará se o xogo é da mesma rexión que a consola
+  HINT_PS2LOGO: Só se mostrará se o xogo é da mesma rexión que a consola.
   PADEMUCONFIG: Configuración DualShock 3/4
   PADEMU_SETTINGS: Opcións emulación de mando
   PADEMU_ENABLE: Emulación do mando
@@ -212,17 +212,16 @@ translations:
   DS34USB_MODE: DualShock 3/4 USB
   DS34BT_MODE: DualShock 3/4 Bluetooth
   PADPORT: 'Axustes para o porto:'
-  HINT_PAD_PORT: Selecciona o porto do mando emulado para aplica-los axustes
+  HINT_PAD_PORT: Selecciona o porto do mando emulado para aplicar os axustes
   PADEMU_PORT: Emulación
   HINT_PADEMU_PORT: Activa/Desactiva a emulación do mando para o porto seleccionado
   PADEMU_VIB: Vibración
   HINT_PADEMU_VIB: Activa/Desactiva a vibración para o mando emulado no porto seleccionado
-    seleccionado
-  USBDG_MAC: 'Dirección MAC adaptador bluetooth USB:'
-  PAD_MAC: 'Mando sincronizado con dirección MAC:'
+  USBDG_MAC: 'Enderezo MAC do adaptador Bluetooth USB:'
+  PAD_MAC: 'Mando sincronizado co enderezo MAC:'
   PAIR: Sincronizar
   PAIR_PAD: Sincronización mando DualShock
-  HINT_PAIRPAD: Sincronizar mando DualShock ca dirección MAC do adaptador Bluetooth
+  HINT_PAIRPAD: Sincronizar mando DualShock co enderezo MAC do adaptador Bluetooth
   NOT_CONNECTED: Non conectado
   BTINFO: Información adaptador Bluetooth
   HINT_BTINFO: Amosa máis información e as funcións soportadas
@@ -230,7 +229,7 @@ translations:
   LMPVER: 'Versión LMP:'
   MANUFACTURER: 'ID fabricante:'
   SUPFEATURES: 'Funcións soportadas:'
-  'YES': Sí
+  'YES': Si
   'NO': 'Non'
   BT_SUPPORTED: O adaptador Bluetooth debe ser totalmente compatible cos mandos
     DS3/DS4
@@ -242,18 +241,18 @@ translations:
   HINT_MTAP_PORT: Selecciona porto para a emulación Multitap
   PADEMU_WORKAROUND: Solución alternativa para os DS3 falsos
   HINT_PADEMU_WORKAROUND: Algúns DS3 falsos necesitan unha solución alternativa, esta 
-    opción actívaa
+    opción actíva tal solución
   GSM_FIELD_FIX: Emular alternancia de valores do CAMPO
   HINT_GSM_FIELD_FIX: Solución para xogos que fallan baixo resolucións progresivas
   PARENLOCKCONFIG: Control parental
   PARENLOCK_PASSWORD: Contrasinal
   PARENLOCK_PASSWORD_HINT: Deixar en branco para desactivar o control parental
   PARENLOCK_ENTER_PASSWORD_TITLE: Introduce o contrasinal do control parental
-  PARENLOCK_PASSWORD_INCORRECT: A contrasinal do control parental é incorrecta
+  PARENLOCK_PASSWORD_INCORRECT: O contrasinal do control parental é incorrecto
   PARENLOCK_DISABLE_WARNING: Control parental desactivado
   BUILD_DETAILS: 'Opcións de compilación:'
-  PARENLOCK_INVALID_PASSWORD: Erro - non se pode usar esta contrasinal
-  ERR_VMC_FRAGMENTED_CONTINUE: O arquivo VMC %s está fragmentado. Continuar coa
+  PARENLOCK_INVALID_PASSWORD: Erro - non se pode usar este contrasinal
+  ERR_VMC_FRAGMENTED_CONTINUE: O ficheiro VMC %s está fragmentado. Continuar coa
     tarxeta de memoria na rañura %d?
   AUDIO_SETTINGS: Configuración de son
   SFX: Efectos de son
@@ -269,14 +268,14 @@ translations:
   PARTITION_NOTIFICATION: Partición %s montada
   OPTIONS: Opcións
   GAME_SETTINGS_SAVED: Configuración do xogo gardada
-  GAME_SETTINGS_REMOVED: Axuste %s borrado
+  GAME_SETTINGS_REMOVED: Axuste %s eliminado
   NET_UPDATE_HINT: Cando se activa, sobrescribe a configuración de compatibilidade
     do xogo
   SETTINGS_SOURCE: Modo de configuración
   GLOBAL_SETTINGS: Global
   PERGAME_SETTINGS: Por xogo
   ALL_SETTINGS: Todo
-  GAME_SETTINGS_PROMPT: Selecciona configuracións para borrar
+  GAME_SETTINGS_PROMPT: Selecciona configuracións para eliminar
   FORUM_DETAILS: 'Foros de soporte:'
   INFO_TITLE: Título
   INFO_GENRE: Xénero
