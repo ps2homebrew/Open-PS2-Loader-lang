@@ -1,0 +1,332 @@
+comments: |-
+  Serbian translation by vlatko019
+  For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
+translations:
+  LOCALE: Serbian
+  SAVE_CHANGES: Sačuvaj Promene
+  BACK: Nazad
+  NETCONFIG: Podešavanja Mreže
+  SHOW_ADVANCED_OPTS: Napredne Postavke
+  NO_ITEMS: <nema vrednosti>
+  SETTINGS_SAVED: Postavke sačuvane u %s
+  ERROR_SAVING_SETTINGS: Greška pri čuvanju postavki!
+  EXIT: Izlaz
+  SETTINGS: Postavke
+  MENU: Meni
+  BDM_GAMES: BDM Igre
+  HDD_GAMES: HDD Igre
+  NET_GAMES: ETH Igre
+  APPS: Aplikacije
+  THEME: Teme
+  LANGUAGE: Jezik
+  CONFIRMATION_POFF: Sistem će se ugasiti.
+  CONFIRMATION_EXIT: Izlaz?
+  CONFIRMATION_CANCEL_UPDATE: Otkaži ažuriranje?
+  HDD_NOT_CONNECTED_ERROR: '%d: Hard Disk nije povezan.'
+  HDD_NOT_FORMATTED_ERROR: '%d: Hard Disk nije formatiran.'
+  NETWORK_STARTUP_ERROR: '%d: Greška pri pokretanju mreže.'
+  NETWORK_STARTUP_ERROR_NETIF: '%d: Mrežni adapter nije povezan.'
+  NETWORK_STARTUP_ERROR_CONN: '%d: Nemoguće se spojiti na SMB server.'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: Nemoguće se ulogovati na SMB server.'
+  NETWORK_STARTUP_ERROR_SHARE: '%d: Nemoguće otvoriti SMB deljenje.'
+  NETWORK_SHARE_LIST_ERROR: '%d: Nemoguće izlistati SMB deljenja.'
+  NETWORK_GAMES_LIST_ERROR: '%d: Nemoguće izlistati igre.'
+  NETWORK_ERROR_DHCP_FAIL: '%d: DHCP server nije dostupan.'
+  NETWORK_ERROR_LINK_FAIL: '%d: Nema mrežne konekcije.'
+  'ON': Uklj.
+  'OFF': Isklj.
+  OK: U redu
+  SELECT: Odaberi
+  CANCEL: Otkaži
+  CIRCLE: Krug
+  CROSS: Krst
+  GAMES_LIST: Lista Igara
+  COMPAT_SETTINGS: Postavke Igre
+  REMOVE_ALL_SETTINGS: Ukloni Postavke
+  SCROLLING: Izlistavanje
+  SLOW: Sporo
+  MEDIUM: Srednje
+  FAST: Brzo
+  DEFDEVICE: Podrazumevani Meni
+  LOAD_FROM_DISC: Učitaj sa diska
+  PLEASE_WAIT: Molimo, sačekajte.
+  ERROR_LOADING_ID: Greška pri učitavanju ID-a igre.
+  AUTOSORT: Automatsko Sortiranje
+  ERR_LOADING_LANGFILE: Greška učitavanja jezičke datoteke.
+  DEBUG: Debug Boje
+  NO_CONTROLLER: Kontroler nije povezan, čekanje…
+  COVERART: Slika Omota
+  WIDE_SCREEN: Široki Ekran
+  POWEROFF: Ugasi
+  LOADING_SETTINGS: Učitavanje konfiguracije…
+  SAVING_SETTINGS: Čuvanje konfiguracije…
+  START_DEVICE: Pokreni Uređaj
+  REFRESH: Osveži
+  BDMMODE: Početni način BDM
+  HDDMODE: Početni način HDD
+  ETHMODE: Početni način ETH
+  APPMODE: Početni način APP
+  AUTO: Automatski
+  MANUAL: Ručno
+  STARTNBD: Pokreni NBD Server
+  STARTINGNBD: Pokretanje NBD Servera…
+  RUNNINGNBD: Pokretanje NBD Servera…
+  STARTFAILNBD: Neuspešno pokretanje NBD Servera.
+  UNLOADNBD: Gašenje NBD Servera…
+  EXITTO: IGR Putanja
+  BGCOLOR: Boja Pozadine
+  TXTCOLOR: Boja Teksta
+  CAT_SMB_SERVER: '- SMB Server -'
+  IP_ADDRESS_TYPE: Vrsta IP Adrese
+  IP_ADDRESS_TYPE_STATIC: Statična
+  IP_ADDRESS_TYPE_DHCP: DHCP
+  IP_ADDRESS: IP Adresa
+  ADDRESS: Adresa
+  MASK: Maska
+  GATEWAY: Mrežni prolaz
+  DNS_SERVER: DNS Server
+  PORT: Port
+  SHARE: Deli
+  USER: Korisnik
+  PASSWORD: Lozinka
+  NOT_SET: <nije postavljeno>
+  ADDRESS_TYPE: Vrsta Adrese
+  ADDR_TYPE_IP: IP
+  ADDR_TYPE_NETBIOS: NetBIOS
+  ACCEPT: Prihvati
+  DELETE_WARNING: Stavka će biti trajno obrisana, nastaviti?
+  RENAME: Preimenuj
+  DELETE: Obriši
+  RUN: Pokreni
+  GFX_SETTINGS: Postavke Ekrana
+  ENABLE_WRITE: Operacije Pisanja
+  LASTPLAYED: Zapamti Poslednju Uključenu Igru
+  SELECTBUTTON: Taster za Odabir
+  ERR_FRAGMENTED: Greška, igra je fragmentirana.
+  ERR_FILE_INVALID: Greška, nije moguće pokrenuti ovu stavku.
+  TEST: Testiraj Promene
+  HINT_GUEST: Ostavi prazno za autent. GOSTA
+  HINT_MODE1: Tačna Čitanja
+  HINT_MODE2: Sinhronizacijski Način
+  HINT_MODE3: Otkači Syscalls
+  HINT_MODE4: Preskoči Videe
+  HINT_MODE5: Emuliraj DVD-DL
+  HINT_MODE6: Onemogući IGR
+  HINT_VMC_SIZE: Menjanje veličine će preurediti VMC.
+  CREATE: Kreiraj
+  START: Pokreni
+  MODIFY: Izmeni
+  ABORT: Prekini
+  RESET: Resetuj
+  USE_GENERIC: Koristi Generički
+  VMC_SCREEN: Konfiguriši VMC
+  VMC_NAME: Naziv VMC-a
+  SIZE: Veličina
+  VMC_STATUS: Status
+  VMC_PROGRESS: Napredak
+  VMC_FILE_EXISTS: VMC datoteka već postoji.
+  VMC_FILE_ERROR: Nevažeća VMC datoteka, veličina nije tačna.
+  VMC_FILE_NEW: VMC datoteka treba biti stvorena.
+  ERR_VMC_CONTINUE: Greška pristupanja VMC %s. Nastaviti sa Memory Cardom u slotu
+    %d?
+  AUTOREFRESH: Automatsko Osvežavanje
+  ABOUT: O
+  DEVS: Koderi
+  QANDA: Osiguranje Kvaliteta
+  BDM_PREFIX: Putanja BDM Prefiksa
+  HINT_EXITPATH: Pokreće prilagođeni ELF nakon IGR-a.
+  HINT_SPINDOWN: Vrednost u minutama, 0 za onemogućivanje zavrtanja.
+  HDD_SPINDOWN: Automatsko Zavrtanje HDD-a
+  VMODE: Video režim
+  UICOLOR: Boja korisničkog interfejsa
+  SELCOLOR: Odabrana Boja
+  RESETCOLOR: Resetuj Boje
+  INFO: Info
+  ALTSTARTUP: Prilagođeni ELF
+  COLOR_SELECTION: Odabir Boje
+  RECONNECT: Ponovo spoji
+  HINT_SHARENAME: Ostavi prazno za listu deljenja.
+  ETH_PREFIX: Putanja ETH Prefiksa
+  BACKSPACE: Brisanje
+  SPACE: Razmak
+  ENTER: Unesi
+  MODE: Način
+  VMC_SLOT1: VMC Slot 1
+  VMC_SLOT2: VMC Slot 2
+  GAME_ID: ID Igre
+  DMA_MODE: DMA Način
+  VSYNC: V-Sync
+  MODE1: Način 1
+  MODE2: Način 2
+  MODE3: Način 3
+  MODE4: Način 4
+  MODE5: Način 5
+  MODE6: Način 6
+  GSCONFIG: Konfiguriši GSM
+  ETH_OPMODE: Način Povezivanja Etherneta
+  ETH_100MFDX: 100Mbit Puni-dupleks
+  ETH_100MHDX: 100Mbit Pola-dupleksa
+  ETH_10MFDX: 10Mbit Puni-dupleks
+  ETH_10MHDX: 10Mbit Pola-dupleksa
+  GSM_SETTINGS: GSM Postavke
+  ENABLEGSM: GSM Selektor
+  HINT_ENABLEGSM: Uklj./Isklj. GSM
+  HINT_GSMVMODE: Forsirani prilagođeni način ekrana.
+  XOFFSET: H-POZ
+  HINT_XOFFSET: Horizontalno podešavanje.
+  YOFFSET: V-POZ
+  HINT_YOFFSET: Vertikalno podešavanje.
+  OVERSCAN: Skaliranje
+  HINT_OVERSCAN: Podešavanje overscana.
+  GSMSKIPVIDEOS: Preskoči FMV
+  HINT_GSMSKIPVIDEOS: Preskakanje FMV-a
+  CHEAT_SETTINGS: Cheat podešavanja
+  ENABLECHEAT: PS2RD Cheat Engine
+  HINT_ENABLECHEAT: Dopusti PS2RD Cheat Engine da zakrpa tvoju igru.
+  CHEATMODE: Način PS2RD Cheat Engine
+  HINT_CHEATMODE: Automatski odabir ili odaberi Cheat za igru.
+  CHEATMODEAUTO: Automatski Odaberi Cheat
+  CHEATMODESELECT: Odaberi Cheat mod 
+  ERR_CHEATS_LOAD_FAILED: 'Greška: neuspešno učitavanje Cheat datoteke.'
+  NO_CHEATS_FOUND: Cheatovi nisu pronađeni.
+  DL_DEFAULTS: Preuzmi Podrazumevano
+  NET_UPDATE: Mrežno Ažuriranje
+  NET_UPDATE_ALL: Prepiši Postojeće Zapise
+  NET_UPDATE_FAILED: Ažuriranje nije uspelo.
+  NET_UPDATE_CONN_FAILED: Neuspešno spajanje na server ažuriranja.
+  NET_UPDATE_DONE: Ažuriranje završeno.
+  NET_UPDATE_CANCELLED: Ažuriranje otkazano.
+  CONFIRMATION_SETTINGS_UPDATE: Preuzmi postavke sa mreže?
+  CUSTOMIZED_SETTINGS: Prilagođene Postavke
+  DOWNLOADED_DEFAULTS: Preuzeto Podrazumevano
+  AUTO_START_IN_N_SECS: Automatski pokreni za %i s…
+  AUTOSTARTLAST: Automatski pokreni
+  HINT_AUTOSTARTLAST: Vrednost u sekundama, 0 za onemogućivanje automatskog početka.
+  PS2LOGO: PS2 Logo
+  HINT_PS2LOGO: Prikazuje se za važeći logo diska koji odgovara regionu konzole.
+  PADEMUCONFIG: Konfiguriši PADEMU
+  PADEMU_SETTINGS: Postavke Pad Emulatora
+  PADEMU_ENABLE: Pad Emulator
+  HINT_PADEMU_ENABLE: Uklj./Isklj. Pad Emulator za odabranu igru.
+  PADEMU_MODE: Način Pad Emulatora
+  HINT_PADEMU_MODE: Odabire način Pad Emulatora.
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 BT
+  PADPORT: 'Postavke Za Port:'
+  HINT_PAD_PORT: Odaberi port za postavke Pad Emulatora.
+  PADEMU_PORT: Emulacija
+  HINT_PADEMU_PORT: Uklj./Isklj. Pad Emulator za odabrani port.
+  PADEMU_VIB: Vibracija
+  HINT_PADEMU_VIB: Uklj./Isklj. vibraciju za odabrani port Pad Emulatora.
+  USBDG_MAC: 'MAC Adresa USB Bluetooth Adaptera:'
+  PAD_MAC: 'DS Kontroler uparen na MAC Adresu:'
+  PAIR: Upari
+  PAIR_PAD: Upari DS Kontroler
+  HINT_PAIRPAD: Upari DS kontroler sa MAC adresom Bluetooth adaptera.
+  NOT_CONNECTED: Nije Spojeno
+  BTINFO: Informacije Bluetooth Adaptera
+  HINT_BTINFO: Prikazuje više informacija i podržana svojstva.
+  HCIVER: 'HCI Verzija:'
+  LMPVER: 'LMP Verzija:'
+  MANUFACTURER: 'ID Proizvođača:'
+  SUPFEATURES: 'Podržana Svojstva:'
+  'YES': Da
+  'NO': Ne
+  BT_SUPPORTED: Bluetooth adapter bi trebao biti potpuno kompatibilan sa DS3/DS4 kontrolerom.
+  BT_NOTSUPPORTED: Bluetooth adapter možda neće raditi ispravno sa DS3/DS4 kontrolerom.
+  MTAP_ENABLE: Emulacija Multitapa
+  HINT_MTAP_ENABLE: Uklj./Isklj. emulaciju Multitapa za odabranu igru.
+  MTAP_PORT: 'Emulator Multitapa na Portu:'
+  HINT_MTAP_PORT: Odaberi port za emulaciju Multitapa.
+  PADEMU_WORKAROUND: Zaobilazno Rešenje za Lažni DS3
+  HINT_PADEMU_WORKAROUND: Neki lažni DS3 zahtevaju zaobilazno rešenje, ova opcija će ga omogućiti.
+  GSM_FIELD_FIX: Emuliraj preklapanje FIELD-a
+  HINT_GSM_FIELD_FIX: Zakrpe za igre koje se kvare pod progresivnim video načinom.
+  PARENLOCKCONFIG: Postavke Roditeljskog Zaključavanja
+  PARENLOCK_PASSWORD: Lozinka Roditeljskog Zaključavanja
+  PARENLOCK_PASSWORD_HINT: Ostavi prazno za onemogućivanje roditeljskog zaključavanja.
+  PARENLOCK_ENTER_PASSWORD_TITLE: Unesi Lozinku Roditeljskog Zaključavanja
+  PARENLOCK_PASSWORD_INCORRECT: Lozinka roditeljskog zaključavanja nije tačna.
+  PARENLOCK_DISABLE_WARNING: Roditeljsko zaključavanje je onemogućeno.
+  BUILD_DETAILS: 'Izgradi Postavke:'
+  PARENLOCK_INVALID_PASSWORD: Greška - ova lozinka nije validna.
+  ERR_VMC_FRAGMENTED_CONTINUE: VMC %s datoteka je fragmentirana. Nastaviti sa Memory
+    Cardom u slotu %d?
+  AUDIO_SETTINGS: Postavke Zvuka
+  SFX: Zvučni Efekti
+  BOOT_SND: Zvuk Pokretanja
+  SFX_VOLUME: Glasnoća Zvučnih Efekata
+  BOOT_SND_VOLUME: Glasnoća Zvuka Pokretanja
+  CFM_VMODE_CHG: Potvrdi promenu video načina?
+  CACHE_HDD_GAME_LIST: Keš Lista Igara (HDD)
+  ENABLE_NOTIFICATIONS: Obaveštenja
+  CFG_NOTIFICATION: Konfiguracija učitana iz %s
+  THM_NOTIFICATION: Tema učitana iz %s
+  LNG_NOTIFICATION: Jezik učitan iz %s
+  PARTITION_NOTIFICATION: '%s particija montirana.'
+  OPTIONS: Opcije
+  GAME_SETTINGS_SAVED: Postavke igre su sačuvane.
+  GAME_SETTINGS_REMOVED: '%s postavke su uklonjene.'
+  NET_UPDATE_HINT: Prepisivanje postojećih postavki kompatibilnosti igre kada je omogućeno.
+  SETTINGS_SOURCE: Način Postavki
+  GLOBAL_SETTINGS: Globalno
+  PERGAME_SETTINGS: Po Igri
+  ALL_SETTINGS: Sve
+  GAME_SETTINGS_PROMPT: Odaberi postavke za ukloniti.
+  FORUM_DETAILS: 'Forumi Podrške:'
+  INFO_TITLE: Naslov
+  INFO_GENRE: Žanr
+  INFO_RELEASE: Izdanje
+  INFO_DEVELOPER: Razvojni Tim
+  INFO_DESCRIPTION: Opis
+  BLOCKDEVICE_SETTINGS: BDM Uređaji
+  CONTROLLER_SETTINGS: Postavke Kontrolera
+  HINT_BDM_START: Uklj./Isklj. Block Device Manager.
+  HINT_BLOCK_DEVICES: Uklj./Isklj. BDM Uređaje (USB/MX4SIO/ILINK/HDD).
+  USB_GAMES: USB Igre
+  ILINK_GAMES: iLink Igre
+  MX4SIO_GAMES: MX4SIO Igre
+  PADMACROCONFIG: Konfiguriši PADMACRO
+  PADMACRO_SETTINGS: Postavke Pad Makroa
+  PADMACRO_ENABLE: Pad makroi
+  PADMACRO_SLOWDOWN: 'Usporavanje Analognih:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Smanji opseg analogne palice kada je taster pritisnut.
+  LEFT_ANALOG: Leva Palica
+  RIGHT_ANALOG: Desna Palica
+  PADMACRO_INVERT_AXIS: 'Invertovanje Analogne Ose:'
+  HINT_PADMACRO_INVERT_AXIS: Invertuje osu odabrane analogne palice.
+  TURBO_SPEED: Brzina Turbo Tastera
+  HINT_TURBO_SPEED: Koliko brzo se taster pritiska kada je turbo aktivan.
+  ACT_WHILE_PRESSED: Dok je Taster Pritisnut
+  ACT_TOGGLED: Prebacivanje Tasterom
+  LANGUAGE_JAPANESE: JAPANSKI
+  LANGUAGE_ENGLISH: ENGLESKI
+  LANGUAGE_FRENCH: FRANCUSKI
+  LANGUAGE_SPANISH: ŠPANSKI
+  LANGUAGE_GERMAN: NEMAČKI
+  LANGUAGE_ITALIAN: ITALIJANSKI
+  LANGUAGE_DUTCH: HOLANDSKI
+  LANGUAGE_PORTUGUESE: PORTUGALSKI
+  LANGUAGE_RUSSIAN: RUSKI
+  LANGUAGE_KOREAN: KOREJSKI
+  LANGUAGE_TRAD_CHINESE: TRADICIONALNI KINESKI
+  LANGUAGE_SIMPL_CHINESE: POJEDNOSTAVLJENI KINESKI
+  OSD_SETTINGS: OSD Postavke
+  OSD_SETTINGS_LNG: OSD Jezik
+  HINT_OSD_SETTINGS_LNG: Forsiraj prilagođenu jezičku konfiguraciju
+  ENABLE_LNG: Omogući
+  OSD_SETTINGS_TVASPECT: Veličina Ekrana
+  FULL_SCREEN: Pun Ekran
+  OSD_SETTINGS_VMODE: Video Način
+  SYSTEM_DEFAULT: Sistemsko Podrazumevano
+  BGM: Pozadinska Muzika
+  BGM_VOLUME: Glasnoća Pozadinske Muzike
+  DEF_BGM_PATH: Podrazumevana Muzika Teme
+  DEF_BGM_PATH_HINT: Postavi putanju za strimovanje muzike za internu temu.
+  HIGH: Visoko
+  LOW: Nisko
+  XSENSITIVITY: Osetljivost Analogne X-Ose
+  YSENSITIVITY: Osetljivost Analogne Y-Ose
+  FILE_COUNT: 'Pronađeno fajlova: %i'
+  CHEAT_SELECTION: Odabir Varanja
+  HDD_HINT: Dozvoljen je samo jedan HDD, omogućavanje zaključava APA ili GPT.
