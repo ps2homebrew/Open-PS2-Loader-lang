@@ -38,12 +38,12 @@ translations:
   OK: U redu
   SELECT: Odaberi
   CANCEL: Otkaži
-  CIRCLE: Krug
-  CROSS: Krst
+  CIRCLE: O (Krug)
+  CROSS: X (Iks)
   GAMES_LIST: Lista Igara
   COMPAT_SETTINGS: Postavke Igre
   REMOVE_ALL_SETTINGS: Ukloni Postavke
-  SCROLLING: Izlistavanje
+  SCROLLING: Brzina skrolovanja
   SLOW: Sporo
   MEDIUM: Srednje
   FAST: Brzo
@@ -71,8 +71,8 @@ translations:
   STARTNBD: Pokreni NBD Server
   STARTINGNBD: Pokretanje NBD Servera…
   RUNNINGNBD: NBD Server je pokrenut.
-  STARTFAILNBD: Neuspešno pokretanje NBD Servera.
-  UNLOADNBD: Gašenje NBD Servera…
+  STARTFAILNBD: Pokretanje NBD servera nije uspelo.
+  UNLOADNBD: Zaustavljanje NBD Servera…
   EXITTO: IGR Putanja
   BGCOLOR: Boja Pozadine
   TXTCOLOR: Boja Teksta
@@ -86,7 +86,7 @@ translations:
   GATEWAY: Mrežni prolaz
   DNS_SERVER: DNS Server
   PORT: Port
-  SHARE: Deli
+  SHARE: Deljeni folder
   USER: Korisnik
   PASSWORD: Lozinka
   NOT_SET: <nije postavljeno>
@@ -131,7 +131,7 @@ translations:
     %d?
   AUTOREFRESH: Automatsko Osvežavanje
   ABOUT: O
-  DEVS: Koderi
+  DEVS: Programeri
   QANDA: Osiguranje Kvaliteta
   BDM_PREFIX: Putanja BDM Prefiksa
   HINT_EXITPATH: Pokreće prilagođeni ELF nakon IGR-a.
@@ -179,14 +179,14 @@ translations:
   OVERSCAN: Skaliranje
   HINT_OVERSCAN: Podešavanje overscana.
   GSMSKIPVIDEOS: Preskoči FMV
-  HINT_GSMSKIPVIDEOS: Preskakanje FMV-a
+  HINT_GSMSKIPVIDEOS: Preskače full motion video (FMV).
   CHEAT_SETTINGS: Cheat podešavanja
   ENABLECHEAT: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Dopusti PS2RD Cheat Engine da zakrpa tvoju igru.
   CHEATMODE: Način PS2RD Cheat Engine
   HINT_CHEATMODE: Automatski odabir ili odaberi Cheat za igru.
   CHEATMODEAUTO: Automatski Odaberi Cheat
-  CHEATMODESELECT: Odaberi Cheat mod 
+  CHEATMODESELECT: Odaberi Cheat 
   ERR_CHEATS_LOAD_FAILED: 'Greška: neuspešno učitavanje Cheat datoteke.'
   NO_CHEATS_FOUND: Cheatovi nisu pronađeni.
   DL_DEFAULTS: Preuzmi Podrazumevano
@@ -198,7 +198,7 @@ translations:
   NET_UPDATE_CANCELLED: Ažuriranje otkazano.
   CONFIRMATION_SETTINGS_UPDATE: Preuzmi postavke sa mreže?
   CUSTOMIZED_SETTINGS: Prilagođene Postavke
-  DOWNLOADED_DEFAULTS: Preuzeto Podrazumevano
+  DOWNLOADED_DEFAULTS: Preuzeta podrazumevana podešavanja
   AUTO_START_IN_N_SECS: Automatski pokreni za %i s…
   AUTOSTARTLAST: Automatski pokreni
   HINT_AUTOSTARTLAST: Vrednost u sekundama, 0 za onemogućivanje automatskog početka.
